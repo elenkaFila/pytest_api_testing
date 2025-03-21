@@ -1,0 +1,3 @@
+Checking expected status code 200
+Checking expected json schema
+Checking expected key exist in json

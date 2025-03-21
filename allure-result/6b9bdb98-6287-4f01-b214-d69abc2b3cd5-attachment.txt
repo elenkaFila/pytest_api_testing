@@ -1,0 +1,11 @@
+Checking expected status code 200
+Checking expected value: Taylor exist in json response: Taylor
+Checking expected value: Horn exist in json response: Horn
+Checking expected value: 2025-03-23 exist in json response: 2025-03-23
+Checking expected value: 2025-04-17 exist in json response: 2025-04-17
+Checking expected json schema
+Checking expected value: Taylor exist in json response: Taylor
+Checking expected value: Horn exist in json response: Horn
+Checking expected value: 2025-03-23 exist in json response: 2025-03-23
+Checking expected value: 2025-04-17 exist in json response: 2025-04-17
+Checking expected json schema

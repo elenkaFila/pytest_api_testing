@@ -1,0 +1,7 @@
+Checking expected status code 200
+Checking expected value: Brian exist in json response: Brian
+Checking expected value: Beard exist in json response: Beard
+3
+Checking expected value: 2024-10-06 exist in json response: 2024-10-06
+Checking expected value: 2025-03-19 exist in json response: 2025-03-19
+Checking expected json schema

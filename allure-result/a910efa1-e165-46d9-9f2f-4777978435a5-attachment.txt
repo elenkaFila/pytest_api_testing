@@ -1,0 +1,3 @@
+Checking expected key value 2708 exist in json
+Checking json is not empty
+Checking expected status code 200

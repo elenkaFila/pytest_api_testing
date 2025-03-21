@@ -1,0 +1,9 @@
+[2744, 2758, 2770, 2777, 2969]
+[{'bookingid': 2770}, {'bookingid': 2758}, {'bookingid': 2744}, {'bookingid': 2969}, {'bookingid': 2777}]
+Checking json is not empty
+Checking expected status code 200
+Checking expected key value 2744 exist in json
+Checking expected key value 2758 exist in json
+Checking expected key value 2770 exist in json
+Checking expected key value 2777 exist in json
+Checking expected key value 2969 exist in json

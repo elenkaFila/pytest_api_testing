@@ -1,0 +1,14 @@
+{
+    "bookingid": 2770,
+    "booking": {
+        "firstname": "Taylor",
+        "lastname": "Horn",
+        "totalprice": 744,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-03-23",
+            "checkout": "2025-04-17"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
