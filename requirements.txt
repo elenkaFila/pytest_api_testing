@@ -5,6 +5,7 @@ attrs==25.3.0
 certifi==2025.1.31
 charset-normalizer==3.4.1
 colorama==0.4.6
+Faker==37.0.2
 idna==3.10
 iniconfig==2.1.0
 packaging==24.2
@@ -14,4 +15,5 @@ pydantic_core==2.27.2
 pytest==8.3.5
 requests==2.32.3
 typing_extensions==4.12.2
+tzdata==2025.1
 urllib3==2.3.0
