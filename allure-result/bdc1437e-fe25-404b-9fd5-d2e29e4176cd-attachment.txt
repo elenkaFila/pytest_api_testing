@@ -1,4 +1,0 @@
-Checking expected status code 200
-Checking expected value: Allison exist in json response: Allison
-Checking expected value: Thompson exist in json response: Thompson
-Checking expected json schema

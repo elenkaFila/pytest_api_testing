@@ -1,8 +1,0 @@
-Checking expected status code 200
-Checking expected value: Heather exist in json response: Heather
-Checking expected value: Ramos exist in json response: Ramos
-1
-Checking expected value: 0NaN-aN-aN exist in json response: 0NaN-aN-aN
-1
-Checking expected value: 2025-04-17 exist in json response: 2025-04-17
-Checking expected json schema

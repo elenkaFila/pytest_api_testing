@@ -1,5 +1,0 @@
-Checking expected status code 200
-Checking expected value:  exist in json response: 
-Checking expected value:  exist in json response: 
-Checking expected value:  exist in json response: 
-Checking expected json schema
