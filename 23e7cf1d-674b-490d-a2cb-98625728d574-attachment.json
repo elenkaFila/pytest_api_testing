@@ -1,0 +1,14 @@
+{
+    "bookingid": 2121,
+    "booking": {
+        "firstname": "Patricia",
+        "lastname": "Long",
+        "totalprice": 889,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-04-13",
+            "checkout": "2025-04-29"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
