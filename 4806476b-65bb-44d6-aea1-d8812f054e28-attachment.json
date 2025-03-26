@@ -1,0 +1,14 @@
+{
+    "bookingid": 3412,
+    "booking": {
+        "firstname": "Rebecca",
+        "lastname": "Watts",
+        "totalprice": 678,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-04-24",
+            "checkout": "2025-05-03"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
