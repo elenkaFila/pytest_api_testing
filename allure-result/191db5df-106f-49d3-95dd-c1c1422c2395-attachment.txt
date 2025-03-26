@@ -1,3 +1,0 @@
-Checking expected status code 201
-Checking expected status code 404
-Checking expected status code 405

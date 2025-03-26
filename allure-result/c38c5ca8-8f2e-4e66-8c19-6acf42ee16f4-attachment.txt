@@ -1,7 +1,0 @@
-Checking expected status code 200
-Checking expected value: Gregory exist in json response: Gregory
-Checking expected value: May exist in json response: May
-1
-Checking expected value: 0NaN-aN-aN exist in json response: 0NaN-aN-aN
-Checking expected value: 0NaN-aN-aN exist in json response: 0NaN-aN-aN
-Checking expected json schema

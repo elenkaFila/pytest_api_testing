@@ -1,6 +1,5 @@
-FROM python:3.12.0a4-alpine3.17
+FROM python:3.10-alpine3.19
 
-# install Allure
 RUN apk update && \
     apk add openjdk11-jre curl tar && \
     curl -o allure-2.13.8.tgz -Ls https://repo.maven.apache.org/maven2/io/qameta/allure/allure-commandline/2.13.8/allure-commandline-2.13.8.tgz && \
@@ -9,9 +8,5 @@ RUN apk update && \
     rm allure-2.13.8.tgz
 
 WORKDIR /usr/workspace
-
-# Copy the dependencies file to the working directory
-COPY ./* /usr/workspace
-
-# Install Python dependencies
+COPY ./requirements.txt /usr/workspace
 RUN pip3 install -r requirements.txt

@@ -1,7 +1,0 @@
-Checking expected status code 200
-Checking expected value: Kimberly exist in json response: Kimberly
-Checking expected value: Baker exist in json response: Baker
-3
-Checking expected value: 2025-03-23 exist in json response: 2025-03-23
-Checking expected value: 2025-03-19 exist in json response: 2025-03-19
-Checking expected json schema
