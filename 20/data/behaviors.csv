@@ -1,0 +1,6 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"Update booking","Negative","Update booking by 'patch' without auth","0","0","1","0","0"
+"Create booking","Negative","Test incorrect payloads","0","0","2","0","0"
+"Create booking","Positive","Test correct dates","0","0","1","0","0"
+"Create booking","Negative","Test incorrect dates","0","0","1","0","0"
+"Create booking","Positive","Test additionalneeds in payloads","0","0","1","0","0"
