@@ -1,4 +1,0 @@
-"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
-"Create booking","Positive","Test correct dates","0","0","1","0","0"
-"Delete booking","Negative","Delete deleted booking","0","0","1","0","0"
-"Delete booking","Positive","Delete existing booking by id","0","0","1","0","0"
