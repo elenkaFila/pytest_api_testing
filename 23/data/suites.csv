@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Mar 30 18:15:40 GMT 2025","Sun Mar 30 18:15:40 GMT 2025","47","tests","test_create_booking","","","","test_incorrect_dates_create_booking[Empty dates]",""
+"passed","Sun Mar 30 18:15:41 GMT 2025","Sun Mar 30 18:15:41 GMT 2025","110","tests","test_delete_booking","","","","test_delete_deleted_booking",""
+"passed","Sun Mar 30 18:15:41 GMT 2025","Sun Mar 30 18:15:41 GMT 2025","29","tests","test_create_booking","","","","test_incorrect_dates_create_booking[Payload without dates]",""
