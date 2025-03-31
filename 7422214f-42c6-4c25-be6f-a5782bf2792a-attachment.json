@@ -1,0 +1,14 @@
+{
+    "bookingid": 4238,
+    "booking": {
+        "firstname": "Kimberly",
+        "lastname": "Levine",
+        "totalprice": 703,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2025-04-26"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

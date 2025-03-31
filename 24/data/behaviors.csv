@@ -1,0 +1,4 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"Create booking","Negative","Test incorrect payloads","0","0","2","0","0"
+"Authorization","Negative","","0","0","1","0","0"
+"Update booking","Negative","Update booking by 'put' with wrong type data","0","0","1","0","0"
