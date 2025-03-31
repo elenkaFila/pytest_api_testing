@@ -17,26 +17,30 @@ jobs:
       #clone repo
       - uses: actions/checkout@v3
       
-      - name: Get Allure history
-        uses: actions/checkout@v2
-        if: always()
-        continue-on-error: true
+      - name: Checkout gh-pages to github runner
+        uses: actions/checkout@v2  
         with:
           ref: gh-pages
-          path: gh-pages
+          path: ./.github/gh-pages
 
       - name: Run tests via docker-compose
         run: |
           docker compose build tests
           docker compose up tests
      
+      - name: Make directory history
+        run:
+          sudo mkdir -p allure-results/history
+          
+      - name: Copy history
+        run:
+          sudo cp -R ./.github/gh-pages/last-history/* allure-results/history/
       - name: Generate Allure report
-        uses: simple-elf/allure-report-action@master
+        uses: simple-elf/allure-report-action@v1.7
         if: always()
         with:
           allure_results: allure-results
-          allure_history: allure-history
-          keep_reports: 20
+          allure_history: allure-results
 
       - name: Publish Allure report on GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
