@@ -1,1 +1,0 @@
-[{"uid":"a77974de57d955fe","name":"test_get_bookings_with_filter_dates","time":{"start":1743407117635,"stop":1743407118708,"duration":1073},"status":"passed","severity":"normal"},{"uid":"b5778a0a7ef6df1c","name":"test_delete_booking","time":{"start":1743407115363,"stop":1743407115634,"duration":271},"status":"passed","severity":"normal"}]

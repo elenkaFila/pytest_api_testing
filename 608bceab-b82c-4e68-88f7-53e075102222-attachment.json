@@ -1,0 +1,14 @@
+{
+    "bookingid": 3710,
+    "booking": {
+        "firstname": "Elizabeth",
+        "lastname": "Crawford",
+        "totalprice": 287,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-04-10",
+            "checkout": "2025-04-23"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
