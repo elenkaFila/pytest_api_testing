@@ -1,0 +1,14 @@
+{
+    "bookingid": 1995,
+    "booking": {
+        "firstname": "Amber",
+        "lastname": "Griffin",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-04-10",
+            "checkout": "2025-04-26"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

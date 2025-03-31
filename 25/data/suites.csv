@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Mar 31 07:44:54 GMT 2025","Mon Mar 31 07:44:54 GMT 2025","227","tests","test_create_booking","","","","test_incorrect_dates_create_booking[Wrong dates 'checkin>checkout']",""
