@@ -1,1 +1,0 @@
-{"090b722822fbadb53bc37596720690c1":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"a4e551fd11545b71","reportUrl":"https://elenkaFila.github.io/pytest_api_testing/25//#testresult/a4e551fd11545b71","status":"passed","time":{"start":1743407094370,"stop":1743407094597,"duration":227}}]}}

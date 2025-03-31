@@ -1,0 +1,3 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"Getting booking","Positive","Get bookings by date","0","0","1","0","0"
+"Delete booking","Positive","Delete existing booking by id","0","0","1","0","0"

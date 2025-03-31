@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Mar 31 07:45:17 GMT 2025","Mon Mar 31 07:45:18 GMT 2025","1073","tests","test_get_bookings","","","","test_get_bookings_with_filter_dates",""
+"passed","Mon Mar 31 07:45:15 GMT 2025","Mon Mar 31 07:45:15 GMT 2025","271","tests","test_delete_booking","","","","test_delete_booking",""
