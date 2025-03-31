@@ -1,6 +1,0 @@
-"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
-"Getting booking","Positive","Get bookings by date","0","0","1","0","0"
-"Getting booking","Positive","Get all bookings","0","0","1","0","0"
-"Getting booking","Negative","Get booking by id","0","0","1","0","0"
-"Create booking","Negative","Test incorrect payloads","0","0","1","0","0"
-"Create booking","Negative","Test incorrect dates","0","0","1","0","0"

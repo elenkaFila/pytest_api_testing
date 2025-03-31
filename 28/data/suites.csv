@@ -1,6 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Mar 31 08:17:16 GMT 2025","Mon Mar 31 08:17:17 GMT 2025","1098","tests","test_get_bookings","","","","test_get_bookings_with_filter_dates",""
-"passed","Mon Mar 31 08:17:15 GMT 2025","Mon Mar 31 08:17:15 GMT 2025","329","tests","test_get_bookings","","","","test_get_bookings_all_ids",""
-"passed","Mon Mar 31 08:17:15 GMT 2025","Mon Mar 31 08:17:15 GMT 2025","271","tests","test_get_bookings","","","","test_get_booking",""
-"passed","Mon Mar 31 08:17:13 GMT 2025","Mon Mar 31 08:17:13 GMT 2025","189","tests","test_create_booking","","","","test_incorrect_payloads_create_booking[Empty payload]",""
-"passed","Mon Mar 31 08:17:12 GMT 2025","Mon Mar 31 08:17:13 GMT 2025","189","tests","test_create_booking","","","","test_incorrect_dates_create_booking[Empty one day]",""

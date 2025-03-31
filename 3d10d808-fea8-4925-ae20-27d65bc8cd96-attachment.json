@@ -1,0 +1,14 @@
+{
+    "bookingid": 2471,
+    "booking": {
+        "firstname": "Phyllis",
+        "lastname": "Watson",
+        "totalprice": 435,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2024-10-16",
+            "checkout": "2025-03-02"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
