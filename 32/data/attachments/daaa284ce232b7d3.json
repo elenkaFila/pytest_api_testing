@@ -1,0 +1,14 @@
+{
+    "bookingid": 3311,
+    "booking": {
+        "firstname": "Rachel",
+        "lastname": "Summers",
+        "totalprice": 955,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-03-31",
+            "checkout": "2025-03-31"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

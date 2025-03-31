@@ -1,0 +1,14 @@
+{
+    "bookingid": 3361,
+    "booking": {
+        "firstname": "Roberto",
+        "lastname": "Rogers",
+        "totalprice": 910,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-04-02",
+            "checkout": "2025-05-03"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

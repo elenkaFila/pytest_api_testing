@@ -1,0 +1,13 @@
+{
+    "bookingid": 3322,
+    "booking": {
+        "firstname": "Natalie",
+        "lastname": "Lyons",
+        "totalprice": 497,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-04-02",
+            "checkout": "2025-05-03"
+        }
+    }
+}
