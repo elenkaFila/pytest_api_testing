@@ -1,0 +1,14 @@
+{
+    "bookingid": 3832,
+    "booking": {
+        "firstname": "Gina",
+        "lastname": "Salas",
+        "totalprice": 900,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-03-31",
+            "checkout": "2025-03-31"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 3833,
+    "booking": {
+        "firstname": "John",
+        "lastname": "Garza",
+        "totalprice": 148,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2024-10-08",
+            "checkout": "2025-03-29"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
