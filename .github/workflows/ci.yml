@@ -16,36 +16,32 @@ jobs:
     steps:
       #clone repo
       - uses: actions/checkout@v3
-    
-      - name: Get Test Results history
-        uses: actions/checkout@v3
-        if: always()
-        continue-on-error: true
-        with:
-          ref: gh-pages
-          path: gh-pages
 
       - name: Run tests via docker-compose
         run: |
           docker compose build tests
           docker compose up tests
-
-      - name: Create Test Results History
-        uses: PavanMudigonda/allure-html-reporter-github-pages@v1.0
+      
+      - name: Get Allure history
+        uses: actions/checkout@v2
         if: always()
-        id: allure-report
+        continue-on-error: true
         with:
-          token: ${{ secrets.CI_TOKEN }}
-          WORKFLOW_ID: cu.yml
-          allure_results: allure-results
-          gh_pages: gh-pages
-          allure_report: allure-report
-          allure_history: allure-history
+          ref: gh-pages
+          path: gh-pages
           
-      - name: Publish Allure report on GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Allure Report action from marketplace
+        uses: simple-elf/allure-report-action@master
         if: always()
         with:
-          github_token: ${{ secrets.CI_TOKEN }}
-          publish_branch: gh-pages
-          publish_dir: allure-results
+          allure_results: allure-results
+          allure_history: allure-history
+          keep_reports: 20
+     
+      - name: Deploy report to Github Pages
+        if: always()
+        uses: peaceiris/actions-gh-pages@v2
+        env:
+          PERSONAL_TOKEN: ${{ secrets.CI_TOKEN }}
+          PUBLISH_BRANCH: gh-pages
+          PUBLISH_DIR: allure-history
