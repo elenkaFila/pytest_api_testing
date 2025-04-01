@@ -1,0 +1,14 @@
+{
+    "bookingid": 3770,
+    "booking": {
+        "firstname": "Kristin",
+        "lastname": "Torres",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-04-03",
+            "checkout": "2025-04-25"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
