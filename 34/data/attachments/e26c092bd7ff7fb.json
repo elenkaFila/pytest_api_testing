@@ -1,0 +1,14 @@
+{
+    "bookingid": 5208,
+    "booking": {
+        "firstname": "Erica",
+        "lastname": "Caldwell",
+        "totalprice": 367,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-04-03",
+            "checkout": "2025-03-11"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
