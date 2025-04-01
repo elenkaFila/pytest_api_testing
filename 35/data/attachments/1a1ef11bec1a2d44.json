@@ -1,0 +1,14 @@
+{
+    "bookingid": 4304,
+    "booking": {
+        "firstname": "Maria",
+        "lastname": "Robles",
+        "totalprice": 613,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-04-08",
+            "checkout": "2025-03-12"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
