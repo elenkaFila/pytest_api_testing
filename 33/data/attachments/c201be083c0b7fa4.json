@@ -1,0 +1,14 @@
+{
+    "bookingid": 2802,
+    "booking": {
+        "firstname": "Kathryn",
+        "lastname": "Burnett",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-04-15",
+            "checkout": "2025-05-05"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

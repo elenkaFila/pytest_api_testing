@@ -1,0 +1,14 @@
+{
+    "bookingid": 2707,
+    "booking": {
+        "firstname": "Kathryn",
+        "lastname": "Burnett",
+        "totalprice": 888,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-04-15",
+            "checkout": "2025-05-05"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

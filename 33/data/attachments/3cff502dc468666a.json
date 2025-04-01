@@ -1,0 +1,13 @@
+{
+    "bookingid": 2728,
+    "booking": {
+        "firstname": "Christopher",
+        "lastname": "Thomas",
+        "totalprice": 933,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-04-15",
+            "checkout": "2025-05-05"
+        }
+    }
+}
