@@ -28,6 +28,7 @@ def test_delete_booking():
 @allure.feature('Negative')
 @allure.story('Delete deleted booking')
 def test_delete_deleted_booking():
+    
     # 1) Creating new booking
     # 2) Creating new auth token for getting access to DELETE method.
     # 3) Deleting booking by id. Asserting status code is 201
