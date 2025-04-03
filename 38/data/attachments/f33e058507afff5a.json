@@ -1,0 +1,14 @@
+{
+    "bookingid": 3201,
+    "booking": {
+        "firstname": "Jimmy",
+        "lastname": "Ewing",
+        "totalprice": 706,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-04-15",
+            "checkout": "2025-04-23"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

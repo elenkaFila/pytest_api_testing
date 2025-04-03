@@ -1,0 +1,14 @@
+{
+    "bookingid": 3160,
+    "booking": {
+        "firstname": "James",
+        "lastname": "Nelson",
+        "totalprice": 225,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-04-15",
+            "checkout": "2025-03-19"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

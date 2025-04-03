@@ -1,0 +1,13 @@
+{
+    "bookingid": 3165,
+    "booking": {
+        "firstname": "Lindsay",
+        "lastname": "Gallagher",
+        "totalprice": 541,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-04-15",
+            "checkout": "2025-04-23"
+        }
+    }
+}
