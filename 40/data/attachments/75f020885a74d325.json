@@ -1,0 +1,14 @@
+{
+    "bookingid": 2149,
+    "booking": {
+        "firstname": "Kimberly",
+        "lastname": "Mcmillan",
+        "totalprice": 637,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-04-14",
+            "checkout": "2025-04-16"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
