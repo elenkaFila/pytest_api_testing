@@ -1,0 +1,14 @@
+{
+    "bookingid": 8108,
+    "booking": {
+        "firstname": "Tyler",
+        "lastname": "Costa",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-04-10",
+            "checkout": "2025-05-09"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
