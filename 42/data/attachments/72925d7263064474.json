@@ -1,0 +1,14 @@
+{
+    "bookingid": 3379,
+    "booking": {
+        "firstname": "Renee",
+        "lastname": "Friedman",
+        "totalprice": 841,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2024-10-15",
+            "checkout": "2025-03-25"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
