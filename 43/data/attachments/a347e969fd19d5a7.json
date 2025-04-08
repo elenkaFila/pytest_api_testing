@@ -1,0 +1,11 @@
+{
+    "firstname": "Monique",
+    "lastname": "Vega",
+    "totalprice": null,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2025-04-27",
+        "checkout": "2025-05-10"
+    },
+    "additionalneeds": "breakfast, pool, lunch"
+}
