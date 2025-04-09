@@ -1,0 +1,14 @@
+{
+    "bookingid": 3846,
+    "booking": {
+        "firstname": "Cindy",
+        "lastname": "Guzman",
+        "totalprice": 639,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
