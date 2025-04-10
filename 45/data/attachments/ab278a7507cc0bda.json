@@ -1,0 +1,14 @@
+{
+    "bookingid": 3366,
+    "booking": {
+        "firstname": "Elaine",
+        "lastname": "Barnes",
+        "totalprice": 722,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2024-10-31",
+            "checkout": "2025-03-11"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

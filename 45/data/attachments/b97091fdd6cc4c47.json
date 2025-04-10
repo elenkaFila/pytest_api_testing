@@ -1,0 +1,14 @@
+{
+    "bookingid": 3370,
+    "booking": {
+        "firstname": "Leonard",
+        "lastname": "Rios",
+        "totalprice": 407,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-05-04",
+            "checkout": "2025-03-11"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
