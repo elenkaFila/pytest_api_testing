@@ -1,0 +1,13 @@
+{
+    "bookingid": 3471,
+    "booking": {
+        "firstname": "Brent",
+        "lastname": "Brooks",
+        "totalprice": 150,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-04-26",
+            "checkout": "2025-05-20"
+        }
+    }
+}

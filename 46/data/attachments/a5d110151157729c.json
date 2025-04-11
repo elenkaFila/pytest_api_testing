@@ -1,0 +1,14 @@
+{
+    "bookingid": 3500,
+    "booking": {
+        "firstname": "Steven",
+        "lastname": "Torres",
+        "totalprice": 935,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-04-26",
+            "checkout": "2025-05-20"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

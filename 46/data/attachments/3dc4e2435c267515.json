@@ -1,0 +1,14 @@
+{
+    "bookingid": 3473,
+    "booking": {
+        "firstname": "Ian",
+        "lastname": "Hammond",
+        "totalprice": 884,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-04-26",
+            "checkout": "2025-05-20"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
