@@ -1,0 +1,13 @@
+{
+    "bookingid": 3146,
+    "booking": {
+        "firstname": "Grace",
+        "lastname": "Gomez",
+        "totalprice": 916,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-04-30",
+            "checkout": "2025-05-10"
+        }
+    }
+}

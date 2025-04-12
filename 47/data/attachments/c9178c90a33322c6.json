@@ -1,0 +1,11 @@
+{
+    "firstname": "Eric",
+    "lastname": "Fleming",
+    "totalprice": null,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2025-04-30",
+        "checkout": "2025-05-10"
+    },
+    "additionalneeds": "pool"
+}
