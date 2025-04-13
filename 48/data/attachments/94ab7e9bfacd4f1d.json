@@ -1,0 +1,14 @@
+{
+    "bookingid": 2927,
+    "booking": {
+        "firstname": "Richard",
+        "lastname": "Benson",
+        "totalprice": 247,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-05-08",
+            "checkout": "2025-04-24"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
