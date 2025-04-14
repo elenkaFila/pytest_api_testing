@@ -1,0 +1,14 @@
+{
+    "bookingid": 8350,
+    "booking": {
+        "firstname": "Madeline",
+        "lastname": "Fox",
+        "totalprice": 448,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-04-16",
+            "checkout": "2025-03-25"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
