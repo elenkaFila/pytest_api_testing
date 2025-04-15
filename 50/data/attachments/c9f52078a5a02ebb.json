@@ -1,0 +1,14 @@
+{
+    "bookingid": 2847,
+    "booking": {
+        "firstname": "James",
+        "lastname": "Camacho",
+        "totalprice": 845,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2024-11-06",
+            "checkout": "2025-04-06"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
