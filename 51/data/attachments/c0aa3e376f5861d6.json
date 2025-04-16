@@ -1,0 +1,11 @@
+{
+    "firstname": "Mark",
+    "lastname": "Church",
+    "totalprice": null,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2025-04-25",
+        "checkout": "2025-05-15"
+    },
+    "additionalneeds": "breakfast, pool, lunch"
+}
