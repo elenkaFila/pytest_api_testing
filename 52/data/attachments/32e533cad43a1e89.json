@@ -1,0 +1,14 @@
+{
+    "bookingid": 3496,
+    "booking": {
+        "firstname": "Kimberly",
+        "lastname": "Rivas",
+        "totalprice": 166,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2024-11-14",
+            "checkout": "2025-04-09"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

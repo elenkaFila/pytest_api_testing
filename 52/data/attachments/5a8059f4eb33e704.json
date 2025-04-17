@@ -1,0 +1,14 @@
+{
+    "bookingid": 3543,
+    "booking": {
+        "firstname": "Robin",
+        "lastname": "Harrington",
+        "totalprice": 623,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-04-19",
+            "checkout": "2025-05-07"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

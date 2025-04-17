@@ -1,0 +1,14 @@
+{
+    "bookingid": 3581,
+    "booking": {
+        "firstname": "Austin",
+        "lastname": "Smith",
+        "totalprice": 303,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-04-19",
+            "checkout": "2025-05-07"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
