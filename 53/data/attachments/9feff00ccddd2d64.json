@@ -1,0 +1,14 @@
+{
+    "bookingid": 3247,
+    "booking": {
+        "firstname": "Bethany",
+        "lastname": "Davis",
+        "totalprice": 509,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-05-13",
+            "checkout": "2025-05-20"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

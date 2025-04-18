@@ -1,0 +1,13 @@
+{
+    "bookingid": 3187,
+    "booking": {
+        "firstname": "Tammy",
+        "lastname": "Gibson",
+        "totalprice": 853,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-05-13",
+            "checkout": "2025-05-20"
+        }
+    }
+}
