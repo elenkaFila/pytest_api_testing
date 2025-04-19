@@ -1,0 +1,14 @@
+{
+    "bookingid": 2220,
+    "booking": {
+        "firstname": "Susan",
+        "lastname": "Collier",
+        "totalprice": 528,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-04-26",
+            "checkout": "2025-05-17"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

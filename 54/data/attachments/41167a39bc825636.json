@@ -1,0 +1,14 @@
+{
+    "bookingid": 2207,
+    "booking": {
+        "firstname": "Yolanda",
+        "lastname": "Padilla",
+        "totalprice": 788,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

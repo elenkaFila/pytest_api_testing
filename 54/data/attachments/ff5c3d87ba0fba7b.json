@@ -1,0 +1,14 @@
+{
+    "bookingid": 2211,
+    "booking": {
+        "firstname": "Troy",
+        "lastname": "Lane",
+        "totalprice": 106,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-04-26",
+            "checkout": "2025-03-31"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

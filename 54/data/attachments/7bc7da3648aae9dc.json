@@ -1,0 +1,13 @@
+{
+    "bookingid": 2218,
+    "booking": {
+        "firstname": "Yolanda",
+        "lastname": "Reyes",
+        "totalprice": 640,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-04-26",
+            "checkout": "2025-05-17"
+        }
+    }
+}
