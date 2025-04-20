@@ -1,0 +1,14 @@
+{
+    "bookingid": 2480,
+    "booking": {
+        "firstname": "Heather",
+        "lastname": "Ware",
+        "totalprice": 737,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2025-05-01"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

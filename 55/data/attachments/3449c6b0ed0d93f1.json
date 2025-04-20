@@ -1,0 +1,13 @@
+{
+    "bookingid": 2491,
+    "booking": {
+        "firstname": "Anna",
+        "lastname": "Perez",
+        "totalprice": 647,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-04-23",
+            "checkout": "2025-05-01"
+        }
+    }
+}
