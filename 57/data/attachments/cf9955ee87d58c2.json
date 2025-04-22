@@ -1,0 +1,14 @@
+{
+    "bookingid": 3835,
+    "booking": {
+        "firstname": "Austin",
+        "lastname": "Carr",
+        "totalprice": 396,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

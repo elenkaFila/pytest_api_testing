@@ -1,0 +1,14 @@
+{
+    "bookingid": 3978,
+    "booking": {
+        "firstname": "Barry",
+        "lastname": "Matthews",
+        "totalprice": 685,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-05-17",
+            "checkout": "2025-05-18"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
