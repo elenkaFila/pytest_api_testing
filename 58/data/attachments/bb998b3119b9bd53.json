@@ -1,0 +1,14 @@
+{
+    "bookingid": 3745,
+    "booking": {
+        "firstname": "Carly",
+        "lastname": "Zuniga",
+        "totalprice": 361,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-05-07",
+            "checkout": "2025-05-25"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
