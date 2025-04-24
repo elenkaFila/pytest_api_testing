@@ -1,0 +1,14 @@
+{
+    "bookingid": 3368,
+    "booking": {
+        "firstname": "Meredith",
+        "lastname": "Lambert",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-05-17",
+            "checkout": "2025-06-02"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 3316,
+    "booking": {
+        "firstname": "Debbie",
+        "lastname": "Mercado",
+        "totalprice": 267,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-05-17",
+            "checkout": "2025-04-09"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
