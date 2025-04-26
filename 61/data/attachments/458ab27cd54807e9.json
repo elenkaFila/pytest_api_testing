@@ -1,0 +1,14 @@
+{
+    "bookingid": 2413,
+    "booking": {
+        "firstname": "Rebecca",
+        "lastname": "Nixon",
+        "totalprice": 462,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-05-03",
+            "checkout": "2025-06-04"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
