@@ -1,0 +1,14 @@
+{
+    "bookingid": 2684,
+    "booking": {
+        "firstname": "Veronica",
+        "lastname": "Gross",
+        "totalprice": 611,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-04-27",
+            "checkout": "2025-04-27"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
