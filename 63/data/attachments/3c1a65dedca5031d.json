@@ -1,0 +1,14 @@
+{
+    "bookingid": 4039,
+    "booking": {
+        "firstname": "Tara",
+        "lastname": "Mercado",
+        "totalprice": 207,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-04-29",
+            "checkout": "2025-05-15"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
