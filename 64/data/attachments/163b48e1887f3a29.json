@@ -1,0 +1,14 @@
+{
+    "bookingid": 3867,
+    "booking": {
+        "firstname": "Susan",
+        "lastname": "Manning",
+        "totalprice": 287,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-04-29",
+            "checkout": "2025-04-29"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
