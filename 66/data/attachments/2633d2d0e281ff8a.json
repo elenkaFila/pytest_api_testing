@@ -1,0 +1,14 @@
+{
+    "bookingid": 3675,
+    "booking": {
+        "firstname": "Matthew",
+        "lastname": "Bentley",
+        "totalprice": 423,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2025-06-02"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
