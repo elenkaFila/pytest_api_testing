@@ -1,0 +1,14 @@
+{
+    "bookingid": 3465,
+    "booking": {
+        "firstname": "Rachel",
+        "lastname": "Arellano",
+        "totalprice": 613,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
