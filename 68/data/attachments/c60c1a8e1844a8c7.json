@@ -1,0 +1,14 @@
+{
+    "bookingid": 2736,
+    "booking": {
+        "firstname": "Olivia",
+        "lastname": "Young",
+        "totalprice": 485,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-05-27",
+            "checkout": "2025-05-16"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
