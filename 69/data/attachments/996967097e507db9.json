@@ -1,0 +1,14 @@
+{
+    "bookingid": 3290,
+    "booking": {
+        "firstname": "Makayla",
+        "lastname": "Petersen",
+        "totalprice": 600,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-05-14",
+            "checkout": "2025-06-02"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

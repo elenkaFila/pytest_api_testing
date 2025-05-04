@@ -1,0 +1,14 @@
+{
+    "bookingid": 3293,
+    "booking": {
+        "firstname": "Connor",
+        "lastname": "Cline",
+        "totalprice": 465,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2024-11-13",
+            "checkout": "2025-04-05"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
