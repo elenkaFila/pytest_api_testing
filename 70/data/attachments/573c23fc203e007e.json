@@ -1,0 +1,14 @@
+{
+    "bookingid": 2250,
+    "booking": {
+        "firstname": "Jessica",
+        "lastname": "Zimmerman",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-05-09",
+            "checkout": "2025-06-08"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

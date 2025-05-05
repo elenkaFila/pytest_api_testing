@@ -1,0 +1,14 @@
+{
+    "bookingid": 2164,
+    "booking": {
+        "firstname": "Steven",
+        "lastname": "Aguilar",
+        "totalprice": 146,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2024-11-28",
+            "checkout": "2025-04-08"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

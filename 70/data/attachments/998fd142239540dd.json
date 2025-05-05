@@ -1,0 +1,14 @@
+{
+    "bookingid": 2169,
+    "booking": {
+        "firstname": "Kevin",
+        "lastname": "Medina",
+        "totalprice": 265,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2025-06-08"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

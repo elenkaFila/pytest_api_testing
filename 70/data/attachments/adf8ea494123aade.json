@@ -1,0 +1,14 @@
+{
+    "bookingid": 2166,
+    "booking": {
+        "firstname": "Laura",
+        "lastname": "Burns",
+        "totalprice": 813,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
