@@ -1,0 +1,14 @@
+{
+    "bookingid": 5237,
+    "booking": {
+        "firstname": "Patricia",
+        "lastname": "Valentine",
+        "totalprice": 370,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-05-07",
+            "checkout": "2025-05-24"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
