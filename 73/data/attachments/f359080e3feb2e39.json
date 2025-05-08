@@ -1,0 +1,14 @@
+{
+    "bookingid": 3621,
+    "booking": {
+        "firstname": "Margaret",
+        "lastname": "Fletcher",
+        "totalprice": 448,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2025-06-05"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
