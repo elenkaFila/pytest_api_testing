@@ -1,0 +1,14 @@
+{
+    "bookingid": 2591,
+    "booking": {
+        "firstname": "Karen",
+        "lastname": "Coleman",
+        "totalprice": 526,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2025-05-27"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
