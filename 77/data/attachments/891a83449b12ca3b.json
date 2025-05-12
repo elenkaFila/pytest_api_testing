@@ -1,0 +1,14 @@
+{
+    "bookingid": 4327,
+    "booking": {
+        "firstname": "April",
+        "lastname": "Wheeler",
+        "totalprice": 869,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-05-15",
+            "checkout": "2025-05-30"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "bookingid": 4321,
+    "booking": {
+        "firstname": "David",
+        "lastname": "Becker",
+        "totalprice": 661,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-05-15",
+            "checkout": "2025-05-30"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 4427,
+    "booking": {
+        "firstname": "Kirk",
+        "lastname": "Becker",
+        "totalprice": 501,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-05-15",
+            "checkout": "2025-05-30"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
