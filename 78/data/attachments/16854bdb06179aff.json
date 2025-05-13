@@ -1,0 +1,14 @@
+{
+    "bookingid": 4531,
+    "booking": {
+        "firstname": "Tammy",
+        "lastname": "Briggs",
+        "totalprice": 160,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-05-13",
+            "checkout": "2025-05-13"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

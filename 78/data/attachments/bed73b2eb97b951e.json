@@ -1,0 +1,14 @@
+{
+    "bookingid": 4638,
+    "booking": {
+        "firstname": "Patricia",
+        "lastname": "Cervantes",
+        "totalprice": 420,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-05-25",
+            "checkout": "2025-06-06"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
