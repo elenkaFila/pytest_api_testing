@@ -1,0 +1,14 @@
+{
+    "bookingid": 3465,
+    "booking": {
+        "firstname": "Paula",
+        "lastname": "Castillo",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-05-17",
+            "checkout": "2025-06-11"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
