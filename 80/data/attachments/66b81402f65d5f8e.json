@@ -1,0 +1,14 @@
+{
+    "bookingid": 4216,
+    "booking": {
+        "firstname": "Eugene",
+        "lastname": "Maldonado",
+        "totalprice": 602,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-06-05",
+            "checkout": "2025-06-13"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

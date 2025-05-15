@@ -1,0 +1,14 @@
+{
+    "bookingid": 4340,
+    "booking": {
+        "firstname": "Kevin",
+        "lastname": "Maldonado",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-06-05",
+            "checkout": "2025-06-13"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

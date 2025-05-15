@@ -1,0 +1,14 @@
+{
+    "bookingid": 4250,
+    "booking": {
+        "firstname": "Kevin",
+        "lastname": "Maldonado",
+        "totalprice": 483,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-06-05",
+            "checkout": "2025-06-13"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
