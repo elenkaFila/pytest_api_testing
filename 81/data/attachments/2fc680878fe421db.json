@@ -1,0 +1,14 @@
+{
+    "bookingid": 4015,
+    "booking": {
+        "firstname": "Candace",
+        "lastname": "Stevens",
+        "totalprice": 568,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2025-05-30"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
