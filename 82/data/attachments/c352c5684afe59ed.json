@@ -1,0 +1,14 @@
+{
+    "bookingid": 3444,
+    "booking": {
+        "firstname": "Ariana",
+        "lastname": "Hunter",
+        "totalprice": 841,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-06-10",
+            "checkout": "2025-06-21"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

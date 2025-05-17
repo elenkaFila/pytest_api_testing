@@ -1,0 +1,13 @@
+{
+    "bookingid": 3400,
+    "booking": {
+        "firstname": "Bonnie",
+        "lastname": "Hooper",
+        "totalprice": 699,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-06-10",
+            "checkout": "2025-06-21"
+        }
+    }
+}
