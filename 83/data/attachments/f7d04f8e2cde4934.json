@@ -1,0 +1,14 @@
+{
+    "bookingid": 3525,
+    "booking": {
+        "firstname": "Felicia",
+        "lastname": "Hale",
+        "totalprice": 545,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-05-24",
+            "checkout": "2025-05-31"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
