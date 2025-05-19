@@ -1,0 +1,14 @@
+{
+    "bookingid": 4314,
+    "booking": {
+        "firstname": "Tara",
+        "lastname": "Moody",
+        "totalprice": 737,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2024-12-11",
+            "checkout": "2025-05-17"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
