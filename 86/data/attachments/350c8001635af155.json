@@ -1,0 +1,14 @@
+{
+    "bookingid": 4206,
+    "booking": {
+        "firstname": "",
+        "lastname": "",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": ""
+    }
+}

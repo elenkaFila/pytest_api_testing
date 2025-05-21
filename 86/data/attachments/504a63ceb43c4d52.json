@@ -1,0 +1,14 @@
+{
+    "bookingid": 4195,
+    "booking": {
+        "firstname": "Sophia",
+        "lastname": "Wright",
+        "totalprice": 364,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2024-12-01",
+            "checkout": "2025-05-14"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

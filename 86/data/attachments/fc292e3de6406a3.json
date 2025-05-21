@@ -1,0 +1,14 @@
+{
+    "bookingid": 4226,
+    "booking": {
+        "firstname": "Brenda",
+        "lastname": "Baker",
+        "totalprice": 354,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-06-08",
+            "checkout": "2025-06-12"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
