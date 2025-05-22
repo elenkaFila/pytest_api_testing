@@ -1,0 +1,14 @@
+{
+    "bookingid": 4181,
+    "booking": {
+        "firstname": "Aaron",
+        "lastname": "Owens",
+        "totalprice": 131,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-06-11",
+            "checkout": "2025-05-14"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

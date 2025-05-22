@@ -1,0 +1,14 @@
+{
+    "bookingid": 4177,
+    "booking": {
+        "firstname": "Rachel",
+        "lastname": "Barnes",
+        "totalprice": 243,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

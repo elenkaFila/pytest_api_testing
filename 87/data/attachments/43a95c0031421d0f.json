@@ -1,0 +1,14 @@
+{
+    "bookingid": 4179,
+    "booking": {
+        "firstname": "Ivan",
+        "lastname": "Pena",
+        "totalprice": 143,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2025-06-27"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

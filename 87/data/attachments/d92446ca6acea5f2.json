@@ -1,0 +1,13 @@
+{
+    "bookingid": 4188,
+    "booking": {
+        "firstname": "Anthony",
+        "lastname": "Rivera",
+        "totalprice": 122,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-06-11",
+            "checkout": "2025-06-27"
+        }
+    }
+}
