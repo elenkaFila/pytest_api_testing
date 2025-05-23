@@ -1,0 +1,11 @@
+{
+    "firstname": "Carolyn",
+    "lastname": "Brown",
+    "totalprice": 440,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2025-06-05",
+        "checkout": "2025-07-01"
+    },
+    "additionalneeds": "breakfast, pool, lunch"
+}
