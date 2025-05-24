@@ -1,0 +1,13 @@
+{
+    "bookingid": 3063,
+    "booking": {
+        "firstname": "Nicholas",
+        "lastname": "Mcpherson",
+        "totalprice": 759,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-06-08",
+            "checkout": "2025-06-11"
+        }
+    }
+}
