@@ -1,0 +1,11 @@
+{
+    "firstname": "Michael",
+    "lastname": "Fletcher",
+    "totalprice": 977,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2025-06-06",
+        "checkout": "2025-06-29"
+    },
+    "additionalneeds": "breakfast, pool, lunch"
+}
