@@ -1,0 +1,14 @@
+{
+    "bookingid": 44221,
+    "booking": {
+        "firstname": "Andrew",
+        "lastname": "Koch",
+        "totalprice": 364,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-06-14",
+            "checkout": "2025-07-02"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

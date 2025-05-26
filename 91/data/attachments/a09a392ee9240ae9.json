@@ -1,0 +1,14 @@
+{
+    "bookingid": 44148,
+    "booking": {
+        "firstname": "Renee",
+        "lastname": "Park",
+        "totalprice": 850,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2024-12-05",
+            "checkout": "2025-05-16"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
