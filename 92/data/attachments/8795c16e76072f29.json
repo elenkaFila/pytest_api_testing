@@ -1,0 +1,14 @@
+{
+    "bookingid": 3609,
+    "booking": {
+        "firstname": "Deborah",
+        "lastname": "Lutz",
+        "totalprice": 150,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-05-27",
+            "checkout": "2025-05-27"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
