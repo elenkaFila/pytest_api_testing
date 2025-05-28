@@ -1,0 +1,14 @@
+{
+    "bookingid": 3445,
+    "booking": {
+        "firstname": "Stacy",
+        "lastname": "Hess",
+        "totalprice": 289,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2024-12-05",
+            "checkout": "2025-05-21"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

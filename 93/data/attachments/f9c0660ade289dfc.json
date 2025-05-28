@@ -1,0 +1,14 @@
+{
+    "bookingid": 3524,
+    "booking": {
+        "firstname": "Rebecca",
+        "lastname": "Webster",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-06-02",
+            "checkout": "2025-07-01"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
