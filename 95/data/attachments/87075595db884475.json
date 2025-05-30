@@ -1,0 +1,14 @@
+{
+    "bookingid": 4066,
+    "booking": {
+        "firstname": "Joseph",
+        "lastname": "Pham",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-05-31",
+            "checkout": "2025-06-17"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
