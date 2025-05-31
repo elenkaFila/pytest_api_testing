@@ -1,0 +1,14 @@
+{
+    "bookingid": 3443,
+    "booking": {
+        "firstname": "Kayla",
+        "lastname": "Hardin",
+        "totalprice": 112,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2024-12-30",
+            "checkout": "2025-05-27"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

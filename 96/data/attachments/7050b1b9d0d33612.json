@@ -1,0 +1,14 @@
+{
+    "bookingid": 3469,
+    "booking": {
+        "firstname": "Evelyn",
+        "lastname": "Smith",
+        "totalprice": 371,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-06-01",
+            "checkout": "2025-06-19"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
