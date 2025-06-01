@@ -1,0 +1,14 @@
+{
+    "bookingid": 3519,
+    "booking": {
+        "firstname": "Maria",
+        "lastname": "Hernandez",
+        "totalprice": 389,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2024-12-11",
+            "checkout": "2025-05-30"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
