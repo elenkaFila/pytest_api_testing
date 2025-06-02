@@ -1,0 +1,14 @@
+{
+    "bookingid": 114382,
+    "booking": {
+        "firstname": "Travis",
+        "lastname": "Jones",
+        "totalprice": 901,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-06-02",
+            "checkout": "2025-06-02"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
