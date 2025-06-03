@@ -1,0 +1,14 @@
+{
+    "bookingid": 4351,
+    "booking": {
+        "firstname": "Crystal",
+        "lastname": "King",
+        "totalprice": 888,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-06-03",
+            "checkout": "2025-06-03"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

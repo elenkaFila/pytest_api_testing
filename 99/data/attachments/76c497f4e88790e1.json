@@ -1,0 +1,14 @@
+{
+    "bookingid": 4361,
+    "booking": {
+        "firstname": "Gregory",
+        "lastname": "Mccarthy",
+        "totalprice": 654,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
