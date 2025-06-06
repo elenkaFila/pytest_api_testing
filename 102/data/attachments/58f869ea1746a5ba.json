@@ -1,0 +1,14 @@
+{
+    "bookingid": 4248,
+    "booking": {
+        "firstname": "Leah",
+        "lastname": "Schultz",
+        "totalprice": 594,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-06-06",
+            "checkout": "2025-06-06"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

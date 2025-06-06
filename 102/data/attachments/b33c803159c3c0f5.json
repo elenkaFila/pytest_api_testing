@@ -1,0 +1,13 @@
+{
+    "bookingid": 4299,
+    "booking": {
+        "firstname": "Melissa",
+        "lastname": "Lowery",
+        "totalprice": 654,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-06-10",
+            "checkout": "2025-07-06"
+        }
+    }
+}
