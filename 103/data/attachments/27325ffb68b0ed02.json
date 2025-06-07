@@ -1,0 +1,14 @@
+{
+    "bookingid": 3410,
+    "booking": {
+        "firstname": "Bailey",
+        "lastname": "Scott",
+        "totalprice": 636,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-01-06",
+            "checkout": "2025-05-22"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

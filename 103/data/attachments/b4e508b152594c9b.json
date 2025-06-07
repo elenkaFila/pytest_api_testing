@@ -1,0 +1,14 @@
+{
+    "bookingid": 3422,
+    "booking": {
+        "firstname": "Gina",
+        "lastname": "Bishop",
+        "totalprice": 576,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-06-08",
+            "checkout": "2025-07-12"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
