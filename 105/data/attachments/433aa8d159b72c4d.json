@@ -1,0 +1,14 @@
+{
+    "bookingid": 15217,
+    "booking": {
+        "firstname": "Bridget",
+        "lastname": "Bowman",
+        "totalprice": 154,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2025-07-13"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

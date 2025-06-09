@@ -1,0 +1,14 @@
+{
+    "bookingid": 15195,
+    "booking": {
+        "firstname": "Timothy",
+        "lastname": "Ruiz",
+        "totalprice": 378,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2024-12-15",
+            "checkout": "2025-05-22"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

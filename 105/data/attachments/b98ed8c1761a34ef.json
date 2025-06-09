@@ -1,0 +1,14 @@
+{
+    "bookingid": 15168,
+    "booking": {
+        "firstname": "Courtney",
+        "lastname": "Parker",
+        "totalprice": 380,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-06-29",
+            "checkout": "2025-07-13"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
