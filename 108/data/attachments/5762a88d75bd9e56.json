@@ -1,0 +1,14 @@
+{
+    "bookingid": 2516,
+    "booking": {
+        "firstname": "Jessica",
+        "lastname": "Bishop",
+        "totalprice": 683,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

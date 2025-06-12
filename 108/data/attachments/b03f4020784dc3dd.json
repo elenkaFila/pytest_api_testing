@@ -1,0 +1,14 @@
+{
+    "bookingid": 2544,
+    "booking": {
+        "firstname": "Mary",
+        "lastname": "Cisneros",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-06-24",
+            "checkout": "2025-07-12"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
