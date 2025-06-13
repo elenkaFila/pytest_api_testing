@@ -1,0 +1,14 @@
+{
+    "bookingid": 4113,
+    "booking": {
+        "firstname": "Laura",
+        "lastname": "Mueller",
+        "totalprice": 218,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2024-12-21",
+            "checkout": "2025-06-02"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
