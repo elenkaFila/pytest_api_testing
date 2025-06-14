@@ -1,0 +1,14 @@
+{
+    "bookingid": 4729,
+    "booking": {
+        "firstname": "Matthew",
+        "lastname": "Vazquez",
+        "totalprice": 406,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-06-14",
+            "checkout": "2025-06-14"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
