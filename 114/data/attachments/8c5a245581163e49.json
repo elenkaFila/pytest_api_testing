@@ -1,0 +1,14 @@
+{
+    "bookingid": 4409,
+    "booking": {
+        "firstname": "Nina",
+        "lastname": "Harper",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-07-04",
+            "checkout": "2025-07-14"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

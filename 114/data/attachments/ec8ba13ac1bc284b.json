@@ -1,0 +1,14 @@
+{
+    "bookingid": 4245,
+    "booking": {
+        "firstname": "Matthew",
+        "lastname": "Kaiser",
+        "totalprice": 387,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-01-13",
+            "checkout": "2025-05-25"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
