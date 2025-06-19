@@ -1,0 +1,14 @@
+{
+    "bookingid": 3949,
+    "booking": {
+        "firstname": "Sydney",
+        "lastname": "Russell",
+        "totalprice": 780,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
