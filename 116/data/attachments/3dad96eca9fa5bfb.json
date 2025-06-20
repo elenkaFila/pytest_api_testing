@@ -1,0 +1,14 @@
+{
+    "bookingid": 5622,
+    "booking": {
+        "firstname": "James",
+        "lastname": "Perkins",
+        "totalprice": 470,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-06-20",
+            "checkout": "2025-06-20"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

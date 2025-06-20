@@ -1,0 +1,14 @@
+{
+    "bookingid": 5674,
+    "booking": {
+        "firstname": "Christine",
+        "lastname": "Miller",
+        "totalprice": 785,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-07-17",
+            "checkout": "2025-07-07"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
