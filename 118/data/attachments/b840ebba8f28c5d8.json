@@ -1,0 +1,14 @@
+{
+    "bookingid": 3315,
+    "booking": {
+        "firstname": "Christopher",
+        "lastname": "Yoder",
+        "totalprice": 350,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-07-04",
+            "checkout": "2025-07-18"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

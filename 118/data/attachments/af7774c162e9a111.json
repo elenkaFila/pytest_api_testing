@@ -1,0 +1,14 @@
+{
+    "bookingid": 3311,
+    "booking": {
+        "firstname": "Cody",
+        "lastname": "Cross",
+        "totalprice": 738,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-07-04",
+            "checkout": "2025-05-28"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
