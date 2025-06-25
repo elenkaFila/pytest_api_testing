@@ -1,0 +1,14 @@
+{
+    "bookingid": 5219,
+    "booking": {
+        "firstname": "Candace",
+        "lastname": "Mcdonald",
+        "totalprice": 943,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-01-12",
+            "checkout": "2025-06-17"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
