@@ -1,0 +1,14 @@
+{
+    "bookingid": 5138,
+    "booking": {
+        "firstname": "Madison",
+        "lastname": "Leblanc",
+        "totalprice": 873,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
