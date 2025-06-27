@@ -1,0 +1,11 @@
+{
+    "firstname": "Elizabeth",
+    "lastname": "Frazier",
+    "totalprice": 162,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2025-07-19",
+        "checkout": "2025-07-17"
+    },
+    "additionalneeds": "breakfast, pool, lunch"
+}
