@@ -1,0 +1,14 @@
+{
+    "bookingid": 4318,
+    "booking": {
+        "firstname": "Lisa",
+        "lastname": "Herrera",
+        "totalprice": 540,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-01-10",
+            "checkout": "2025-05-31"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

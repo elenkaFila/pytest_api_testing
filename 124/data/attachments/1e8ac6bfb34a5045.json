@@ -1,0 +1,14 @@
+{
+    "bookingid": 4314,
+    "booking": {
+        "firstname": "Calvin",
+        "lastname": "Chapman",
+        "totalprice": 258,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-06-28",
+            "checkout": "2025-06-28"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

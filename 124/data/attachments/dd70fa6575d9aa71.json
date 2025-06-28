@@ -1,0 +1,14 @@
+{
+    "bookingid": 4328,
+    "booking": {
+        "firstname": "Tanya",
+        "lastname": "Guerra",
+        "totalprice": 312,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-07-08",
+            "checkout": "2025-05-31"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
