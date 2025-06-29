@@ -1,0 +1,14 @@
+{
+    "bookingid": 3949,
+    "booking": {
+        "firstname": "Jennifer",
+        "lastname": "Middleton",
+        "totalprice": 360,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-07-14",
+            "checkout": "2025-07-10"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

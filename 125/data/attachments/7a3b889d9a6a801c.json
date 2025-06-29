@@ -1,0 +1,14 @@
+{
+    "bookingid": 3879,
+    "booking": {
+        "firstname": "Carmen",
+        "lastname": "Green",
+        "totalprice": 437,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-01-27",
+            "checkout": "2025-06-22"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

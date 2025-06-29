@@ -1,0 +1,14 @@
+{
+    "bookingid": 3884,
+    "booking": {
+        "firstname": "Austin",
+        "lastname": "Hatfield",
+        "totalprice": 228,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

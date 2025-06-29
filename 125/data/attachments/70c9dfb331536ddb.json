@@ -1,0 +1,13 @@
+{
+    "bookingid": 3918,
+    "booking": {
+        "firstname": "Miranda",
+        "lastname": "Hunt",
+        "totalprice": 853,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-07-14",
+            "checkout": "2025-07-10"
+        }
+    }
+}
