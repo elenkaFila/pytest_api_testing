@@ -1,0 +1,13 @@
+{
+    "bookingid": 4573,
+    "booking": {
+        "firstname": "Kayla",
+        "lastname": "Robles",
+        "totalprice": 876,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-07-08",
+            "checkout": "2025-07-29"
+        }
+    }
+}

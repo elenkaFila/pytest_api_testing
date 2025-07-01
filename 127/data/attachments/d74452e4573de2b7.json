@@ -1,0 +1,11 @@
+{
+    "firstname": "Brian",
+    "lastname": "Fowler",
+    "totalprice": null,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2025-07-08",
+        "checkout": "2025-07-29"
+    },
+    "additionalneeds": "breakfast, pool, lunch"
+}
