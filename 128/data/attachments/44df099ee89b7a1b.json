@@ -1,0 +1,13 @@
+{
+    "bookingid": 4957,
+    "booking": {
+        "firstname": "Brian",
+        "lastname": "Bentley",
+        "totalprice": 551,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-07-06",
+            "checkout": "2025-08-06"
+        }
+    }
+}
