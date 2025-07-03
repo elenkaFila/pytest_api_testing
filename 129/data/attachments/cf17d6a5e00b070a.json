@@ -1,0 +1,14 @@
+{
+    "bookingid": 4623,
+    "booking": {
+        "firstname": "Cynthia",
+        "lastname": "Graham",
+        "totalprice": 675,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-01-31",
+            "checkout": "2025-06-13"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

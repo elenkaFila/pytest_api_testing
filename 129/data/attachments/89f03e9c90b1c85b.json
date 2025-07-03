@@ -1,0 +1,13 @@
+{
+    "bookingid": 4661,
+    "booking": {
+        "firstname": "James",
+        "lastname": "Bishop",
+        "totalprice": 412,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-07-29",
+            "checkout": "2025-07-26"
+        }
+    }
+}
