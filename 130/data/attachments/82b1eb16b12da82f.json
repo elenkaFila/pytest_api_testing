@@ -1,0 +1,14 @@
+{
+    "bookingid": 4422,
+    "booking": {
+        "firstname": "Casey",
+        "lastname": "Golden",
+        "totalprice": 343,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-07-23",
+            "checkout": "2025-06-22"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
