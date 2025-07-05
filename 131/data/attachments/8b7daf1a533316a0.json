@@ -1,0 +1,14 @@
+{
+    "bookingid": 3595,
+    "booking": {
+        "firstname": "Julia",
+        "lastname": "Hill",
+        "totalprice": 900,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-01-27",
+            "checkout": "2025-06-11"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
