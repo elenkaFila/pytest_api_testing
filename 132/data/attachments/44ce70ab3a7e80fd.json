@@ -1,0 +1,14 @@
+{
+    "bookingid": 4029,
+    "booking": {
+        "firstname": "Derek",
+        "lastname": "Lawson",
+        "totalprice": 311,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-07-11",
+            "checkout": "2025-08-07"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

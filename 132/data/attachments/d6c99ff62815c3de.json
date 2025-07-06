@@ -1,0 +1,14 @@
+{
+    "bookingid": 4022,
+    "booking": {
+        "firstname": "Laura",
+        "lastname": "Peterson",
+        "totalprice": 726,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-07-11",
+            "checkout": "2025-06-11"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

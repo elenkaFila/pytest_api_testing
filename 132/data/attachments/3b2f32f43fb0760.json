@@ -1,0 +1,14 @@
+{
+    "bookingid": 4053,
+    "booking": {
+        "firstname": "Brittany",
+        "lastname": "Bowen",
+        "totalprice": 704,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-07-11",
+            "checkout": "2025-08-07"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
