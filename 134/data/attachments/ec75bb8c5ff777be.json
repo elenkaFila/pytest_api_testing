@@ -1,0 +1,13 @@
+{
+    "bookingid": 4769,
+    "booking": {
+        "firstname": "Paul",
+        "lastname": "Jenkins",
+        "totalprice": 957,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-08-05",
+            "checkout": "2025-08-15"
+        }
+    }
+}
