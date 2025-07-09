@@ -1,0 +1,14 @@
+{
+    "bookingid": 4955,
+    "booking": {
+        "firstname": "Dana",
+        "lastname": "Medina",
+        "totalprice": 381,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-08-05",
+            "checkout": "2025-08-17"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
