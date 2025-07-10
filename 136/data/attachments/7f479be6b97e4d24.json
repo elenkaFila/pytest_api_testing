@@ -1,0 +1,14 @@
+{
+    "bookingid": 4735,
+    "booking": {
+        "firstname": "Juan",
+        "lastname": "Green",
+        "totalprice": 177,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

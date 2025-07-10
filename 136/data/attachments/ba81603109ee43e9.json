@@ -1,0 +1,14 @@
+{
+    "bookingid": 4749,
+    "booking": {
+        "firstname": "Linda",
+        "lastname": "Jenkins",
+        "totalprice": 303,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-07-20",
+            "checkout": "2025-07-21"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 4737,
+    "booking": {
+        "firstname": "Nicholas",
+        "lastname": "Cooper",
+        "totalprice": 491,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2025-07-21"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
