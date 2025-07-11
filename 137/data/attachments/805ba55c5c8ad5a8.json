@@ -1,0 +1,14 @@
+{
+    "bookingid": 4786,
+    "booking": {
+        "firstname": "Alisha",
+        "lastname": "Porter",
+        "totalprice": 712,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-07-25",
+            "checkout": "2025-08-11"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

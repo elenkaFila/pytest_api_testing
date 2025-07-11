@@ -1,0 +1,14 @@
+{
+    "bookingid": 4863,
+    "booking": {
+        "firstname": "Melissa",
+        "lastname": "Trevino",
+        "totalprice": 602,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-07-25",
+            "checkout": "2025-08-11"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 4731,
+    "booking": {
+        "firstname": "Glenn",
+        "lastname": "Alvarado",
+        "totalprice": 544,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-07-11",
+            "checkout": "2025-07-11"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
