@@ -1,0 +1,14 @@
+{
+    "bookingid": 4678,
+    "booking": {
+        "firstname": "Renee",
+        "lastname": "Griffith",
+        "totalprice": 317,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-07-12",
+            "checkout": "2025-07-12"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
