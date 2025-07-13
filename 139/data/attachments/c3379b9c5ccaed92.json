@@ -1,0 +1,14 @@
+{
+    "bookingid": 4063,
+    "booking": {
+        "firstname": "Kenneth",
+        "lastname": "Dunn",
+        "totalprice": 656,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-08-01",
+            "checkout": "2025-07-11"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

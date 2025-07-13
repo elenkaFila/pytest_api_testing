@@ -1,0 +1,14 @@
+{
+    "bookingid": 4091,
+    "booking": {
+        "firstname": "Emily",
+        "lastname": "Powell",
+        "totalprice": 911,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-08-01",
+            "checkout": "2025-08-10"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
