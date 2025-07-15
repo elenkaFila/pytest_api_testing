@@ -1,0 +1,14 @@
+{
+    "bookingid": 380,
+    "booking": {
+        "firstname": "Kimberly",
+        "lastname": "Vasquez",
+        "totalprice": 138,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2025-07-29"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
