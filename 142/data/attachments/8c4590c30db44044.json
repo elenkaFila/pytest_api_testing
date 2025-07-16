@@ -1,0 +1,14 @@
+{
+    "bookingid": 97,
+    "booking": {
+        "firstname": "Nicole",
+        "lastname": "Conley",
+        "totalprice": 655,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-07-16",
+            "checkout": "2025-07-16"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
