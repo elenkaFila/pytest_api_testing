@@ -1,0 +1,14 @@
+{
+    "bookingid": 273,
+    "booking": {
+        "firstname": "Dakota",
+        "lastname": "Fitzpatrick",
+        "totalprice": 987,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2025-08-10"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

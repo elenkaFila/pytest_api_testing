@@ -1,0 +1,14 @@
+{
+    "bookingid": 305,
+    "booking": {
+        "firstname": "Cynthia",
+        "lastname": "Green",
+        "totalprice": 652,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-08-01",
+            "checkout": "2025-08-10"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

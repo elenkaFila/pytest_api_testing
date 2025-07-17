@@ -1,0 +1,13 @@
+{
+    "bookingid": 296,
+    "booking": {
+        "firstname": "Nicholas",
+        "lastname": "Gates",
+        "totalprice": 105,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-08-01",
+            "checkout": "2025-08-10"
+        }
+    }
+}
