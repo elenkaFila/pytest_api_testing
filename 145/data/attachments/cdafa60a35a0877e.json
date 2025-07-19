@@ -1,0 +1,14 @@
+{
+    "bookingid": 4191,
+    "booking": {
+        "firstname": "Katelyn",
+        "lastname": "Poole",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-07-23",
+            "checkout": "2025-07-30"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
