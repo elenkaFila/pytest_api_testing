@@ -1,0 +1,14 @@
+{
+    "bookingid": 750,
+    "booking": {
+        "firstname": "Cory",
+        "lastname": "Valentine",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-08-08",
+            "checkout": "2025-08-10"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
