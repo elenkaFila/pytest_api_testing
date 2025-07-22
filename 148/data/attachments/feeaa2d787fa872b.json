@@ -1,0 +1,14 @@
+{
+    "bookingid": 93,
+    "booking": {
+        "firstname": "Sara",
+        "lastname": "Gentry",
+        "totalprice": 999,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-02-08",
+            "checkout": "2025-07-03"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
