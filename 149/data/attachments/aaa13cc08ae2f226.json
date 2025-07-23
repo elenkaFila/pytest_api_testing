@@ -1,0 +1,11 @@
+{
+    "firstname": "Tiffany",
+    "lastname": "Odom",
+    "totalprice": 165,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2025-08-03",
+        "checkout": "2025-08-28"
+    },
+    "additionalneeds": "Breakfast"
+}

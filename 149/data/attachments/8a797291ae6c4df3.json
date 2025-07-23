@@ -1,0 +1,14 @@
+{
+    "bookingid": 60,
+    "booking": {
+        "firstname": "Whitney",
+        "lastname": "Cowan",
+        "totalprice": 682,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-02-21",
+            "checkout": "2025-07-21"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

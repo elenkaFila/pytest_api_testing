@@ -1,0 +1,14 @@
+{
+    "bookingid": 67,
+    "booking": {
+        "firstname": "Matthew",
+        "lastname": "Arellano",
+        "totalprice": 112,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
