@@ -1,0 +1,14 @@
+{
+    "bookingid": 23,
+    "booking": {
+        "firstname": "Jennifer",
+        "lastname": "Finley",
+        "totalprice": 687,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-07-25",
+            "checkout": "2025-07-25"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 92,
+    "booking": {
+        "firstname": "Brandi",
+        "lastname": "Boyd",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-08-22",
+            "checkout": "2025-08-17"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
