@@ -1,0 +1,14 @@
+{
+    "bookingid": 614,
+    "booking": {
+        "firstname": "Travis",
+        "lastname": "Dunn",
+        "totalprice": 658,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2025-08-18"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
