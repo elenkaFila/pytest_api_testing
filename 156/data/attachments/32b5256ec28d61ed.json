@@ -1,0 +1,14 @@
+{
+    "bookingid": 164,
+    "booking": {
+        "firstname": "Daniel",
+        "lastname": "Coleman",
+        "totalprice": 101,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-08-14",
+            "checkout": "2025-08-20"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
