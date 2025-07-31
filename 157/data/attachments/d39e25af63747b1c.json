@@ -1,0 +1,14 @@
+{
+    "bookingid": 618,
+    "booking": {
+        "firstname": "Emily",
+        "lastname": "Hamilton",
+        "totalprice": 647,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-08-01",
+            "checkout": "2025-08-15"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
