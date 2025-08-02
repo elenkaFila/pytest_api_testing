@@ -1,0 +1,14 @@
+{
+    "bookingid": 4897,
+    "booking": {
+        "firstname": "Brandon",
+        "lastname": "Ayala",
+        "totalprice": 857,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-08-29",
+            "checkout": "2025-07-06"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 4894,
+    "booking": {
+        "firstname": "Julie",
+        "lastname": "Coleman",
+        "totalprice": 813,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2025-09-07"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

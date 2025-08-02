@@ -1,0 +1,14 @@
+{
+    "bookingid": 4888,
+    "booking": {
+        "firstname": "Debra",
+        "lastname": "Parrish",
+        "totalprice": 203,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-02-17",
+            "checkout": "2025-07-06"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
