@@ -1,0 +1,14 @@
+{
+    "bookingid": 4468,
+    "booking": {
+        "firstname": "Glenn",
+        "lastname": "Stanton",
+        "totalprice": 649,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-08-22",
+            "checkout": "2025-07-14"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
