@@ -1,0 +1,14 @@
+{
+    "bookingid": 506,
+    "booking": {
+        "firstname": "Norma",
+        "lastname": "Gonzalez",
+        "totalprice": 990,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-02-21",
+            "checkout": "2025-07-08"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 520,
+    "booking": {
+        "firstname": "Sandra",
+        "lastname": "Kramer",
+        "totalprice": 383,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-08-08",
+            "checkout": "2025-07-08"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
