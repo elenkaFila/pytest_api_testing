@@ -1,0 +1,14 @@
+{
+    "bookingid": 1258,
+    "booking": {
+        "firstname": "Joseph",
+        "lastname": "Doyle",
+        "totalprice": 309,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
