@@ -1,0 +1,14 @@
+{
+    "bookingid": 652,
+    "booking": {
+        "firstname": "Gloria",
+        "lastname": "Ballard",
+        "totalprice": 740,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-02-22",
+            "checkout": "2025-07-20"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
