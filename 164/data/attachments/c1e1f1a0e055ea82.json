@@ -1,0 +1,14 @@
+{
+    "bookingid": 1187,
+    "booking": {
+        "firstname": "Christopher",
+        "lastname": "Weaver",
+        "totalprice": 758,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-08-28",
+            "checkout": "2025-08-31"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 1218,
+    "booking": {
+        "firstname": "Catherine",
+        "lastname": "Fields",
+        "totalprice": 249,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-08-28",
+            "checkout": "2025-08-31"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
