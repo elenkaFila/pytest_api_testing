@@ -1,0 +1,14 @@
+{
+    "bookingid": 4541,
+    "booking": {
+        "firstname": "Joshua",
+        "lastname": "Murillo",
+        "totalprice": 978,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-08-18",
+            "checkout": "2025-09-08"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

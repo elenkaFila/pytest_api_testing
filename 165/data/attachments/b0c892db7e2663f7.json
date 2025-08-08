@@ -1,0 +1,14 @@
+{
+    "bookingid": 4411,
+    "booking": {
+        "firstname": "Trevor",
+        "lastname": "Bishop",
+        "totalprice": 822,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-08-18",
+            "checkout": "2025-07-28"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
