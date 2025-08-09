@@ -1,0 +1,14 @@
+{
+    "bookingid": 4826,
+    "booking": {
+        "firstname": "Shelley",
+        "lastname": "Kline",
+        "totalprice": 753,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-08-09",
+            "checkout": "2025-08-09"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
