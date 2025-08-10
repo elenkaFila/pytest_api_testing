@@ -1,0 +1,14 @@
+{
+    "bookingid": 9373,
+    "booking": {
+        "firstname": "Michaela",
+        "lastname": "Morales",
+        "totalprice": 815,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-08-10",
+            "checkout": "2025-08-10"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
