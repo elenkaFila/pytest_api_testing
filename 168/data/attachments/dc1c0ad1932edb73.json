@@ -1,0 +1,14 @@
+{
+    "bookingid": 95,
+    "booking": {
+        "firstname": "Stephen",
+        "lastname": "Cummings",
+        "totalprice": 444,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2025-09-11"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
