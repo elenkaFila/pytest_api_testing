@@ -1,0 +1,14 @@
+{
+    "bookingid": 4418,
+    "booking": {
+        "firstname": "Darlene",
+        "lastname": "Long",
+        "totalprice": 951,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-08-25",
+            "checkout": "2025-08-26"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
