@@ -1,0 +1,14 @@
+{
+    "bookingid": 5003,
+    "booking": {
+        "firstname": "Cynthia",
+        "lastname": "Armstrong",
+        "totalprice": 783,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-09-08",
+            "checkout": "2025-09-09"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

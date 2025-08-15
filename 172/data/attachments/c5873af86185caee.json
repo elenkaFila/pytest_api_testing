@@ -1,0 +1,14 @@
+{
+    "bookingid": 4990,
+    "booking": {
+        "firstname": "Teresa",
+        "lastname": "Juarez",
+        "totalprice": 552,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-09-08",
+            "checkout": "2025-08-12"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
