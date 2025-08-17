@@ -1,0 +1,14 @@
+{
+    "bookingid": 3989,
+    "booking": {
+        "firstname": "Sonia",
+        "lastname": "Holt",
+        "totalprice": 374,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-08-17",
+            "checkout": "2025-08-17"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
