@@ -1,0 +1,14 @@
+{
+    "bookingid": 4279,
+    "booking": {
+        "firstname": "Veronica",
+        "lastname": "Copeland",
+        "totalprice": 594,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2025-09-18"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
