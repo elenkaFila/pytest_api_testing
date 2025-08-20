@@ -1,0 +1,14 @@
+{
+    "bookingid": 4478,
+    "booking": {
+        "firstname": "Douglas",
+        "lastname": "Flores",
+        "totalprice": 836,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-03-08",
+            "checkout": "2025-08-01"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

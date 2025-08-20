@@ -1,0 +1,13 @@
+{
+    "bookingid": 4522,
+    "booking": {
+        "firstname": "Brittany",
+        "lastname": "Gallegos",
+        "totalprice": 287,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-08-28",
+            "checkout": "2025-09-21"
+        }
+    }
+}
