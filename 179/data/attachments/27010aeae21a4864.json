@@ -1,0 +1,14 @@
+{
+    "bookingid": 4252,
+    "booking": {
+        "firstname": "Alexander",
+        "lastname": "Cisneros",
+        "totalprice": 997,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "bookingid": 4287,
+    "booking": {
+        "firstname": "Debra",
+        "lastname": "Rogers",
+        "totalprice": 482,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-09-02",
+            "checkout": "2025-09-08"
+        }
+    }
+}
