@@ -1,0 +1,14 @@
+{
+    "bookingid": 3109,
+    "booking": {
+        "firstname": "Cindy",
+        "lastname": "Mcmillan",
+        "totalprice": 892,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-08-23",
+            "checkout": "2025-08-23"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 3112,
+    "booking": {
+        "firstname": "Courtney",
+        "lastname": "Griffith",
+        "totalprice": 898,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
