@@ -1,0 +1,14 @@
+{
+    "bookingid": 4125,
+    "booking": {
+        "firstname": "Kathleen",
+        "lastname": "Holt",
+        "totalprice": 188,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-09-08",
+            "checkout": "2025-10-03"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
