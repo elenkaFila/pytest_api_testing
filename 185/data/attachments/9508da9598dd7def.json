@@ -1,0 +1,14 @@
+{
+    "bookingid": 4249,
+    "booking": {
+        "firstname": "Tracy",
+        "lastname": "Webster",
+        "totalprice": 714,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-09-14",
+            "checkout": "2025-08-17"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
