@@ -1,0 +1,14 @@
+{
+    "bookingid": 4089,
+    "booking": {
+        "firstname": "Brett",
+        "lastname": "Smith",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-09-13",
+            "checkout": "2025-10-09"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

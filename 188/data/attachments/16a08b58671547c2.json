@@ -1,0 +1,13 @@
+{
+    "bookingid": 4022,
+    "booking": {
+        "firstname": "Christopher",
+        "lastname": "Hill",
+        "totalprice": 996,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-09-13",
+            "checkout": "2025-10-09"
+        }
+    }
+}
