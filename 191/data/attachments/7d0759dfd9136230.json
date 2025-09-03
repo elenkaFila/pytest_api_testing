@@ -1,0 +1,14 @@
+{
+    "bookingid": 4133,
+    "booking": {
+        "firstname": "Nicholas",
+        "lastname": "Newton",
+        "totalprice": 656,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-09-29",
+            "checkout": "2025-10-12"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

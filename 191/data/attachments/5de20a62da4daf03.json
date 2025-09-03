@@ -1,0 +1,14 @@
+{
+    "bookingid": 4121,
+    "booking": {
+        "firstname": "Daryl",
+        "lastname": "Wall",
+        "totalprice": 367,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-03-23",
+            "checkout": "2025-08-05"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

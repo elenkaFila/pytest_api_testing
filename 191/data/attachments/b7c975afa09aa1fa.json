@@ -1,0 +1,14 @@
+{
+    "bookingid": 4155,
+    "booking": {
+        "firstname": "Alexandria",
+        "lastname": "Lopez",
+        "totalprice": 914,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-09-29",
+            "checkout": "2025-10-12"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
