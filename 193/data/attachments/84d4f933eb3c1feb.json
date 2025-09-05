@@ -1,0 +1,14 @@
+{
+    "bookingid": 4338,
+    "booking": {
+        "firstname": "Melissa",
+        "lastname": "Callahan",
+        "totalprice": 225,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2025-10-14"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

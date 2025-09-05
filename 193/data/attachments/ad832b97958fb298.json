@@ -1,0 +1,14 @@
+{
+    "bookingid": 4330,
+    "booking": {
+        "firstname": "Veronica",
+        "lastname": "Flores",
+        "totalprice": 207,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-09-05",
+            "checkout": "2025-09-05"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
