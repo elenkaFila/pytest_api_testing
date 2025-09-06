@@ -1,0 +1,14 @@
+{
+    "bookingid": 4225,
+    "booking": {
+        "firstname": "Lisa",
+        "lastname": "Moreno",
+        "totalprice": 455,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-10-05",
+            "checkout": "2025-10-14"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
