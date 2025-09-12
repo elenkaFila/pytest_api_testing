@@ -1,0 +1,11 @@
+{
+    "firstname": "Mary",
+    "lastname": "Arroyo",
+    "totalprice": null,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2025-09-19",
+        "checkout": "2025-10-12"
+    },
+    "additionalneeds": "pool"
+}
