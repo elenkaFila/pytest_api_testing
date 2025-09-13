@@ -1,0 +1,14 @@
+{
+    "bookingid": 2878,
+    "booking": {
+        "firstname": "Stacy",
+        "lastname": "Parker",
+        "totalprice": 105,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-09-30",
+            "checkout": "2025-10-22"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

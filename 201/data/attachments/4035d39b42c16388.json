@@ -1,0 +1,14 @@
+{
+    "bookingid": 2884,
+    "booking": {
+        "firstname": "Joann",
+        "lastname": "Skinner",
+        "totalprice": 301,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-09-30",
+            "checkout": "2025-10-22"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
