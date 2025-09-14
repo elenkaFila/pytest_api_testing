@@ -1,0 +1,14 @@
+{
+    "bookingid": 2790,
+    "booking": {
+        "firstname": "Dakota",
+        "lastname": "Phillips",
+        "totalprice": 263,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-09-24",
+            "checkout": "2025-09-06"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
