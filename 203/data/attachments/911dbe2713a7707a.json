@@ -1,0 +1,13 @@
+{
+    "bookingid": 4756,
+    "booking": {
+        "firstname": "Michael",
+        "lastname": "Mcclure",
+        "totalprice": 260,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-10-09",
+            "checkout": "2025-10-09"
+        }
+    }
+}

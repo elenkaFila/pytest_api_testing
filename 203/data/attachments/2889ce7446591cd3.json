@@ -1,0 +1,14 @@
+{
+    "bookingid": 4746,
+    "booking": {
+        "firstname": "Deanna",
+        "lastname": "Meyer",
+        "totalprice": 314,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-10-09",
+            "checkout": "2025-08-24"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
