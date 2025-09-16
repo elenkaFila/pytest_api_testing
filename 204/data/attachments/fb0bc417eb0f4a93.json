@@ -1,0 +1,14 @@
+{
+    "bookingid": 4586,
+    "booking": {
+        "firstname": "Natasha",
+        "lastname": "Medina",
+        "totalprice": 122,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-09-18",
+            "checkout": "2025-10-19"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

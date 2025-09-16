@@ -1,0 +1,14 @@
+{
+    "bookingid": 4658,
+    "booking": {
+        "firstname": "Gabriela",
+        "lastname": "Shaffer",
+        "totalprice": 799,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-09-18",
+            "checkout": "2025-10-19"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
