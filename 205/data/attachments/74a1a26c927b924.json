@@ -1,0 +1,13 @@
+{
+    "bookingid": 4216,
+    "booking": {
+        "firstname": "Heather",
+        "lastname": "Richardson",
+        "totalprice": 164,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-10-03",
+            "checkout": "2025-10-23"
+        }
+    }
+}

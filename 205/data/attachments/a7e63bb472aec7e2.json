@@ -1,0 +1,14 @@
+{
+    "bookingid": 4209,
+    "booking": {
+        "firstname": "Cynthia",
+        "lastname": "Livingston",
+        "totalprice": 893,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
