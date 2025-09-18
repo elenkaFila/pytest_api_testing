@@ -1,0 +1,14 @@
+{
+    "bookingid": 4563,
+    "booking": {
+        "firstname": "Amanda",
+        "lastname": "Contreras",
+        "totalprice": 212,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-09-25",
+            "checkout": "2025-08-29"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

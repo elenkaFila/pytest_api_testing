@@ -1,0 +1,14 @@
+{
+    "bookingid": 4549,
+    "booking": {
+        "firstname": "Jacob",
+        "lastname": "Holloway",
+        "totalprice": 283,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-09-18",
+            "checkout": "2025-09-18"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
