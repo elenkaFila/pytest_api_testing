@@ -1,0 +1,14 @@
+{
+    "bookingid": 3711,
+    "booking": {
+        "firstname": "Dana",
+        "lastname": "Clark",
+        "totalprice": 694,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-10-15",
+            "checkout": "2025-09-05"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

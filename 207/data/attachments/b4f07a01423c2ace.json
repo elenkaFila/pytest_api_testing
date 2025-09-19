@@ -1,0 +1,14 @@
+{
+    "bookingid": 3678,
+    "booking": {
+        "firstname": "Terrance",
+        "lastname": "Wood",
+        "totalprice": 843,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-09-19",
+            "checkout": "2025-09-19"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
