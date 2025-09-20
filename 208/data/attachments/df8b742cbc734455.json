@@ -1,0 +1,14 @@
+{
+    "bookingid": 2596,
+    "booking": {
+        "firstname": "Kimberly",
+        "lastname": "Adkins",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-10-07",
+            "checkout": "2025-10-22"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

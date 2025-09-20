@@ -1,0 +1,14 @@
+{
+    "bookingid": 2557,
+    "booking": {
+        "firstname": "Wendy",
+        "lastname": "Phillips",
+        "totalprice": 556,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-10-07",
+            "checkout": "2025-09-01"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

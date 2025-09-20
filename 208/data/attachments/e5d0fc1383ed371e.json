@@ -1,0 +1,14 @@
+{
+    "bookingid": 2551,
+    "booking": {
+        "firstname": "Katherine",
+        "lastname": "Everett",
+        "totalprice": 748,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-09-20",
+            "checkout": "2025-09-20"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
