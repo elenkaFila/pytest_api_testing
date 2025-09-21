@@ -1,0 +1,14 @@
+{
+    "bookingid": 3141,
+    "booking": {
+        "firstname": "Brittany",
+        "lastname": "Torres",
+        "totalprice": 577,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-09-24",
+            "checkout": "2025-09-12"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
