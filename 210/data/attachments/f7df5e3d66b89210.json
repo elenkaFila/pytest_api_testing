@@ -1,0 +1,14 @@
+{
+    "bookingid": 4325,
+    "booking": {
+        "firstname": "Paula",
+        "lastname": "Valentine",
+        "totalprice": 649,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-10-16",
+            "checkout": "2025-09-14"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
