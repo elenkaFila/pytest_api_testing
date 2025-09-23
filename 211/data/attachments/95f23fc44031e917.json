@@ -1,0 +1,14 @@
+{
+    "bookingid": 4775,
+    "booking": {
+        "firstname": "Henry",
+        "lastname": "Duran",
+        "totalprice": 311,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-10-22",
+            "checkout": "2025-09-19"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

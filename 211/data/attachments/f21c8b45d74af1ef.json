@@ -1,0 +1,14 @@
+{
+    "bookingid": 4772,
+    "booking": {
+        "firstname": "Shannon",
+        "lastname": "Jensen",
+        "totalprice": 664,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-04-19",
+            "checkout": "2025-09-19"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
