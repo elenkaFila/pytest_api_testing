@@ -1,0 +1,14 @@
+{
+    "bookingid": 4580,
+    "booking": {
+        "firstname": "Alexis",
+        "lastname": "Landry",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-10-11",
+            "checkout": "2025-10-19"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

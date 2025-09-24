@@ -1,0 +1,14 @@
+{
+    "bookingid": 4373,
+    "booking": {
+        "firstname": "Stacy",
+        "lastname": "Foster",
+        "totalprice": 496,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2025-10-19"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
