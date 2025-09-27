@@ -1,0 +1,13 @@
+{
+    "bookingid": 3453,
+    "booking": {
+        "firstname": "George",
+        "lastname": "Sanford",
+        "totalprice": 148,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-10-03",
+            "checkout": "2025-10-31"
+        }
+    }
+}

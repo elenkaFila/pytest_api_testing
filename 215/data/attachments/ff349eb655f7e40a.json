@@ -1,0 +1,14 @@
+{
+    "bookingid": 3623,
+    "booking": {
+        "firstname": "Billy",
+        "lastname": "Santos",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-10-03",
+            "checkout": "2025-10-31"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
