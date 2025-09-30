@@ -1,0 +1,14 @@
+{
+    "bookingid": 4252,
+    "booking": {
+        "firstname": "Sydney",
+        "lastname": "Thomas",
+        "totalprice": 543,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-10-12",
+            "checkout": "2025-10-23"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

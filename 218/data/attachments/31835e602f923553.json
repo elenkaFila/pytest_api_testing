@@ -1,0 +1,14 @@
+{
+    "bookingid": 4222,
+    "booking": {
+        "firstname": "Brian",
+        "lastname": "Koch",
+        "totalprice": 262,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2025-10-23"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
