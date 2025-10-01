@@ -1,0 +1,13 @@
+{
+    "bookingid": 4439,
+    "booking": {
+        "firstname": "Mary",
+        "lastname": "Schmidt",
+        "totalprice": 144,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-10-08",
+            "checkout": "2025-10-21"
+        }
+    }
+}

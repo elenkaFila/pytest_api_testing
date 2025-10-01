@@ -1,0 +1,14 @@
+{
+    "bookingid": 4521,
+    "booking": {
+        "firstname": "Gabrielle",
+        "lastname": "Ramos",
+        "totalprice": 292,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-10-08",
+            "checkout": "2025-10-21"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
