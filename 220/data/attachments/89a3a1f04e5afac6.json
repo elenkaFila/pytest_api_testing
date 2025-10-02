@@ -1,0 +1,14 @@
+{
+    "bookingid": 4326,
+    "booking": {
+        "firstname": "Angela",
+        "lastname": "Garza",
+        "totalprice": 222,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2025-10-28"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
