@@ -1,0 +1,11 @@
+{
+    "firstname": "Mark",
+    "lastname": "Walker",
+    "totalprice": 236,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2025-10-30",
+        "checkout": "2025-11-03"
+    },
+    "additionalneeds": "breakfast, pool, lunch"
+}

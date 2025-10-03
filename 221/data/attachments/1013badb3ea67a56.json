@@ -1,0 +1,13 @@
+{
+    "bookingid": 4069,
+    "booking": {
+        "firstname": "Carrie",
+        "lastname": "Spence",
+        "totalprice": 813,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-10-30",
+            "checkout": "2025-11-03"
+        }
+    }
+}
