@@ -1,0 +1,14 @@
+{
+    "bookingid": 2970,
+    "booking": {
+        "firstname": "Makayla",
+        "lastname": "Zhang",
+        "totalprice": 856,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-05-01",
+            "checkout": "2025-09-23"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

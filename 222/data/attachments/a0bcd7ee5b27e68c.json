@@ -1,0 +1,14 @@
+{
+    "bookingid": 2974,
+    "booking": {
+        "firstname": "Rachel",
+        "lastname": "Norton",
+        "totalprice": 505,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-10-29",
+            "checkout": "2025-09-23"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
