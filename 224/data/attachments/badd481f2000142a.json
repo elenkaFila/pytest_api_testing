@@ -1,0 +1,14 @@
+{
+    "bookingid": 4521,
+    "booking": {
+        "firstname": "Autumn",
+        "lastname": "Wilson",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-11-02",
+            "checkout": "2025-11-10"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
