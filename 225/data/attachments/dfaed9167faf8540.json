@@ -1,0 +1,14 @@
+{
+    "bookingid": 4715,
+    "booking": {
+        "firstname": "Linda",
+        "lastname": "Rosales",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-10-21",
+            "checkout": "2025-11-12"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

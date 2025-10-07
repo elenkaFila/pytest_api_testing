@@ -1,0 +1,14 @@
+{
+    "bookingid": 4640,
+    "booking": {
+        "firstname": "Amanda",
+        "lastname": "Serrano",
+        "totalprice": 822,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
