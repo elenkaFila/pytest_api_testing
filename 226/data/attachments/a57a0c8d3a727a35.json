@@ -1,0 +1,14 @@
+{
+    "bookingid": 4973,
+    "booking": {
+        "firstname": "Debra",
+        "lastname": "Phillips",
+        "totalprice": 492,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-10-19",
+            "checkout": "2025-11-08"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
