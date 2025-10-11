@@ -1,0 +1,14 @@
+{
+    "bookingid": 2749,
+    "booking": {
+        "firstname": "Natasha",
+        "lastname": "Dunn",
+        "totalprice": 695,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-10-11",
+            "checkout": "2025-10-11"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
