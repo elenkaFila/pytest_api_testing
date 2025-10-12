@@ -1,0 +1,13 @@
+{
+    "bookingid": 3341,
+    "booking": {
+        "firstname": "Joshua",
+        "lastname": "Hall",
+        "totalprice": 281,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-10-26",
+            "checkout": "2025-11-03"
+        }
+    }
+}

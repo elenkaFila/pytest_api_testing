@@ -1,0 +1,14 @@
+{
+    "bookingid": 3344,
+    "booking": {
+        "firstname": "Brandi",
+        "lastname": "Brown",
+        "totalprice": 759,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-10-26",
+            "checkout": "2025-11-03"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
