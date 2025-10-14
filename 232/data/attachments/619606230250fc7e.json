@@ -1,0 +1,14 @@
+{
+    "bookingid": 52,
+    "booking": {
+        "firstname": "Leonard",
+        "lastname": "Bailey",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-11-10",
+            "checkout": "2025-11-05"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

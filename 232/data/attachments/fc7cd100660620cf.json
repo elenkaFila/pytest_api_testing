@@ -1,0 +1,14 @@
+{
+    "bookingid": 5001,
+    "booking": {
+        "firstname": "Christopher",
+        "lastname": "Sanders",
+        "totalprice": 954,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2025-11-05"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
