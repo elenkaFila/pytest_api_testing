@@ -1,0 +1,14 @@
+{
+    "bookingid": 4893,
+    "booking": {
+        "firstname": "Randall",
+        "lastname": "Castro",
+        "totalprice": 951,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-11-07",
+            "checkout": "2025-10-30"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

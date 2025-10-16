@@ -1,0 +1,14 @@
+{
+    "bookingid": 4809,
+    "booking": {
+        "firstname": "Brooke",
+        "lastname": "Ford",
+        "totalprice": 283,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-10-16",
+            "checkout": "2025-10-16"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
