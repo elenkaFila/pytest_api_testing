@@ -1,0 +1,14 @@
+{
+    "bookingid": 55694,
+    "booking": {
+        "firstname": "Bailey",
+        "lastname": "Graves",
+        "totalprice": 810,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-10-20",
+            "checkout": "2025-10-20"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

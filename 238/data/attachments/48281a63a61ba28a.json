@@ -1,0 +1,14 @@
+{
+    "bookingid": 55922,
+    "booking": {
+        "firstname": "Kimberly",
+        "lastname": "Ramirez",
+        "totalprice": 585,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-10-27",
+            "checkout": "2025-09-24"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
