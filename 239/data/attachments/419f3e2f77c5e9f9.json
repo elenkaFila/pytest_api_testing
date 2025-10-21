@@ -1,0 +1,14 @@
+{
+    "bookingid": 4997,
+    "booking": {
+        "firstname": "James",
+        "lastname": "Cline",
+        "totalprice": 546,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-11-14",
+            "checkout": "2025-11-06"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

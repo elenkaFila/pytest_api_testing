@@ -1,0 +1,14 @@
+{
+    "bookingid": 4852,
+    "booking": {
+        "firstname": "Monique",
+        "lastname": "Bradford",
+        "totalprice": 647,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-10-21",
+            "checkout": "2025-10-21"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
