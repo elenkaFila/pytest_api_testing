@@ -1,0 +1,14 @@
+{
+    "bookingid": 461,
+    "booking": {
+        "firstname": "Ryan",
+        "lastname": "Blair",
+        "totalprice": 288,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-11-20",
+            "checkout": "2025-11-06"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
