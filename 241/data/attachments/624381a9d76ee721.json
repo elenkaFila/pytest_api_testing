@@ -1,0 +1,14 @@
+{
+    "bookingid": 4939,
+    "booking": {
+        "firstname": "Monique",
+        "lastname": "Brown",
+        "totalprice": 256,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-11-12",
+            "checkout": "2025-11-11"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

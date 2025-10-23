@@ -1,0 +1,11 @@
+{
+    "firstname": "Isaac",
+    "lastname": "Hill",
+    "totalprice": 445,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2025-11-12",
+        "checkout": "2025-11-11"
+    },
+    "additionalneeds": "Breakfast"
+}
