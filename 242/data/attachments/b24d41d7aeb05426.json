@@ -1,0 +1,14 @@
+{
+    "bookingid": 5002,
+    "booking": {
+        "firstname": "Christian",
+        "lastname": "Johnson",
+        "totalprice": 915,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-11-09",
+            "checkout": "2025-11-21"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

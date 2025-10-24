@@ -1,0 +1,14 @@
+{
+    "bookingid": 4994,
+    "booking": {
+        "firstname": "Tyler",
+        "lastname": "Turner",
+        "totalprice": 676,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-11-09",
+            "checkout": "2025-10-03"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
