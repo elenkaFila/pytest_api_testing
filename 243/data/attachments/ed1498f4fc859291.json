@@ -1,0 +1,14 @@
+{
+    "bookingid": 5130,
+    "booking": {
+        "firstname": "Jessica",
+        "lastname": "Hardy",
+        "totalprice": 258,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-10-31",
+            "checkout": "2025-10-19"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
