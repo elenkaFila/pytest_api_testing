@@ -1,0 +1,14 @@
+{
+    "bookingid": 3827,
+    "booking": {
+        "firstname": "Craig",
+        "lastname": "Carter",
+        "totalprice": 318,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
