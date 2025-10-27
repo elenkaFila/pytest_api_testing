@@ -1,0 +1,14 @@
+{
+    "bookingid": 4884,
+    "booking": {
+        "firstname": "Makayla",
+        "lastname": "Zimmerman",
+        "totalprice": 258,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-10-27",
+            "checkout": "2025-10-27"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

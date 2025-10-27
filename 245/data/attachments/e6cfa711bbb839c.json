@@ -1,0 +1,13 @@
+{
+    "bookingid": 4895,
+    "booking": {
+        "firstname": "Corey",
+        "lastname": "Farmer",
+        "totalprice": 629,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-11-20",
+            "checkout": "2025-11-07"
+        }
+    }
+}

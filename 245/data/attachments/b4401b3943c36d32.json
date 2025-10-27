@@ -1,0 +1,14 @@
+{
+    "bookingid": 4888,
+    "booking": {
+        "firstname": "Glenn",
+        "lastname": "Rubio",
+        "totalprice": 279,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

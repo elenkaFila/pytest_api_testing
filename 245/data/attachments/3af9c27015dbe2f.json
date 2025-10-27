@@ -1,0 +1,14 @@
+{
+    "bookingid": 4892,
+    "booking": {
+        "firstname": "Theresa",
+        "lastname": "Washington",
+        "totalprice": 308,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-11-20",
+            "checkout": "2025-10-16"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
