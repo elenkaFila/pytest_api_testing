@@ -1,0 +1,14 @@
+{
+    "bookingid": 220,
+    "booking": {
+        "firstname": "Debra",
+        "lastname": "Cummings",
+        "totalprice": 521,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-10-29",
+            "checkout": "2025-10-29"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
