@@ -1,0 +1,13 @@
+{
+    "bookingid": 3277,
+    "booking": {
+        "firstname": "Charles",
+        "lastname": "Alvarado",
+        "totalprice": 695,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-11-25",
+            "checkout": "2025-11-22"
+        }
+    }
+}
