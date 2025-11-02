@@ -1,0 +1,14 @@
+{
+    "bookingid": 3315,
+    "booking": {
+        "firstname": "Robert",
+        "lastname": "Powell",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-11-20",
+            "checkout": "2025-11-21"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
