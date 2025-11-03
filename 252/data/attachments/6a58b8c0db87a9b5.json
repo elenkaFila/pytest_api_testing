@@ -1,0 +1,14 @@
+{
+    "bookingid": 4878,
+    "booking": {
+        "firstname": "Brandon",
+        "lastname": "Wood",
+        "totalprice": 455,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-11-12",
+            "checkout": "2025-11-24"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
