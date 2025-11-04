@@ -1,0 +1,14 @@
+{
+    "bookingid": 67,
+    "booking": {
+        "firstname": "Anita",
+        "lastname": "Schneider",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-11-28",
+            "checkout": "2025-12-10"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

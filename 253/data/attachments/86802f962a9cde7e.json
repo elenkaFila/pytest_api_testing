@@ -1,0 +1,14 @@
+{
+    "bookingid": 25,
+    "booking": {
+        "firstname": "Jason",
+        "lastname": "Rivera",
+        "totalprice": 717,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-11-28",
+            "checkout": "2025-12-10"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
