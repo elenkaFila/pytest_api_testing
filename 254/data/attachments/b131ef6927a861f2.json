@@ -1,0 +1,14 @@
+{
+    "bookingid": 718,
+    "booking": {
+        "firstname": "Scott",
+        "lastname": "Valenzuela",
+        "totalprice": 497,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-11-26",
+            "checkout": "2025-12-03"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
