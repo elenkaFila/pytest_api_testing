@@ -1,0 +1,14 @@
+{
+    "bookingid": 3962,
+    "booking": {
+        "firstname": "Lori",
+        "lastname": "Vaughan",
+        "totalprice": 123,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-11-12",
+            "checkout": "2025-12-10"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
