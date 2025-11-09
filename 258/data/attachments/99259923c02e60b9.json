@@ -1,0 +1,14 @@
+{
+    "bookingid": 3860,
+    "booking": {
+        "firstname": "Beth",
+        "lastname": "Baker",
+        "totalprice": 449,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-11-18",
+            "checkout": "2025-10-24"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
