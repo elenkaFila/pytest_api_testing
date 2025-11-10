@@ -1,0 +1,14 @@
+{
+    "bookingid": 214,
+    "booking": {
+        "firstname": "Corey",
+        "lastname": "Robbins",
+        "totalprice": 357,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-11-24",
+            "checkout": "2025-12-01"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
