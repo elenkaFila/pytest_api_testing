@@ -1,0 +1,14 @@
+{
+    "bookingid": 254,
+    "booking": {
+        "firstname": "Robin",
+        "lastname": "Oconnor",
+        "totalprice": 494,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-11-27",
+            "checkout": "2025-12-06"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
