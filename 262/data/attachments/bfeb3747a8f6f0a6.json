@@ -1,0 +1,14 @@
+{
+    "bookingid": 5001,
+    "booking": {
+        "firstname": "Brendan",
+        "lastname": "Fox",
+        "totalprice": 839,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-06-10",
+            "checkout": "2025-10-29"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
