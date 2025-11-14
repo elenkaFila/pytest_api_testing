@@ -1,0 +1,14 @@
+{
+    "bookingid": 295,
+    "booking": {
+        "firstname": "Dana",
+        "lastname": "Jones",
+        "totalprice": 153,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
