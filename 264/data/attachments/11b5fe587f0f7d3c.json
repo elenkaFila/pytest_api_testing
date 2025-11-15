@@ -1,0 +1,14 @@
+{
+    "bookingid": 3744,
+    "booking": {
+        "firstname": "Adam",
+        "lastname": "Church",
+        "totalprice": 252,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-12-03",
+            "checkout": "2025-11-28"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
