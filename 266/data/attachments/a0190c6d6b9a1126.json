@@ -1,0 +1,14 @@
+{
+    "bookingid": 5031,
+    "booking": {
+        "firstname": "Johnny",
+        "lastname": "Hudson",
+        "totalprice": 470,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-11-21",
+            "checkout": "2025-12-04"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
