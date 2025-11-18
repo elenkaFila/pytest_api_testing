@@ -1,0 +1,14 @@
+{
+    "bookingid": 619,
+    "booking": {
+        "firstname": "Rodney",
+        "lastname": "Butler",
+        "totalprice": 521,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-05-25",
+            "checkout": "2025-11-13"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
