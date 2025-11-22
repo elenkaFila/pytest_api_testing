@@ -1,0 +1,14 @@
+{
+    "bookingid": 3883,
+    "booking": {
+        "firstname": "Jennifer",
+        "lastname": "Duncan",
+        "totalprice": 955,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-12-13",
+            "checkout": "2025-11-12"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
