@@ -1,0 +1,14 @@
+{
+    "bookingid": 4384,
+    "booking": {
+        "firstname": "William",
+        "lastname": "Miller",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-11-25",
+            "checkout": "2025-12-30"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

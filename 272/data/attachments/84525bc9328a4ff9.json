@@ -1,0 +1,14 @@
+{
+    "bookingid": 4317,
+    "booking": {
+        "firstname": "William",
+        "lastname": "Miller",
+        "totalprice": 362,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-11-25",
+            "checkout": "2025-12-30"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
