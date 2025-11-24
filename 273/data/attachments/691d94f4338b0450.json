@@ -1,0 +1,14 @@
+{
+    "bookingid": 638,
+    "booking": {
+        "firstname": "Christina",
+        "lastname": "Molina",
+        "totalprice": 144,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-12-14",
+            "checkout": "2025-11-05"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

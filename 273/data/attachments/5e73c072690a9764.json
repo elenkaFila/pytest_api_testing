@@ -1,0 +1,14 @@
+{
+    "bookingid": 622,
+    "booking": {
+        "firstname": "Mary",
+        "lastname": "Reyes",
+        "totalprice": 870,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-05-29",
+            "checkout": "2025-11-05"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
