@@ -1,0 +1,14 @@
+{
+    "bookingid": 754,
+    "booking": {
+        "firstname": "Tanya",
+        "lastname": "Vance",
+        "totalprice": 740,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-06-20",
+            "checkout": "2025-11-08"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
