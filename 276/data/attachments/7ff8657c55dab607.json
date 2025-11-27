@@ -1,0 +1,14 @@
+{
+    "bookingid": 4507,
+    "booking": {
+        "firstname": "Rodney",
+        "lastname": "Melton",
+        "totalprice": 524,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-06-13",
+            "checkout": "2025-10-28"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

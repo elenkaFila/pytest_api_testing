@@ -1,0 +1,13 @@
+{
+    "bookingid": 4538,
+    "booking": {
+        "firstname": "Alicia",
+        "lastname": "Ward",
+        "totalprice": 606,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-12-24",
+            "checkout": "2025-12-22"
+        }
+    }
+}
