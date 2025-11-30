@@ -1,0 +1,14 @@
+{
+    "bookingid": 4226,
+    "booking": {
+        "firstname": "Donna",
+        "lastname": "Woods",
+        "totalprice": 913,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-12-01",
+            "checkout": "2025-11-06"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
