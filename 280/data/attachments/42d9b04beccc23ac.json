@@ -1,0 +1,14 @@
+{
+    "bookingid": 1542,
+    "booking": {
+        "firstname": "Jay",
+        "lastname": "Proctor",
+        "totalprice": 165,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

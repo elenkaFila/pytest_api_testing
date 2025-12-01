@@ -1,0 +1,14 @@
+{
+    "bookingid": 1544,
+    "booking": {
+        "firstname": "Lawrence",
+        "lastname": "Griffith",
+        "totalprice": 142,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-12-13",
+            "checkout": "2025-11-02"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
