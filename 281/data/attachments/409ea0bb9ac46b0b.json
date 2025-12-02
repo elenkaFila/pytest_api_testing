@@ -1,0 +1,14 @@
+{
+    "bookingid": 1474,
+    "booking": {
+        "firstname": "Mindy",
+        "lastname": "Crawford",
+        "totalprice": 391,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-12-29",
+            "checkout": "2025-12-22"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

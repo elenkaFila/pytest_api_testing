@@ -1,0 +1,14 @@
+{
+    "bookingid": 1367,
+    "booking": {
+        "firstname": "Mary",
+        "lastname": "Torres",
+        "totalprice": 718,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-06-29",
+            "checkout": "2025-11-05"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
