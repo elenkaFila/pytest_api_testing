@@ -1,0 +1,14 @@
+{
+    "bookingid": 1716,
+    "booking": {
+        "firstname": "Tracy",
+        "lastname": "Sanchez",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-12-12",
+            "checkout": "2025-12-29"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
