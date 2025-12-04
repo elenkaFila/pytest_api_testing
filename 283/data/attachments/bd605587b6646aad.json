@@ -1,0 +1,14 @@
+{
+    "bookingid": 1622,
+    "booking": {
+        "firstname": "Lindsey",
+        "lastname": "Myers",
+        "totalprice": 183,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-01-01",
+            "checkout": "2025-11-19"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
