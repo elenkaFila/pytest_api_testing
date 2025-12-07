@@ -1,0 +1,14 @@
+{
+    "bookingid": 4531,
+    "booking": {
+        "firstname": "Joel",
+        "lastname": "Long",
+        "totalprice": 227,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-06-28",
+            "checkout": "2025-11-15"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

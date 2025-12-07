@@ -1,0 +1,11 @@
+{
+    "firstname": "Bryce",
+    "lastname": "Fisher",
+    "totalprice": 399,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2025-12-13",
+        "checkout": "2026-01-14"
+    },
+    "additionalneeds": "Breakfast"
+}
