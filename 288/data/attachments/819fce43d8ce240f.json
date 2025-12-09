@@ -1,0 +1,13 @@
+{
+    "bookingid": 4659,
+    "booking": {
+        "firstname": "Pamela",
+        "lastname": "Poole",
+        "totalprice": 446,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-12-29",
+            "checkout": "2025-12-24"
+        }
+    }
+}

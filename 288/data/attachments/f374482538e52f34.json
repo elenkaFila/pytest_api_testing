@@ -1,0 +1,14 @@
+{
+    "bookingid": 4749,
+    "booking": {
+        "firstname": "Sydney",
+        "lastname": "Barrera",
+        "totalprice": 827,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-12-29",
+            "checkout": "2025-12-24"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
