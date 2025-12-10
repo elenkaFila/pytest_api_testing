@@ -1,0 +1,13 @@
+{
+    "bookingid": 1084,
+    "booking": {
+        "firstname": "Nancy",
+        "lastname": "Jensen",
+        "totalprice": 860,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-12-15",
+            "checkout": "2026-01-14"
+        }
+    }
+}

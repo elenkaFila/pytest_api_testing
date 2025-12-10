@@ -1,0 +1,11 @@
+{
+    "firstname": "Preston",
+    "lastname": "Garcia",
+    "totalprice": null,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2025-12-15",
+        "checkout": "2026-01-14"
+    },
+    "additionalneeds": "breakfast, pool, lunch"
+}
