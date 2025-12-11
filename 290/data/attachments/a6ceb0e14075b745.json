@@ -1,0 +1,14 @@
+{
+    "bookingid": 219,
+    "booking": {
+        "firstname": "Krystal",
+        "lastname": "Green",
+        "totalprice": 143,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2025-12-28"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
