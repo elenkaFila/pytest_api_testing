@@ -1,0 +1,14 @@
+{
+    "bookingid": 4319,
+    "booking": {
+        "firstname": "Kirsten",
+        "lastname": "Allen",
+        "totalprice": 317,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-12-20",
+            "checkout": "2025-11-17"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
