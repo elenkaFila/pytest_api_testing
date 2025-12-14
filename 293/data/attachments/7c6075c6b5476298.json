@@ -1,0 +1,14 @@
+{
+    "bookingid": 4810,
+    "booking": {
+        "firstname": "Christopher",
+        "lastname": "Gates",
+        "totalprice": 142,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-12-27",
+            "checkout": "2025-12-26"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
