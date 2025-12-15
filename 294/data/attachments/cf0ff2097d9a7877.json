@@ -1,0 +1,14 @@
+{
+    "bookingid": 1220,
+    "booking": {
+        "firstname": "Allen",
+        "lastname": "Cook",
+        "totalprice": 956,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-12-27",
+            "checkout": "2025-12-03"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
