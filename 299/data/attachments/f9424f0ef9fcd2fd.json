@@ -1,0 +1,14 @@
+{
+    "bookingid": 4312,
+    "booking": {
+        "firstname": "Bethany",
+        "lastname": "Moore",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-12-24",
+            "checkout": "2026-01-04"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
