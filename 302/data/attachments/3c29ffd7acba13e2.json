@@ -1,0 +1,14 @@
+{
+    "bookingid": 1256,
+    "booking": {
+        "firstname": "Kenneth",
+        "lastname": "Haynes",
+        "totalprice": 465,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-01-11",
+            "checkout": "2026-01-13"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 1042,
+    "booking": {
+        "firstname": "John",
+        "lastname": "Mcmillan",
+        "totalprice": 510,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-01-11",
+            "checkout": "2025-12-16"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
