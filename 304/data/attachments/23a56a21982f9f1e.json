@@ -1,0 +1,14 @@
+{
+    "bookingid": 556,
+    "booking": {
+        "firstname": "Angelica",
+        "lastname": "Wright",
+        "totalprice": 692,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-01-22",
+            "checkout": "2026-01-21"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
