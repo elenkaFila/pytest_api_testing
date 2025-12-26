@@ -1,0 +1,14 @@
+{
+    "bookingid": 538,
+    "booking": {
+        "firstname": "Patricia",
+        "lastname": "Gardner",
+        "totalprice": 860,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-01-10",
+            "checkout": "2025-12-22"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
