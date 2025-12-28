@@ -1,0 +1,14 @@
+{
+    "bookingid": 452,
+    "booking": {
+        "firstname": "Paula",
+        "lastname": "Thompson",
+        "totalprice": 685,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-01-14",
+            "checkout": "2026-01-17"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
