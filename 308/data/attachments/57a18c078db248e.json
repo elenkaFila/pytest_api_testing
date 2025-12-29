@@ -1,0 +1,14 @@
+{
+    "bookingid": 1462,
+    "booking": {
+        "firstname": "Cynthia",
+        "lastname": "Smith",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-01-24",
+            "checkout": "2026-01-23"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

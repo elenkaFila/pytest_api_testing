@@ -1,0 +1,14 @@
+{
+    "bookingid": 1336,
+    "booking": {
+        "firstname": "Ryan",
+        "lastname": "Cox",
+        "totalprice": 124,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-01-24",
+            "checkout": "2025-12-05"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
