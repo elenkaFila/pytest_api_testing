@@ -1,0 +1,14 @@
+{
+    "bookingid": 1360,
+    "booking": {
+        "firstname": "Patricia",
+        "lastname": "Holloway",
+        "totalprice": 926,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-01-23",
+            "checkout": "2026-02-04"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
