@@ -1,0 +1,14 @@
+{
+    "bookingid": 663,
+    "booking": {
+        "firstname": "Kimberly",
+        "lastname": "Benson",
+        "totalprice": 948,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-01-19",
+            "checkout": "2025-12-13"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

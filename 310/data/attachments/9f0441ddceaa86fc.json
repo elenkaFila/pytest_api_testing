@@ -1,0 +1,14 @@
+{
+    "bookingid": 660,
+    "booking": {
+        "firstname": "Ashley",
+        "lastname": "Cortez",
+        "totalprice": 449,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-01-20"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
