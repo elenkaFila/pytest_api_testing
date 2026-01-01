@@ -1,0 +1,14 @@
+{
+    "bookingid": 683,
+    "booking": {
+        "firstname": "Jeffrey",
+        "lastname": "Delacruz",
+        "totalprice": 123,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
