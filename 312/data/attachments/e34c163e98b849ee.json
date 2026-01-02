@@ -1,0 +1,14 @@
+{
+    "bookingid": 480,
+    "booking": {
+        "firstname": "Craig",
+        "lastname": "Nguyen",
+        "totalprice": 949,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-01-08",
+            "checkout": "2025-12-09"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
