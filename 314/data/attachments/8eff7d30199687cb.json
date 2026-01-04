@@ -1,0 +1,11 @@
+{
+    "firstname": "Michael",
+    "lastname": "Hill",
+    "totalprice": 411,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2026-01-05",
+        "checkout": "2026-02-10"
+    },
+    "additionalneeds": "breakfast, pool, lunch"
+}
