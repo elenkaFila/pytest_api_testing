@@ -1,0 +1,14 @@
+{
+    "bookingid": 1415,
+    "booking": {
+        "firstname": "Anna",
+        "lastname": "Guzman",
+        "totalprice": 564,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-01-08",
+            "checkout": "2026-02-03"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
