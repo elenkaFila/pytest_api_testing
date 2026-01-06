@@ -1,0 +1,11 @@
+{
+    "firstname": "Alexandria",
+    "lastname": "Ramirez",
+    "totalprice": null,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2026-01-23",
+        "checkout": "2026-02-05"
+    },
+    "additionalneeds": "breakfast, pool, lunch"
+}
