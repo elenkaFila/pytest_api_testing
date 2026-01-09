@@ -1,0 +1,14 @@
+{
+    "bookingid": 1173,
+    "booking": {
+        "firstname": "Michelle",
+        "lastname": "Ballard",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-02-06",
+            "checkout": "2026-02-14"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
