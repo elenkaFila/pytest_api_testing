@@ -1,0 +1,14 @@
+{
+    "bookingid": 1503,
+    "booking": {
+        "firstname": "Emma",
+        "lastname": "Mcmahon",
+        "totalprice": 411,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-01-12",
+            "checkout": "2026-01-12"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

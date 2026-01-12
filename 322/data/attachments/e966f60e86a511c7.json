@@ -1,0 +1,14 @@
+{
+    "bookingid": 1521,
+    "booking": {
+        "firstname": "Tina",
+        "lastname": "Mason",
+        "totalprice": 910,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-01-26"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

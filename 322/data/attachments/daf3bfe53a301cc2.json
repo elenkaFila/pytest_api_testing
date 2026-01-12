@@ -1,0 +1,14 @@
+{
+    "bookingid": 1637,
+    "booking": {
+        "firstname": "Phillip",
+        "lastname": "Edwards",
+        "totalprice": 751,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-02-09",
+            "checkout": "2026-01-26"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
