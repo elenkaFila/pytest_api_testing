@@ -1,0 +1,14 @@
+{
+    "bookingid": 1603,
+    "booking": {
+        "firstname": "Janet",
+        "lastname": "Irwin",
+        "totalprice": 687,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-08-02",
+            "checkout": "2025-12-26"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

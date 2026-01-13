@@ -1,0 +1,14 @@
+{
+    "bookingid": 1664,
+    "booking": {
+        "firstname": "Tami",
+        "lastname": "Ramirez",
+        "totalprice": 162,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-01-24",
+            "checkout": "2026-02-21"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
