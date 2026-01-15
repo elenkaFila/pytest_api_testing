@@ -1,0 +1,14 @@
+{
+    "bookingid": 3961,
+    "booking": {
+        "firstname": "Christina",
+        "lastname": "Norton",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-01-24",
+            "checkout": "2026-02-02"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

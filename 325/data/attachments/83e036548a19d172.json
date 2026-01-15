@@ -1,0 +1,14 @@
+{
+    "bookingid": 3750,
+    "booking": {
+        "firstname": "Angela",
+        "lastname": "Howell",
+        "totalprice": 790,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-08-07",
+            "checkout": "2025-12-29"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
