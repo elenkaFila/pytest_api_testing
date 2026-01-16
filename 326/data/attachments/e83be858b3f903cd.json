@@ -1,0 +1,14 @@
+{
+    "bookingid": 1181,
+    "booking": {
+        "firstname": "Tammy",
+        "lastname": "Goodman",
+        "totalprice": 519,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

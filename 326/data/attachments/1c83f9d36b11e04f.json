@@ -1,0 +1,14 @@
+{
+    "bookingid": 1216,
+    "booking": {
+        "firstname": "Jonathan",
+        "lastname": "Turner",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-01-27",
+            "checkout": "2026-02-24"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
