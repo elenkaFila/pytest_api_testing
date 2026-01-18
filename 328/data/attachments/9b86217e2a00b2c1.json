@@ -1,0 +1,14 @@
+{
+    "bookingid": 5075,
+    "booking": {
+        "firstname": "Mark",
+        "lastname": "Dunlap",
+        "totalprice": 443,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-01-18",
+            "checkout": "2026-01-18"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

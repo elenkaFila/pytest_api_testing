@@ -1,0 +1,14 @@
+{
+    "bookingid": 5079,
+    "booking": {
+        "firstname": "Daisy",
+        "lastname": "Chapman",
+        "totalprice": 446,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-07-29",
+            "checkout": "2026-01-03"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 5160,
+    "booking": {
+        "firstname": "Jessica",
+        "lastname": "Santos",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-01-21",
+            "checkout": "2026-02-20"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
