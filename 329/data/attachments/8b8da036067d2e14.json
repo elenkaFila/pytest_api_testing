@@ -1,0 +1,14 @@
+{
+    "bookingid": 1543,
+    "booking": {
+        "firstname": "Tamara",
+        "lastname": "Stephens",
+        "totalprice": 713,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-02-14",
+            "checkout": "2026-01-12"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
