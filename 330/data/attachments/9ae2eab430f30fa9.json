@@ -1,0 +1,14 @@
+{
+    "bookingid": 3190,
+    "booking": {
+        "firstname": "Victoria",
+        "lastname": "Mann",
+        "totalprice": 186,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-02-21"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
