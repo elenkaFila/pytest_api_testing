@@ -1,0 +1,13 @@
+{
+    "bookingid": 2211,
+    "booking": {
+        "firstname": "Michelle",
+        "lastname": "Duarte",
+        "totalprice": 682,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-01-28",
+            "checkout": "2026-02-28"
+        }
+    }
+}
