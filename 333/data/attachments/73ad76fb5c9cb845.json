@@ -1,0 +1,14 @@
+{
+    "bookingid": 1847,
+    "booking": {
+        "firstname": "Kendra",
+        "lastname": "Clarke",
+        "totalprice": 179,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-02-20",
+            "checkout": "2026-01-12"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

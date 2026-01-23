@@ -1,0 +1,14 @@
+{
+    "bookingid": 1836,
+    "booking": {
+        "firstname": "Gary",
+        "lastname": "Wong",
+        "totalprice": 917,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
