@@ -1,0 +1,14 @@
+{
+    "bookingid": 419,
+    "booking": {
+        "firstname": "Mark",
+        "lastname": "Munoz",
+        "totalprice": 827,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-02-04",
+            "checkout": "2026-01-07"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
