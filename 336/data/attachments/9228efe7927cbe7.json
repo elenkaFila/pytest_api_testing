@@ -1,0 +1,14 @@
+{
+    "bookingid": 3008,
+    "booking": {
+        "firstname": "Margaret",
+        "lastname": "Koch",
+        "totalprice": 672,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-02-23",
+            "checkout": "2026-02-10"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

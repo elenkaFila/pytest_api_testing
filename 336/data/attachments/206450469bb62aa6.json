@@ -1,0 +1,14 @@
+{
+    "bookingid": 2927,
+    "booking": {
+        "firstname": "Stacy",
+        "lastname": "Hogan",
+        "totalprice": 375,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

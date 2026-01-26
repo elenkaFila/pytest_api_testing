@@ -1,0 +1,14 @@
+{
+    "bookingid": 3079,
+    "booking": {
+        "firstname": "Margaret",
+        "lastname": "Koch",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-02-23",
+            "checkout": "2026-02-10"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

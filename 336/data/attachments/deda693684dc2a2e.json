@@ -1,0 +1,14 @@
+{
+    "bookingid": 2937,
+    "booking": {
+        "firstname": "Patricia",
+        "lastname": "Cooper",
+        "totalprice": 719,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-02-23",
+            "checkout": "2026-01-23"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

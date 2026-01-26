@@ -1,0 +1,14 @@
+{
+    "bookingid": 2932,
+    "booking": {
+        "firstname": "Casey",
+        "lastname": "Salas",
+        "totalprice": 476,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-02-10"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
