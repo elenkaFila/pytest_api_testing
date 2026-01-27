@@ -1,0 +1,14 @@
+{
+    "bookingid": 4927,
+    "booking": {
+        "firstname": "Casey",
+        "lastname": "Manning",
+        "totalprice": 842,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-02-20",
+            "checkout": "2026-02-28"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

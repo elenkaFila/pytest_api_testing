@@ -1,0 +1,13 @@
+{
+    "bookingid": 4925,
+    "booking": {
+        "firstname": "Angelica",
+        "lastname": "Mendez",
+        "totalprice": 923,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-02-20",
+            "checkout": "2026-02-28"
+        }
+    }
+}
