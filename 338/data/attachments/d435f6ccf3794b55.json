@@ -1,0 +1,14 @@
+{
+    "bookingid": 4539,
+    "booking": {
+        "firstname": "Corey",
+        "lastname": "Preston",
+        "totalprice": 733,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-01-28",
+            "checkout": "2026-01-28"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
