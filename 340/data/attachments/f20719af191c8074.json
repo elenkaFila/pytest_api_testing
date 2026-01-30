@@ -1,0 +1,14 @@
+{
+    "bookingid": 1171,
+    "booking": {
+        "firstname": "Andrew",
+        "lastname": "Delacruz",
+        "totalprice": 385,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-02-16",
+            "checkout": "2026-03-07"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

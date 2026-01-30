@@ -1,0 +1,14 @@
+{
+    "bookingid": 1151,
+    "booking": {
+        "firstname": "Autumn",
+        "lastname": "Davis",
+        "totalprice": 573,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
