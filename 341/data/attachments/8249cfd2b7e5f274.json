@@ -1,0 +1,14 @@
+{
+    "bookingid": 1397,
+    "booking": {
+        "firstname": "Austin",
+        "lastname": "Ruiz",
+        "totalprice": 375,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-02-08",
+            "checkout": "2026-02-11"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

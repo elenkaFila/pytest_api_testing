@@ -1,0 +1,14 @@
+{
+    "bookingid": 1461,
+    "booking": {
+        "firstname": "Danielle",
+        "lastname": "Mejia",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-02-08",
+            "checkout": "2026-02-11"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
