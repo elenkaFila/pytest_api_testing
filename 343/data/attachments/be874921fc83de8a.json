@@ -1,0 +1,14 @@
+{
+    "bookingid": 2166,
+    "booking": {
+        "firstname": "Cameron",
+        "lastname": "Parrish",
+        "totalprice": 306,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-02-04",
+            "checkout": "2026-03-03"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
