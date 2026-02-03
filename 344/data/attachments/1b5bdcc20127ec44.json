@@ -1,0 +1,13 @@
+{
+    "bookingid": 3425,
+    "booking": {
+        "firstname": "Ann",
+        "lastname": "Zuniga",
+        "totalprice": 121,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-02-08",
+            "checkout": "2026-03-02"
+        }
+    }
+}
