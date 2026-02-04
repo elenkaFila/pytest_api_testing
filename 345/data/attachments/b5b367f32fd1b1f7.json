@@ -1,0 +1,14 @@
+{
+    "bookingid": 4461,
+    "booking": {
+        "firstname": "Benjamin",
+        "lastname": "Collins",
+        "totalprice": 651,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-02-16",
+            "checkout": "2026-02-21"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

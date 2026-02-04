@@ -1,0 +1,14 @@
+{
+    "bookingid": 4383,
+    "booking": {
+        "firstname": "Cheryl",
+        "lastname": "Alvarado",
+        "totalprice": 821,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-02-21"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

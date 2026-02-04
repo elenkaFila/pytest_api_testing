@@ -1,0 +1,13 @@
+{
+    "bookingid": 4395,
+    "booking": {
+        "firstname": "Natasha",
+        "lastname": "Hardin",
+        "totalprice": 925,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-02-16",
+            "checkout": "2026-02-21"
+        }
+    }
+}
