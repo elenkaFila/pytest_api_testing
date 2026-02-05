@@ -1,0 +1,14 @@
+{
+    "bookingid": 5032,
+    "booking": {
+        "firstname": "Robert",
+        "lastname": "Santiago",
+        "totalprice": 536,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-02-13",
+            "checkout": "2026-03-12"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

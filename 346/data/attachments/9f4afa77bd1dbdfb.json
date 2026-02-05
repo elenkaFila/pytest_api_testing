@@ -1,0 +1,14 @@
+{
+    "bookingid": 4996,
+    "booking": {
+        "firstname": "Stacey",
+        "lastname": "Thornton",
+        "totalprice": 357,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-08-21",
+            "checkout": "2026-01-13"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

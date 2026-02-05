@@ -1,0 +1,14 @@
+{
+    "bookingid": 5014,
+    "booking": {
+        "firstname": "Jason",
+        "lastname": "Farmer",
+        "totalprice": 114,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-02-13",
+            "checkout": "2026-03-12"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
