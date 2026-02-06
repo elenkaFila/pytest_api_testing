@@ -1,0 +1,14 @@
+{
+    "bookingid": 4672,
+    "booking": {
+        "firstname": "Rebecca",
+        "lastname": "Bishop",
+        "totalprice": 778,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-02-25",
+            "checkout": "2026-01-20"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
