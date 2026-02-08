@@ -1,0 +1,14 @@
+{
+    "bookingid": 3300,
+    "booking": {
+        "firstname": "Katrina",
+        "lastname": "Foster",
+        "totalprice": 169,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-02-19",
+            "checkout": "2026-02-19"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
