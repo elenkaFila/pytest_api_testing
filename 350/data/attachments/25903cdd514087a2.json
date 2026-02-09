@@ -1,0 +1,14 @@
+{
+    "bookingid": 4436,
+    "booking": {
+        "firstname": "Gregory",
+        "lastname": "Flores",
+        "totalprice": 736,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-02-11",
+            "checkout": "2026-03-15"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
