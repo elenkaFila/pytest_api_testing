@@ -1,0 +1,14 @@
+{
+    "bookingid": 3708,
+    "booking": {
+        "firstname": "Susan",
+        "lastname": "Hamilton",
+        "totalprice": 162,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-02-10",
+            "checkout": "2026-02-10"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
