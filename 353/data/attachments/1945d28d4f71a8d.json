@@ -1,0 +1,14 @@
+{
+    "bookingid": 2150,
+    "booking": {
+        "firstname": "Tiffany",
+        "lastname": "Hansen",
+        "totalprice": 961,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-03-10",
+            "checkout": "2026-02-10"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
