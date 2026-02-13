@@ -1,0 +1,14 @@
+{
+    "bookingid": 4014,
+    "booking": {
+        "firstname": "Donna",
+        "lastname": "Rowe",
+        "totalprice": 651,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-02-13",
+            "checkout": "2026-02-13"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
