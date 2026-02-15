@@ -1,0 +1,14 @@
+{
+    "bookingid": 3244,
+    "booking": {
+        "firstname": "Rhonda",
+        "lastname": "Lopez",
+        "totalprice": 178,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-02-15",
+            "checkout": "2026-02-15"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
