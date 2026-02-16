@@ -1,0 +1,14 @@
+{
+    "bookingid": 2133,
+    "booking": {
+        "firstname": "Alyssa",
+        "lastname": "Montgomery",
+        "totalprice": 239,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-02-16",
+            "checkout": "2026-02-16"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

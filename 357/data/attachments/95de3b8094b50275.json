@@ -1,0 +1,14 @@
+{
+    "bookingid": 2378,
+    "booking": {
+        "firstname": "Diana",
+        "lastname": "Webb",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-03-11",
+            "checkout": "2026-03-06"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
