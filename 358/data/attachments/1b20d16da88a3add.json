@@ -1,0 +1,14 @@
+{
+    "bookingid": 4146,
+    "booking": {
+        "firstname": "Shelia",
+        "lastname": "Mendez",
+        "totalprice": 515,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-02-28"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

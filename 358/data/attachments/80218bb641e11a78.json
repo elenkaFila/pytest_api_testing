@@ -1,0 +1,14 @@
+{
+    "bookingid": 4149,
+    "booking": {
+        "firstname": "Ryan",
+        "lastname": "Ayers",
+        "totalprice": 827,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-03-08",
+            "checkout": "2026-02-08"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
