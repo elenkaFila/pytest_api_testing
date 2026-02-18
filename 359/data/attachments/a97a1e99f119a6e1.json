@@ -1,0 +1,13 @@
+{
+    "bookingid": 1443,
+    "booking": {
+        "firstname": "Allen",
+        "lastname": "Young",
+        "totalprice": 602,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-03-16",
+            "checkout": "2026-03-17"
+        }
+    }
+}
