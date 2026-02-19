@@ -1,0 +1,14 @@
+{
+    "bookingid": 1266,
+    "booking": {
+        "firstname": "Jeff",
+        "lastname": "Molina",
+        "totalprice": 298,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-03-12",
+            "checkout": "2026-02-10"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
