@@ -1,0 +1,14 @@
+{
+    "bookingid": 3562,
+    "booking": {
+        "firstname": "Dustin",
+        "lastname": "Torres",
+        "totalprice": 343,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-02-20",
+            "checkout": "2026-02-20"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

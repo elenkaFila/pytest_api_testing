@@ -1,0 +1,14 @@
+{
+    "bookingid": 3691,
+    "booking": {
+        "firstname": "Allison",
+        "lastname": "Armstrong",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-03-11",
+            "checkout": "2026-03-28"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
