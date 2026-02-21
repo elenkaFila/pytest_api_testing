@@ -1,0 +1,14 @@
+{
+    "bookingid": 2532,
+    "booking": {
+        "firstname": "Michelle",
+        "lastname": "Vega",
+        "totalprice": 823,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-03-01",
+            "checkout": "2026-02-09"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
