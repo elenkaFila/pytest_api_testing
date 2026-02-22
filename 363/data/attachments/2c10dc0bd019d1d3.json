@@ -1,0 +1,14 @@
+{
+    "bookingid": 2911,
+    "booking": {
+        "firstname": "Jennifer",
+        "lastname": "Gay",
+        "totalprice": 757,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-09-10",
+            "checkout": "2026-02-02"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
