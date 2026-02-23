@@ -1,0 +1,14 @@
+{
+    "bookingid": 1824,
+    "booking": {
+        "firstname": "Dalton",
+        "lastname": "Ross",
+        "totalprice": 306,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-02-24",
+            "checkout": "2026-03-20"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
