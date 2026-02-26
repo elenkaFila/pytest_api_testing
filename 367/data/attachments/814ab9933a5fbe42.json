@@ -1,0 +1,14 @@
+{
+    "bookingid": 901,
+    "booking": {
+        "firstname": "Gwendolyn",
+        "lastname": "Castro",
+        "totalprice": 996,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-02-26",
+            "checkout": "2026-02-26"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

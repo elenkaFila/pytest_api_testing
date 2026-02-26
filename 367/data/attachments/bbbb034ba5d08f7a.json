@@ -1,0 +1,14 @@
+{
+    "bookingid": 904,
+    "booking": {
+        "firstname": "William",
+        "lastname": "Leach",
+        "totalprice": 966,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-09-17",
+            "checkout": "2026-01-30"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
