@@ -1,0 +1,14 @@
+{
+    "bookingid": 1893,
+    "booking": {
+        "firstname": "Bradley",
+        "lastname": "Roth",
+        "totalprice": 538,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-09-24",
+            "checkout": "2026-02-07"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
