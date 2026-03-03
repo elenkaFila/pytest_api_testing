@@ -1,0 +1,14 @@
+{
+    "bookingid": 4527,
+    "booking": {
+        "firstname": "Shawn",
+        "lastname": "Duran",
+        "totalprice": 888,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-03-19",
+            "checkout": "2026-02-02"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
