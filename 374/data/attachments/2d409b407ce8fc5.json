@@ -1,0 +1,14 @@
+{
+    "bookingid": 465,
+    "booking": {
+        "firstname": "Melissa",
+        "lastname": "Peterson",
+        "totalprice": 187,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
