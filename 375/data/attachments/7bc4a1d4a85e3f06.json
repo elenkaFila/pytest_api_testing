@@ -1,0 +1,14 @@
+{
+    "bookingid": 2315,
+    "booking": {
+        "firstname": "David",
+        "lastname": "Mcgrath",
+        "totalprice": 742,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-03-07",
+            "checkout": "2026-04-01"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

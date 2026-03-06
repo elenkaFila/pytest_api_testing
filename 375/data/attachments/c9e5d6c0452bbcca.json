@@ -1,0 +1,13 @@
+{
+    "bookingid": 2289,
+    "booking": {
+        "firstname": "Susan",
+        "lastname": "Moore",
+        "totalprice": 428,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-03-07",
+            "checkout": "2026-04-01"
+        }
+    }
+}

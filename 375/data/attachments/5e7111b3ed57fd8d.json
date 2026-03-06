@@ -1,0 +1,14 @@
+{
+    "bookingid": 2282,
+    "booking": {
+        "firstname": "Sonya",
+        "lastname": "Willis",
+        "totalprice": 172,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

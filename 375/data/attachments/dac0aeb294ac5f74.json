@@ -1,0 +1,14 @@
+{
+    "bookingid": 2279,
+    "booking": {
+        "firstname": "Crystal",
+        "lastname": "Wagner",
+        "totalprice": 112,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-09-18",
+            "checkout": "2026-02-23"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
