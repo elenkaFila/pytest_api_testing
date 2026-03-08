@@ -1,0 +1,13 @@
+{
+    "bookingid": 2189,
+    "booking": {
+        "firstname": "Shannon",
+        "lastname": "Gonzalez",
+        "totalprice": 139,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-03-11",
+            "checkout": "2026-04-05"
+        }
+    }
+}
