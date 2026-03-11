@@ -1,0 +1,14 @@
+{
+    "bookingid": 2461,
+    "booking": {
+        "firstname": "Andrew",
+        "lastname": "Pacheco",
+        "totalprice": 730,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-03-28",
+            "checkout": "2026-04-04"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
