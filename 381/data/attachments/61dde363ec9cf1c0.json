@@ -1,0 +1,14 @@
+{
+    "bookingid": 1513,
+    "booking": {
+        "firstname": "Veronica",
+        "lastname": "Wilson",
+        "totalprice": 652,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-04-04",
+            "checkout": "2026-02-15"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

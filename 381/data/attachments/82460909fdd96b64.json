@@ -1,0 +1,14 @@
+{
+    "bookingid": 1561,
+    "booking": {
+        "firstname": "Misty",
+        "lastname": "Jones",
+        "totalprice": 775,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-04-04",
+            "checkout": "2026-04-09"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "firstname": "Misty",
+    "lastname": "Jones",
+    "totalprice": 775,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2026-04-04",
+        "checkout": "2026-04-09"
+    },
+    "additionalneeds": "breakfast, pool, lunch"
+}
