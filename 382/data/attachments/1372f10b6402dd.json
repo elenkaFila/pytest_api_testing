@@ -1,0 +1,14 @@
+{
+    "bookingid": 1212,
+    "booking": {
+        "firstname": "Andrea",
+        "lastname": "Banks",
+        "totalprice": 197,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-03-13",
+            "checkout": "2026-03-13"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
