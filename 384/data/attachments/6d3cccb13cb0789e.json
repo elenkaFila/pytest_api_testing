@@ -1,0 +1,14 @@
+{
+    "bookingid": 4671,
+    "booking": {
+        "firstname": "David",
+        "lastname": "Huff",
+        "totalprice": 810,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-04-08",
+            "checkout": "2026-04-10"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

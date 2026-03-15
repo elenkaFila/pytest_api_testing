@@ -1,0 +1,14 @@
+{
+    "bookingid": 4680,
+    "booking": {
+        "firstname": "Mason",
+        "lastname": "Benson",
+        "totalprice": 476,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
