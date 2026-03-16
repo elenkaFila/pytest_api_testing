@@ -1,0 +1,14 @@
+{
+    "bookingid": 1365,
+    "booking": {
+        "firstname": "Tina",
+        "lastname": "Rivera",
+        "totalprice": 503,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-10-01",
+            "checkout": "2026-03-08"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
