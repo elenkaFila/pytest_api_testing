@@ -1,0 +1,14 @@
+{
+    "bookingid": 1493,
+    "booking": {
+        "firstname": "Tonya",
+        "lastname": "Walker",
+        "totalprice": 866,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
