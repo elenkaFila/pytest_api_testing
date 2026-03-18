@@ -1,0 +1,14 @@
+{
+    "bookingid": 559,
+    "booking": {
+        "firstname": "Matthew",
+        "lastname": "Gaines",
+        "totalprice": 314,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-03-18",
+            "checkout": "2026-03-18"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

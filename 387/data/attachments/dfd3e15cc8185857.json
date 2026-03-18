@@ -1,0 +1,14 @@
+{
+    "bookingid": 561,
+    "booking": {
+        "firstname": "Bonnie",
+        "lastname": "King",
+        "totalprice": 192,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-09-27",
+            "checkout": "2026-02-22"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
