@@ -1,0 +1,14 @@
+{
+    "bookingid": 4016,
+    "booking": {
+        "firstname": "William",
+        "lastname": "Duncan",
+        "totalprice": 832,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-04-15"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
