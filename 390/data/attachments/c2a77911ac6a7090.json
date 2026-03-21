@@ -1,0 +1,14 @@
+{
+    "bookingid": 3702,
+    "booking": {
+        "firstname": "Tanya",
+        "lastname": "Velez",
+        "totalprice": 858,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
