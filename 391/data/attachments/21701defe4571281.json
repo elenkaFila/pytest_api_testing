@@ -1,0 +1,11 @@
+{
+    "firstname": "John",
+    "lastname": "Aguilar",
+    "totalprice": null,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2026-04-11",
+        "checkout": "2026-04-06"
+    },
+    "additionalneeds": "breakfast, pool, lunch"
+}
