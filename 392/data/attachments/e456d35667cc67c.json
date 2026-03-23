@@ -1,0 +1,13 @@
+{
+    "bookingid": 1485,
+    "booking": {
+        "firstname": "Mary",
+        "lastname": "Kim",
+        "totalprice": 738,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-03-29",
+            "checkout": "2026-04-25"
+        }
+    }
+}
