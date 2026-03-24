@@ -1,0 +1,14 @@
+{
+    "bookingid": 1722,
+    "booking": {
+        "firstname": "Cindy",
+        "lastname": "Cochran",
+        "totalprice": 201,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-04-17"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
