@@ -1,0 +1,13 @@
+{
+    "bookingid": 3415,
+    "booking": {
+        "firstname": "Michael",
+        "lastname": "Barnes",
+        "totalprice": 625,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-04-07",
+            "checkout": "2026-04-19"
+        }
+    }
+}
