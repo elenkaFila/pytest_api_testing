@@ -1,0 +1,11 @@
+{
+    "firstname": "Linda",
+    "lastname": "Banks",
+    "totalprice": 638,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2026-04-18",
+        "checkout": "2026-04-17"
+    },
+    "additionalneeds": "breakfast, pool, lunch"
+}
