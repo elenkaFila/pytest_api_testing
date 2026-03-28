@@ -1,0 +1,14 @@
+{
+    "bookingid": 703,
+    "booking": {
+        "firstname": "Laura",
+        "lastname": "Martinez",
+        "totalprice": 410,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-10-17",
+            "checkout": "2026-03-20"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
