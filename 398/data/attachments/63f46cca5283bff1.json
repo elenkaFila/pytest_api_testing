@@ -1,0 +1,14 @@
+{
+    "bookingid": 1114,
+    "booking": {
+        "firstname": "Cheryl",
+        "lastname": "Banks",
+        "totalprice": 786,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-04-18",
+            "checkout": "2026-04-13"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
