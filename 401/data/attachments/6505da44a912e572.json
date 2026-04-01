@@ -1,0 +1,14 @@
+{
+    "bookingid": 744,
+    "booking": {
+        "firstname": "Brandi",
+        "lastname": "Hancock",
+        "totalprice": 105,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-04-01",
+            "checkout": "2026-04-01"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
