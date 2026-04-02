@@ -1,0 +1,14 @@
+{
+    "bookingid": 2904,
+    "booking": {
+        "firstname": "Pamela",
+        "lastname": "Gallagher",
+        "totalprice": 807,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-04-17",
+            "checkout": "2026-04-27"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

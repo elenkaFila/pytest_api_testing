@@ -1,0 +1,14 @@
+{
+    "bookingid": 2855,
+    "booking": {
+        "firstname": "Mario",
+        "lastname": "Holt",
+        "totalprice": 605,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-04-02",
+            "checkout": "2026-04-02"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
