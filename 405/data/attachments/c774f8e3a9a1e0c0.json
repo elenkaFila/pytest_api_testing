@@ -1,0 +1,14 @@
+{
+    "bookingid": 2019,
+    "booking": {
+        "firstname": "Cristina",
+        "lastname": "Santiago",
+        "totalprice": 118,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-04-25",
+            "checkout": "2026-04-16"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

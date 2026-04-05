@@ -1,0 +1,14 @@
+{
+    "bookingid": 1988,
+    "booking": {
+        "firstname": "Eric",
+        "lastname": "Doyle",
+        "totalprice": 209,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-04-16"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
