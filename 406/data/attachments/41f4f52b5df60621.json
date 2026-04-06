@@ -1,0 +1,14 @@
+{
+    "bookingid": 3818,
+    "booking": {
+        "firstname": "Leslie",
+        "lastname": "Gibson",
+        "totalprice": 930,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-04-15",
+            "checkout": "2026-04-28"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
