@@ -1,0 +1,13 @@
+{
+    "bookingid": 1821,
+    "booking": {
+        "firstname": "April",
+        "lastname": "Gibbs",
+        "totalprice": 685,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-04-19",
+            "checkout": "2026-05-15"
+        }
+    }
+}
