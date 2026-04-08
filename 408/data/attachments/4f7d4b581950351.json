@@ -1,0 +1,14 @@
+{
+    "bookingid": 2822,
+    "booking": {
+        "firstname": "Felicia",
+        "lastname": "Dudley",
+        "totalprice": 859,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-10-11",
+            "checkout": "2026-03-19"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
