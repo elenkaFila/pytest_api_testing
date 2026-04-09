@@ -1,0 +1,14 @@
+{
+    "bookingid": 1897,
+    "booking": {
+        "firstname": "Laura",
+        "lastname": "Hutchinson",
+        "totalprice": 600,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-04-09",
+            "checkout": "2026-04-09"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
