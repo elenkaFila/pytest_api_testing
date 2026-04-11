@@ -1,0 +1,14 @@
+{
+    "bookingid": 2434,
+    "booking": {
+        "firstname": "Jenna",
+        "lastname": "Henderson",
+        "totalprice": 464,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-04-23",
+            "checkout": "2026-05-11"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

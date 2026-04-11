@@ -1,0 +1,14 @@
+{
+    "bookingid": 2340,
+    "booking": {
+        "firstname": "Susan",
+        "lastname": "Yang",
+        "totalprice": 144,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-11-06",
+            "checkout": "2026-03-14"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
