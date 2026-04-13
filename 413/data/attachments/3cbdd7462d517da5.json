@@ -1,0 +1,13 @@
+{
+    "bookingid": 2274,
+    "booking": {
+        "firstname": "Ellen",
+        "lastname": "Bullock",
+        "totalprice": 758,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-05-04",
+            "checkout": "2026-04-28"
+        }
+    }
+}
