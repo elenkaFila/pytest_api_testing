@@ -1,0 +1,14 @@
+{
+    "bookingid": 1923,
+    "booking": {
+        "firstname": "Michael",
+        "lastname": "Wiggins",
+        "totalprice": 242,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
