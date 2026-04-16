@@ -1,0 +1,14 @@
+{
+    "bookingid": 540,
+    "booking": {
+        "firstname": "Teresa",
+        "lastname": "Lara",
+        "totalprice": 753,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-11-13",
+            "checkout": "2026-04-09"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
