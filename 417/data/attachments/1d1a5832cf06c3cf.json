@@ -1,0 +1,14 @@
+{
+    "bookingid": 5230,
+    "booking": {
+        "firstname": "Carol",
+        "lastname": "King",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-04-30",
+            "checkout": "2026-05-20"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

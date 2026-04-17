@@ -1,0 +1,14 @@
+{
+    "bookingid": 5150,
+    "booking": {
+        "firstname": "Caitlin",
+        "lastname": "Pugh",
+        "totalprice": 318,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-05-20"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

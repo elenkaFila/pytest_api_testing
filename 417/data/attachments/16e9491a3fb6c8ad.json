@@ -1,0 +1,14 @@
+{
+    "bookingid": 5154,
+    "booking": {
+        "firstname": "Bradley",
+        "lastname": "Hendricks",
+        "totalprice": 352,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-04-30",
+            "checkout": "2026-04-04"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
