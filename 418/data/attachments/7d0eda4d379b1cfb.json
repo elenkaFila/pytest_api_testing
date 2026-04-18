@@ -1,0 +1,14 @@
+{
+    "bookingid": 3620,
+    "booking": {
+        "firstname": "Edwin",
+        "lastname": "Washington",
+        "totalprice": 281,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-05-17",
+            "checkout": "2026-04-06"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
