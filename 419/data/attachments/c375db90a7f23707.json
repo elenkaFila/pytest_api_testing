@@ -1,0 +1,13 @@
+{
+    "bookingid": 4136,
+    "booking": {
+        "firstname": "Nicholas",
+        "lastname": "Gibson",
+        "totalprice": 583,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-04-29",
+            "checkout": "2026-05-02"
+        }
+    }
+}
