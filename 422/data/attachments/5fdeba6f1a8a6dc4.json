@@ -1,0 +1,14 @@
+{
+    "bookingid": 1614,
+    "booking": {
+        "firstname": "Rachel",
+        "lastname": "Howell",
+        "totalprice": 663,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-05-09",
+            "checkout": "2026-04-19"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

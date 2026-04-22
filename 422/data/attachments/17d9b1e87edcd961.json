@@ -1,0 +1,14 @@
+{
+    "bookingid": 1807,
+    "booking": {
+        "firstname": "Kristin",
+        "lastname": "Goodwin",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-05-09",
+            "checkout": "2026-05-04"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
