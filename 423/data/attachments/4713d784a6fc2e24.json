@@ -1,0 +1,14 @@
+{
+    "bookingid": 7889,
+    "booking": {
+        "firstname": "Dominic",
+        "lastname": "Christensen",
+        "totalprice": 614,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-05-03",
+            "checkout": "2026-05-22"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
