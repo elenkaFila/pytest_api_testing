@@ -1,0 +1,14 @@
+{
+    "bookingid": 4804,
+    "booking": {
+        "firstname": "Jake",
+        "lastname": "Stokes",
+        "totalprice": 121,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-05-27"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
