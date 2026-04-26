@@ -1,0 +1,14 @@
+{
+    "bookingid": 396,
+    "booking": {
+        "firstname": "Vernon",
+        "lastname": "Franklin",
+        "totalprice": 820,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

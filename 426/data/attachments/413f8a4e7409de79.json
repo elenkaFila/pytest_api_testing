@@ -1,0 +1,14 @@
+{
+    "bookingid": 433,
+    "booking": {
+        "firstname": "Sara",
+        "lastname": "Villegas",
+        "totalprice": 164,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-05-15",
+            "checkout": "2026-05-17"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

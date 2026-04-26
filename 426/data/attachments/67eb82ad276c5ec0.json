@@ -1,0 +1,14 @@
+{
+    "bookingid": 390,
+    "booking": {
+        "firstname": "Debra",
+        "lastname": "Yates",
+        "totalprice": 731,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-11-15",
+            "checkout": "2026-04-05"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
