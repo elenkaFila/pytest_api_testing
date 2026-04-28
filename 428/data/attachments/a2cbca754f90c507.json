@@ -1,0 +1,14 @@
+{
+    "bookingid": 1868,
+    "booking": {
+        "firstname": "Heather",
+        "lastname": "Garcia",
+        "totalprice": 299,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-05-27",
+            "checkout": "2026-05-16"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

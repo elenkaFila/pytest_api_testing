@@ -1,0 +1,14 @@
+{
+    "bookingid": 2015,
+    "booking": {
+        "firstname": "Ashley",
+        "lastname": "Williams",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-05-27",
+            "checkout": "2026-05-16"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
