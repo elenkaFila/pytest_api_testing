@@ -1,0 +1,14 @@
+{
+    "bookingid": 1712,
+    "booking": {
+        "firstname": "Michelle",
+        "lastname": "Chambers",
+        "totalprice": 422,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-04-29",
+            "checkout": "2026-04-29"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

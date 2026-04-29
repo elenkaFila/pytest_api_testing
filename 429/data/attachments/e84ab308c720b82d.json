@@ -1,0 +1,14 @@
+{
+    "bookingid": 1765,
+    "booking": {
+        "firstname": "Tiffany",
+        "lastname": "Castro",
+        "totalprice": 917,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-05-03",
+            "checkout": "2026-05-12"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

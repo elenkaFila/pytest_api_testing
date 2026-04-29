@@ -1,0 +1,14 @@
+{
+    "bookingid": 1900,
+    "booking": {
+        "firstname": "Wendy",
+        "lastname": "Shaw",
+        "totalprice": 675,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-05-03",
+            "checkout": "2026-05-12"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
