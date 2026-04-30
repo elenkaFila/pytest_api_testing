@@ -1,0 +1,14 @@
+{
+    "bookingid": 4439,
+    "booking": {
+        "firstname": "Mark",
+        "lastname": "Kirby",
+        "totalprice": 150,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-06-08"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
