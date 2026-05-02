@@ -1,0 +1,13 @@
+{
+    "bookingid": 3855,
+    "booking": {
+        "firstname": "Paul",
+        "lastname": "Gutierrez",
+        "totalprice": 953,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-05-11",
+            "checkout": "2026-05-24"
+        }
+    }
+}
