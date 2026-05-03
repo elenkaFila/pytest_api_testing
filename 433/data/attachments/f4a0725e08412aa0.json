@@ -1,0 +1,13 @@
+{
+    "bookingid": 4388,
+    "booking": {
+        "firstname": "Richard",
+        "lastname": "Goodman",
+        "totalprice": 459,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-05-24",
+            "checkout": "2026-06-10"
+        }
+    }
+}

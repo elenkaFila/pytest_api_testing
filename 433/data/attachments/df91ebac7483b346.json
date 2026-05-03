@@ -1,0 +1,14 @@
+{
+    "bookingid": 4390,
+    "booking": {
+        "firstname": "Katrina",
+        "lastname": "Nixon",
+        "totalprice": 953,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-05-24",
+            "checkout": "2026-06-10"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
