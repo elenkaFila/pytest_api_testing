@@ -1,0 +1,14 @@
+{
+    "bookingid": 4067,
+    "booking": {
+        "firstname": "Amber",
+        "lastname": "Guzman",
+        "totalprice": 937,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-11-16",
+            "checkout": "2026-04-16"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
