@@ -1,0 +1,14 @@
+{
+    "bookingid": 6049,
+    "booking": {
+        "firstname": "Dale",
+        "lastname": "Brown",
+        "totalprice": 232,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-05-16",
+            "checkout": "2026-06-07"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "bookingid": 6023,
+    "booking": {
+        "firstname": "Elizabeth",
+        "lastname": "Garcia",
+        "totalprice": 749,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-05-16",
+            "checkout": "2026-06-07"
+        }
+    }
+}

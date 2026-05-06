@@ -1,0 +1,14 @@
+{
+    "bookingid": 6013,
+    "booking": {
+        "firstname": "Deanna",
+        "lastname": "Ferguson",
+        "totalprice": 132,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-05-06",
+            "checkout": "2026-05-06"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
