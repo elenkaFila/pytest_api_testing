@@ -1,0 +1,14 @@
+{
+    "bookingid": 4168,
+    "booking": {
+        "firstname": "Abigail",
+        "lastname": "White",
+        "totalprice": 104,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-05-10",
+            "checkout": "2026-06-05"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
