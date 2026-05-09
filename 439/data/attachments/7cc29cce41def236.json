@@ -1,0 +1,13 @@
+{
+    "bookingid": 46,
+    "booking": {
+        "firstname": "Steven",
+        "lastname": "Coleman",
+        "totalprice": 989,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-05-13",
+            "checkout": "2026-05-31"
+        }
+    }
+}
