@@ -1,0 +1,14 @@
+{
+    "bookingid": 248,
+    "booking": {
+        "firstname": "Todd",
+        "lastname": "Powell",
+        "totalprice": 441,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-06-03",
+            "checkout": "2026-06-03"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

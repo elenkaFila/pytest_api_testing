@@ -1,0 +1,13 @@
+{
+    "bookingid": 238,
+    "booking": {
+        "firstname": "Janet",
+        "lastname": "Delgado",
+        "totalprice": 109,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-06-03",
+            "checkout": "2026-06-03"
+        }
+    }
+}
