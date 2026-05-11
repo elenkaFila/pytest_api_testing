@@ -1,0 +1,11 @@
+{
+    "firstname": "Kevin",
+    "lastname": "Gonzales",
+    "totalprice": 352,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2026-05-13",
+        "checkout": "2026-05-29"
+    },
+    "additionalneeds": "breakfast, pool, lunch"
+}

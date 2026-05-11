@@ -1,0 +1,14 @@
+{
+    "bookingid": 4564,
+    "booking": {
+        "firstname": "Jacob",
+        "lastname": "Butler",
+        "totalprice": 445,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-05-13",
+            "checkout": "2026-05-29"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
