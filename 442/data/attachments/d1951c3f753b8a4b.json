@@ -1,0 +1,13 @@
+{
+    "bookingid": 4564,
+    "booking": {
+        "firstname": "Calvin",
+        "lastname": "Ellis",
+        "totalprice": 852,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-05-26",
+            "checkout": "2026-06-07"
+        }
+    }
+}
