@@ -1,0 +1,14 @@
+{
+    "bookingid": 1927,
+    "booking": {
+        "firstname": "Carol",
+        "lastname": "Calderon",
+        "totalprice": 796,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-05-28"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

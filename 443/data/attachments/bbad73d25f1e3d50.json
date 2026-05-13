@@ -1,0 +1,14 @@
+{
+    "bookingid": 1924,
+    "booking": {
+        "firstname": "Isabel",
+        "lastname": "Jones",
+        "totalprice": 870,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-11-24",
+            "checkout": "2026-04-14"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
