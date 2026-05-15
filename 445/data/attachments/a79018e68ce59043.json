@@ -1,0 +1,14 @@
+{
+    "bookingid": 302,
+    "booking": {
+        "firstname": "Morgan",
+        "lastname": "Dixon",
+        "totalprice": 477,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-05-20",
+            "checkout": "2026-05-31"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 251,
+    "booking": {
+        "firstname": "Derek",
+        "lastname": "Davidson",
+        "totalprice": 708,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-05-15",
+            "checkout": "2026-05-15"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
