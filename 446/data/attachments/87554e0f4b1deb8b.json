@@ -1,0 +1,14 @@
+{
+    "bookingid": 2282,
+    "booking": {
+        "firstname": "Scott",
+        "lastname": "Odonnell",
+        "totalprice": 625,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-05-16",
+            "checkout": "2026-05-16"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

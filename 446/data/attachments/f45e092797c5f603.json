@@ -1,0 +1,14 @@
+{
+    "bookingid": 2296,
+    "booking": {
+        "firstname": "Brittney",
+        "lastname": "Aguilar",
+        "totalprice": 891,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-12",
+            "checkout": "2026-04-18"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
