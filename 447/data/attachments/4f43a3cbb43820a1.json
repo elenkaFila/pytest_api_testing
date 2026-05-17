@@ -1,0 +1,14 @@
+{
+    "bookingid": 3814,
+    "booking": {
+        "firstname": "Darin",
+        "lastname": "Burton",
+        "totalprice": 758,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-05-17",
+            "checkout": "2026-05-17"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
