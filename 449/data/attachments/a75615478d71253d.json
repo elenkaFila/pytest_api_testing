@@ -1,0 +1,14 @@
+{
+    "bookingid": 2048,
+    "booking": {
+        "firstname": "Dakota",
+        "lastname": "Glover",
+        "totalprice": 904,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-12-09",
+            "checkout": "2026-04-27"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

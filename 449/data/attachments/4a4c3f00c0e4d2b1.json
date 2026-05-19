@@ -1,0 +1,14 @@
+{
+    "bookingid": 2061,
+    "booking": {
+        "firstname": "Jennifer",
+        "lastname": "Olson",
+        "totalprice": 373,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-05-22",
+            "checkout": "2026-06-15"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

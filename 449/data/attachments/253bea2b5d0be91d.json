@@ -1,0 +1,14 @@
+{
+    "bookingid": 2052,
+    "booking": {
+        "firstname": "Neil",
+        "lastname": "Fleming",
+        "totalprice": 447,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-05-22",
+            "checkout": "2026-04-27"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
