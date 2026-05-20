@@ -1,0 +1,14 @@
+{
+    "bookingid": 1670,
+    "booking": {
+        "firstname": "Scott",
+        "lastname": "Vaughan",
+        "totalprice": 920,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-12-05",
+            "checkout": "2026-05-18"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

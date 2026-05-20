@@ -1,0 +1,14 @@
+{
+    "bookingid": 1673,
+    "booking": {
+        "firstname": "Sydney",
+        "lastname": "Powers",
+        "totalprice": 315,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-06-16"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
