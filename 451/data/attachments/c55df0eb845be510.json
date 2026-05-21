@@ -1,0 +1,14 @@
+{
+    "bookingid": 2703,
+    "booking": {
+        "firstname": "Barbara",
+        "lastname": "Garcia",
+        "totalprice": 141,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-05-31",
+            "checkout": "2026-06-27"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 2645,
+    "booking": {
+        "firstname": "Angelica",
+        "lastname": "Roth",
+        "totalprice": 569,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-05-21",
+            "checkout": "2026-05-21"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
