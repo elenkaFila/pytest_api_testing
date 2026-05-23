@@ -1,0 +1,11 @@
+{
+    "firstname": "Elizabeth",
+    "lastname": "Jones",
+    "totalprice": null,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2026-06-15",
+        "checkout": "2026-06-07"
+    },
+    "additionalneeds": "pool"
+}

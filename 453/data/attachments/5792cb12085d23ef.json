@@ -1,0 +1,13 @@
+{
+    "bookingid": 4881,
+    "booking": {
+        "firstname": "Victoria",
+        "lastname": "Kim",
+        "totalprice": 266,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-15",
+            "checkout": "2026-06-07"
+        }
+    }
+}
