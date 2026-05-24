@@ -1,0 +1,14 @@
+{
+    "bookingid": 2783,
+    "booking": {
+        "firstname": "Michael",
+        "lastname": "Avila",
+        "totalprice": 416,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-11-26",
+            "checkout": "2026-05-20"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
