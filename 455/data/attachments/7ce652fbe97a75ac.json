@@ -1,0 +1,14 @@
+{
+    "bookingid": 4550,
+    "booking": {
+        "firstname": "Laura",
+        "lastname": "Mcbride",
+        "totalprice": 209,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
