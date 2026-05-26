@@ -1,0 +1,14 @@
+{
+    "bookingid": 5164,
+    "booking": {
+        "firstname": "Kyle",
+        "lastname": "Hayes",
+        "totalprice": 922,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-17",
+            "checkout": "2026-06-07"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

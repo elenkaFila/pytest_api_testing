@@ -1,0 +1,14 @@
+{
+    "bookingid": 5126,
+    "booking": {
+        "firstname": "Teresa",
+        "lastname": "Moyer",
+        "totalprice": 897,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-05-26",
+            "checkout": "2026-05-26"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
