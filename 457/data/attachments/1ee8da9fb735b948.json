@@ -1,0 +1,14 @@
+{
+    "bookingid": 2026,
+    "booking": {
+        "firstname": "Ryan",
+        "lastname": "Mcdonald",
+        "totalprice": 318,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-05-28",
+            "checkout": "2026-06-29"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
