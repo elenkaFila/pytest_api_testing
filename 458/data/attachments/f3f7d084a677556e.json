@@ -1,0 +1,14 @@
+{
+    "bookingid": 4837,
+    "booking": {
+        "firstname": "Jasmin",
+        "lastname": "Dunn",
+        "totalprice": 106,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-21",
+            "checkout": "2026-06-12"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

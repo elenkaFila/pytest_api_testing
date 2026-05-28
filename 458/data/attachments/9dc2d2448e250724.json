@@ -1,0 +1,14 @@
+{
+    "bookingid": 4989,
+    "booking": {
+        "firstname": "Debra",
+        "lastname": "Simmons",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-21",
+            "checkout": "2026-06-12"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

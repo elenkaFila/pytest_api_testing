@@ -1,0 +1,14 @@
+{
+    "bookingid": 4791,
+    "booking": {
+        "firstname": "Heather",
+        "lastname": "Wood",
+        "totalprice": 653,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

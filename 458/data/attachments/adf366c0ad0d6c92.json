@@ -1,0 +1,14 @@
+{
+    "bookingid": 4778,
+    "booking": {
+        "firstname": "Heather",
+        "lastname": "Lopez",
+        "totalprice": 878,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-05-28",
+            "checkout": "2026-05-28"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
