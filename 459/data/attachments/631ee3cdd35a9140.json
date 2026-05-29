@@ -1,0 +1,13 @@
+{
+    "bookingid": 4875,
+    "booking": {
+        "firstname": "Ian",
+        "lastname": "Valencia",
+        "totalprice": 887,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-20",
+            "checkout": "2026-06-30"
+        }
+    }
+}
