@@ -1,0 +1,14 @@
+{
+    "bookingid": 2364,
+    "booking": {
+        "firstname": "Benjamin",
+        "lastname": "Sims",
+        "totalprice": 653,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-07-07"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 2365,
+    "booking": {
+        "firstname": "Scott",
+        "lastname": "Chung",
+        "totalprice": 897,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-12",
+            "checkout": "2026-05-20"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
