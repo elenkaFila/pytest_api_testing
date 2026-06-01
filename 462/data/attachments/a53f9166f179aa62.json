@@ -1,0 +1,13 @@
+{
+    "bookingid": 1234,
+    "booking": {
+        "firstname": "Frederick",
+        "lastname": "Williamson",
+        "totalprice": 149,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-29",
+            "checkout": "2026-06-22"
+        }
+    }
+}
