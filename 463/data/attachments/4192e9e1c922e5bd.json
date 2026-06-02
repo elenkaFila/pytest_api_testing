@@ -1,0 +1,13 @@
+{
+    "bookingid": 3520,
+    "booking": {
+        "firstname": "Jennifer",
+        "lastname": "Molina",
+        "totalprice": 838,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-18",
+            "checkout": "2026-06-23"
+        }
+    }
+}

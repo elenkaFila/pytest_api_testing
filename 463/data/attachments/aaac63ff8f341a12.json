@@ -1,0 +1,14 @@
+{
+    "bookingid": 3605,
+    "booking": {
+        "firstname": "Anna",
+        "lastname": "Spence",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-06-18",
+            "checkout": "2026-06-23"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
