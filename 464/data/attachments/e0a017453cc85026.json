@@ -1,0 +1,14 @@
+{
+    "bookingid": 4483,
+    "booking": {
+        "firstname": "Tyler",
+        "lastname": "Meadows",
+        "totalprice": 369,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-12-22",
+            "checkout": "2026-05-23"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 4530,
+    "booking": {
+        "firstname": "Corey",
+        "lastname": "Duran",
+        "totalprice": 738,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-28",
+            "checkout": "2026-06-19"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
