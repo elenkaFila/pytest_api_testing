@@ -1,0 +1,14 @@
+{
+    "bookingid": 2204,
+    "booking": {
+        "firstname": "Seth",
+        "lastname": "Tucker",
+        "totalprice": 126,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-11",
+            "checkout": "2026-05-26"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
