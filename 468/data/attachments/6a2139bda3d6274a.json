@@ -1,0 +1,14 @@
+{
+    "bookingid": 80,
+    "booking": {
+        "firstname": "David",
+        "lastname": "Smith",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-28",
+            "checkout": "2026-06-22"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
