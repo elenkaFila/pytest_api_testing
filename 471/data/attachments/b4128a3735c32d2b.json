@@ -1,0 +1,14 @@
+{
+    "bookingid": 4521,
+    "booking": {
+        "firstname": "Crystal",
+        "lastname": "Mcfarland",
+        "totalprice": 734,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-07-05",
+            "checkout": "2026-05-31"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

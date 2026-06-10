@@ -1,0 +1,14 @@
+{
+    "bookingid": 4671,
+    "booking": {
+        "firstname": "Collin",
+        "lastname": "Landry",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-07-05",
+            "checkout": "2026-07-14"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

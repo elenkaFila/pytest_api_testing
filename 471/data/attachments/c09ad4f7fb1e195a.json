@@ -1,0 +1,14 @@
+{
+    "bookingid": 4517,
+    "booking": {
+        "firstname": "Carol",
+        "lastname": "Olson",
+        "totalprice": 239,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-07-14"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
