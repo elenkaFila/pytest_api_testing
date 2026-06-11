@@ -1,0 +1,13 @@
+{
+    "bookingid": 573,
+    "booking": {
+        "firstname": "Misty",
+        "lastname": "Marsh",
+        "totalprice": 495,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-17",
+            "checkout": "2026-07-02"
+        }
+    }
+}
