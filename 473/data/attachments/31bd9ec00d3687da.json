@@ -1,0 +1,11 @@
+{
+    "firstname": "Jessica",
+    "lastname": "Conner",
+    "totalprice": null,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2026-07-03",
+        "checkout": "2026-07-10"
+    },
+    "additionalneeds": "breakfast, pool, lunch"
+}

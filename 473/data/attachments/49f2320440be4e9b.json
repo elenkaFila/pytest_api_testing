@@ -1,0 +1,14 @@
+{
+    "bookingid": 4405,
+    "booking": {
+        "firstname": "Jessica",
+        "lastname": "Conner",
+        "totalprice": 476,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-07-03",
+            "checkout": "2026-07-10"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

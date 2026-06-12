@@ -1,0 +1,14 @@
+{
+    "bookingid": 4384,
+    "booking": {
+        "firstname": "Lisa",
+        "lastname": "Armstrong",
+        "totalprice": 217,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-06-12",
+            "checkout": "2026-06-12"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
