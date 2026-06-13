@@ -1,0 +1,14 @@
+{
+    "bookingid": 1910,
+    "booking": {
+        "firstname": "Richard",
+        "lastname": "Lopez",
+        "totalprice": 381,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-22",
+            "checkout": "2026-07-14"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
