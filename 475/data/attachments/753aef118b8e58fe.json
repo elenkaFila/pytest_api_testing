@@ -1,0 +1,14 @@
+{
+    "bookingid": 2401,
+    "booking": {
+        "firstname": "Martha",
+        "lastname": "Gardner",
+        "totalprice": 266,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
