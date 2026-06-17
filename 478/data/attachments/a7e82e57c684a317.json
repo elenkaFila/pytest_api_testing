@@ -1,0 +1,13 @@
+{
+    "bookingid": 1315,
+    "booking": {
+        "firstname": "Derrick",
+        "lastname": "Allen",
+        "totalprice": 230,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-07-13",
+            "checkout": "2026-07-25"
+        }
+    }
+}

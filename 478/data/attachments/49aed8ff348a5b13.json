@@ -1,0 +1,14 @@
+{
+    "bookingid": 1316,
+    "booking": {
+        "firstname": "Molly",
+        "lastname": "Miller",
+        "totalprice": 521,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-07-13",
+            "checkout": "2026-07-25"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
