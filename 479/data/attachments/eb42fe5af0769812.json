@@ -1,0 +1,14 @@
+{
+    "bookingid": 1674,
+    "booking": {
+        "firstname": "Paula",
+        "lastname": "Allen",
+        "totalprice": 954,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-20",
+            "checkout": "2026-07-11"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "bookingid": 1673,
+    "booking": {
+        "firstname": "Daniel",
+        "lastname": "Gilmore",
+        "totalprice": 528,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-06-20",
+            "checkout": "2026-07-11"
+        }
+    }
+}

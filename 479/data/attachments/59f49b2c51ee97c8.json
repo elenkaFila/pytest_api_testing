@@ -1,0 +1,14 @@
+{
+    "bookingid": 1668,
+    "booking": {
+        "firstname": "Melinda",
+        "lastname": "Turner",
+        "totalprice": 576,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-20",
+            "checkout": "2026-05-24"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
