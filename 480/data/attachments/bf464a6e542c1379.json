@@ -1,0 +1,13 @@
+{
+    "bookingid": 4411,
+    "booking": {
+        "firstname": "Christopher",
+        "lastname": "Eaton",
+        "totalprice": 703,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-07-02",
+            "checkout": "2026-07-04"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 4450,
+    "booking": {
+        "firstname": "Aaron",
+        "lastname": "Hawkins",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-07-02",
+            "checkout": "2026-07-04"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
