@@ -1,0 +1,11 @@
+{
+    "firstname": "Kathy",
+    "lastname": "Salazar",
+    "totalprice": 825,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2026-07-15",
+        "checkout": "2026-07-06"
+    },
+    "additionalneeds": "breakfast, pool, lunch"
+}
