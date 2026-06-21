@@ -1,0 +1,14 @@
+{
+    "bookingid": 5108,
+    "booking": {
+        "firstname": "Kimberly",
+        "lastname": "Tyler",
+        "totalprice": 352,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-21",
+            "checkout": "2026-06-21"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
