@@ -1,0 +1,14 @@
+{
+    "bookingid": 3191,
+    "booking": {
+        "firstname": "Cristina",
+        "lastname": "Morrow",
+        "totalprice": 274,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-06-24",
+            "checkout": "2026-05-25"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

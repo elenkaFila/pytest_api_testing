@@ -1,0 +1,14 @@
+{
+    "bookingid": 3202,
+    "booking": {
+        "firstname": "Stacy",
+        "lastname": "Wells",
+        "totalprice": 825,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-24",
+            "checkout": "2026-07-07"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
