@@ -1,0 +1,14 @@
+{
+    "bookingid": 4004,
+    "booking": {
+        "firstname": "Alicia",
+        "lastname": "Washington",
+        "totalprice": 295,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-06-24",
+            "checkout": "2026-06-24"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
