@@ -1,0 +1,14 @@
+{
+    "bookingid": 23041,
+    "booking": {
+        "firstname": "Angelica",
+        "lastname": "Whitehead",
+        "totalprice": 982,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-01-12",
+            "checkout": "2026-05-30"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

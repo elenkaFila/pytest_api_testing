@@ -1,0 +1,14 @@
+{
+    "bookingid": 23071,
+    "booking": {
+        "firstname": "Tiffany",
+        "lastname": "Alvarez",
+        "totalprice": 662,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-07-02",
+            "checkout": "2026-08-02"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

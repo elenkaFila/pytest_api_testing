@@ -1,0 +1,14 @@
+{
+    "bookingid": 23042,
+    "booking": {
+        "firstname": "Caitlin",
+        "lastname": "Harper",
+        "totalprice": 817,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
