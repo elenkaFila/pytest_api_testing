@@ -1,0 +1,14 @@
+{
+    "bookingid": 4355,
+    "booking": {
+        "firstname": "Ashlee",
+        "lastname": "Watkins",
+        "totalprice": 462,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-07-09",
+            "checkout": "2026-06-12"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

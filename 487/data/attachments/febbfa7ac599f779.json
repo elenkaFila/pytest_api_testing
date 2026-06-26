@@ -1,0 +1,13 @@
+{
+    "bookingid": 4358,
+    "booking": {
+        "firstname": "Carol",
+        "lastname": "Jensen",
+        "totalprice": 592,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-07-09",
+            "checkout": "2026-07-10"
+        }
+    }
+}

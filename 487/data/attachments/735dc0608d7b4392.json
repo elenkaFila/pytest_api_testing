@@ -1,0 +1,14 @@
+{
+    "bookingid": 4351,
+    "booking": {
+        "firstname": "Natalie",
+        "lastname": "Escobar",
+        "totalprice": 857,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
