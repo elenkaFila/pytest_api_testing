@@ -1,0 +1,14 @@
+{
+    "bookingid": 4033,
+    "booking": {
+        "firstname": "Scott",
+        "lastname": "Serrano",
+        "totalprice": 203,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-07-14",
+            "checkout": "2026-06-16"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

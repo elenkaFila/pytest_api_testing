@@ -1,0 +1,14 @@
+{
+    "bookingid": 4060,
+    "booking": {
+        "firstname": "Toni",
+        "lastname": "Sparks",
+        "totalprice": 914,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-07-14",
+            "checkout": "2026-07-08"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

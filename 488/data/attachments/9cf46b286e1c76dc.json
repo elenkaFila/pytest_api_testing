@@ -1,0 +1,13 @@
+{
+    "bookingid": 4052,
+    "booking": {
+        "firstname": "Douglas",
+        "lastname": "Castillo",
+        "totalprice": 272,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-07-14",
+            "checkout": "2026-07-08"
+        }
+    }
+}
