@@ -1,0 +1,14 @@
+{
+    "bookingid": 3157,
+    "booking": {
+        "firstname": "Krista",
+        "lastname": "Hendricks",
+        "totalprice": 410,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-07-16"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 3164,
+    "booking": {
+        "firstname": "Diane",
+        "lastname": "Jennings",
+        "totalprice": 118,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-07-09",
+            "checkout": "2026-07-16"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "bookingid": 3162,
+    "booking": {
+        "firstname": "Gary",
+        "lastname": "Garner",
+        "totalprice": 274,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-07-09",
+            "checkout": "2026-07-16"
+        }
+    }
+}
