@@ -1,0 +1,14 @@
+{
+    "bookingid": 3653,
+    "booking": {
+        "firstname": "Cassandra",
+        "lastname": "Escobar",
+        "totalprice": 617,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-01-04",
+            "checkout": "2026-06-05"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

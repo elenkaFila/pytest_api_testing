@@ -1,0 +1,13 @@
+{
+    "bookingid": 3691,
+    "booking": {
+        "firstname": "Ian",
+        "lastname": "Adams",
+        "totalprice": 581,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-07-12",
+            "checkout": "2026-07-26"
+        }
+    }
+}
