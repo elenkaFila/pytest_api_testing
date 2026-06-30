@@ -1,0 +1,13 @@
+{
+    "bookingid": 2669,
+    "booking": {
+        "firstname": "Bradley",
+        "lastname": "Johnson",
+        "totalprice": 171,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-07-15",
+            "checkout": "2026-07-20"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 2647,
+    "booking": {
+        "firstname": "Brenda",
+        "lastname": "Stanley",
+        "totalprice": 253,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-30",
+            "checkout": "2026-06-30"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
