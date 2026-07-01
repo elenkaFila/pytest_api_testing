@@ -1,0 +1,14 @@
+{
+    "bookingid": 1499,
+    "booking": {
+        "firstname": "Lauren",
+        "lastname": "Koch",
+        "totalprice": 320,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-07-21",
+            "checkout": "2026-08-02"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
