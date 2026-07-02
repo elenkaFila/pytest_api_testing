@@ -1,0 +1,14 @@
+{
+    "bookingid": 3098,
+    "booking": {
+        "firstname": "Megan",
+        "lastname": "Norman",
+        "totalprice": 931,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
