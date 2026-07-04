@@ -1,0 +1,14 @@
+{
+    "bookingid": 4957,
+    "booking": {
+        "firstname": "Jeremy",
+        "lastname": "Ayala",
+        "totalprice": 549,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-07-05",
+            "checkout": "2026-08-04"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

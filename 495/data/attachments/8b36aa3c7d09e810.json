@@ -1,0 +1,13 @@
+{
+    "bookingid": 4948,
+    "booking": {
+        "firstname": "Shannon",
+        "lastname": "Hardin",
+        "totalprice": 266,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-07-05",
+            "checkout": "2026-08-04"
+        }
+    }
+}
