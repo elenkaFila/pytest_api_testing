@@ -1,0 +1,14 @@
+{
+    "bookingid": 2461,
+    "booking": {
+        "firstname": "Cynthia",
+        "lastname": "Graham",
+        "totalprice": 871,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-07-27"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
