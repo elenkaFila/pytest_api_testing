@@ -1,0 +1,14 @@
+{
+    "bookingid": 1405,
+    "booking": {
+        "firstname": "Cheryl",
+        "lastname": "Bowman",
+        "totalprice": 972,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-07-27",
+            "checkout": "2026-07-26"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
