@@ -1,0 +1,13 @@
+{
+    "bookingid": 4515,
+    "booking": {
+        "firstname": "Hector",
+        "lastname": "Jones",
+        "totalprice": 872,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-07-23",
+            "checkout": "2026-08-02"
+        }
+    }
+}
