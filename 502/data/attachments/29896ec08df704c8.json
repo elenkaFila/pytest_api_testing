@@ -1,0 +1,14 @@
+{
+    "bookingid": 270,
+    "booking": {
+        "firstname": "Jodi",
+        "lastname": "Huang",
+        "totalprice": 283,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-07-31",
+            "checkout": "2026-08-15"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
