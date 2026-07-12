@@ -1,0 +1,14 @@
+{
+    "bookingid": 2642,
+    "booking": {
+        "firstname": "Michael",
+        "lastname": "Wright",
+        "totalprice": 503,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-08-09",
+            "checkout": "2026-08-19"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
