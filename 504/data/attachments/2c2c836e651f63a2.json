@@ -1,0 +1,14 @@
+{
+    "bookingid": 2716,
+    "booking": {
+        "firstname": "Carol",
+        "lastname": "Kirby",
+        "totalprice": 357,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-01-18",
+            "checkout": "2026-06-17"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
