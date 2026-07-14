@@ -1,0 +1,14 @@
+{
+    "bookingid": 3452,
+    "booking": {
+        "firstname": "Jamie",
+        "lastname": "Mendoza",
+        "totalprice": 626,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-08-18"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

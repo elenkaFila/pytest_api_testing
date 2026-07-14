@@ -1,0 +1,14 @@
+{
+    "bookingid": 3544,
+    "booking": {
+        "firstname": "Adam",
+        "lastname": "Munoz",
+        "totalprice": 254,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-08-11",
+            "checkout": "2026-08-18"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
