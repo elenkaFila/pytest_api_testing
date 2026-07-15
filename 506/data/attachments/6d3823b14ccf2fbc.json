@@ -1,0 +1,14 @@
+{
+    "bookingid": 4743,
+    "booking": {
+        "firstname": "Sydney",
+        "lastname": "Fuentes",
+        "totalprice": 430,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-07-29",
+            "checkout": "2026-07-13"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
