@@ -1,0 +1,14 @@
+{
+    "bookingid": 4843,
+    "booking": {
+        "firstname": "Tara",
+        "lastname": "Sanchez",
+        "totalprice": 365,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-08-02",
+            "checkout": "2026-07-30"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
