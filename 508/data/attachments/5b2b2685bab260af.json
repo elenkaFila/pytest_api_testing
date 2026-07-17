@@ -1,0 +1,14 @@
+{
+    "bookingid": 3299,
+    "booking": {
+        "firstname": "Laura",
+        "lastname": "Nguyen",
+        "totalprice": 687,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-07-18",
+            "checkout": "2026-08-25"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
