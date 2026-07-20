@@ -1,0 +1,14 @@
+{
+    "bookingid": 4513,
+    "booking": {
+        "firstname": "Mary",
+        "lastname": "Burton",
+        "totalprice": 810,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-07-20",
+            "checkout": "2026-07-20"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
