@@ -1,0 +1,14 @@
+{
+    "bookingid": 3417,
+    "booking": {
+        "firstname": "Autumn",
+        "lastname": "Burns",
+        "totalprice": 403,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

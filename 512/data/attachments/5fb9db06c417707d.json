@@ -1,0 +1,14 @@
+{
+    "bookingid": 3459,
+    "booking": {
+        "firstname": "Kelly",
+        "lastname": "Farrell",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-08-02",
+            "checkout": "2026-08-18"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
