@@ -1,0 +1,14 @@
+{
+    "bookingid": 2566,
+    "booking": {
+        "firstname": "Stephanie",
+        "lastname": "Trujillo",
+        "totalprice": 837,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-08-10",
+            "checkout": "2026-06-25"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

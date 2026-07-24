@@ -1,0 +1,11 @@
+{
+    "firstname": "Donna",
+    "lastname": "Stanton",
+    "totalprice": 169,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2026-08-10",
+        "checkout": "2026-08-14"
+    },
+    "additionalneeds": "Breakfast"
+}
