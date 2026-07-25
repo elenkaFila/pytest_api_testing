@@ -1,0 +1,11 @@
+{
+    "firstname": "Brenda",
+    "lastname": "Jordan",
+    "totalprice": 531,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2026-07-31",
+        "checkout": "2026-09-01"
+    },
+    "additionalneeds": "Breakfast"
+}

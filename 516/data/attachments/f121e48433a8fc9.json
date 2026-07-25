@@ -1,0 +1,13 @@
+{
+    "bookingid": 3482,
+    "booking": {
+        "firstname": "Brittany",
+        "lastname": "Trujillo",
+        "totalprice": 958,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-07-31",
+            "checkout": "2026-09-01"
+        }
+    }
+}
