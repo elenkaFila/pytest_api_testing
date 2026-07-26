@@ -1,0 +1,14 @@
+{
+    "bookingid": 5208,
+    "booking": {
+        "firstname": "Jeanette",
+        "lastname": "Clayton",
+        "totalprice": 583,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-02-15",
+            "checkout": "2026-07-13"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

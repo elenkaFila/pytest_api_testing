@@ -1,0 +1,14 @@
+{
+    "bookingid": 5220,
+    "booking": {
+        "firstname": "Collin",
+        "lastname": "Evans",
+        "totalprice": 527,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-08-05",
+            "checkout": "2026-07-13"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

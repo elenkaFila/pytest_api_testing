@@ -1,0 +1,14 @@
+{
+    "bookingid": 5199,
+    "booking": {
+        "firstname": "Kaitlin",
+        "lastname": "Wilson",
+        "totalprice": 795,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-08-05",
+            "checkout": "2026-09-02"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
