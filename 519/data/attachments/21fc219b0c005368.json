@@ -1,0 +1,14 @@
+{
+    "bookingid": 874,
+    "booking": {
+        "firstname": "Anna",
+        "lastname": "Woods",
+        "totalprice": 127,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

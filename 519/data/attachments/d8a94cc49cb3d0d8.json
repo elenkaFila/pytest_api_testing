@@ -1,0 +1,14 @@
+{
+    "bookingid": 879,
+    "booking": {
+        "firstname": "Bridget",
+        "lastname": "Williams",
+        "totalprice": 771,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-09-01"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
