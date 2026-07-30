@@ -1,0 +1,14 @@
+{
+    "bookingid": 1929,
+    "booking": {
+        "firstname": "Kara",
+        "lastname": "Perry",
+        "totalprice": 376,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-07-30",
+            "checkout": "2026-07-30"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

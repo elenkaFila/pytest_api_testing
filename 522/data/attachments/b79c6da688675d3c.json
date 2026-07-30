@@ -1,0 +1,14 @@
+{
+    "bookingid": 1958,
+    "booking": {
+        "firstname": "Michael",
+        "lastname": "Buchanan",
+        "totalprice": 892,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-08-15",
+            "checkout": "2026-09-01"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
