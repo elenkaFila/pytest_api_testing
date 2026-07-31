@@ -1,0 +1,14 @@
+{
+    "bookingid": 1452,
+    "booking": {
+        "firstname": "Lisa",
+        "lastname": "Rivas",
+        "totalprice": 396,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-08-26",
+            "checkout": "2026-08-27"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
