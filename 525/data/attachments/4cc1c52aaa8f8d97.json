@@ -1,0 +1,14 @@
+{
+    "bookingid": 4504,
+    "booking": {
+        "firstname": "Roberto",
+        "lastname": "Livingston",
+        "totalprice": 470,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-02-26",
+            "checkout": "2026-07-15"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
