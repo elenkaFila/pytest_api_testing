@@ -1,0 +1,14 @@
+{
+    "bookingid": 623,
+    "booking": {
+        "firstname": "Angela",
+        "lastname": "Eaton",
+        "totalprice": 573,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-03-03",
+            "checkout": "2026-07-12"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

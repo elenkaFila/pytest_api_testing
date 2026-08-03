@@ -1,0 +1,14 @@
+{
+    "bookingid": 824,
+    "booking": {
+        "firstname": "Kevin",
+        "lastname": "Contreras",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-08-04",
+            "checkout": "2026-08-15"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

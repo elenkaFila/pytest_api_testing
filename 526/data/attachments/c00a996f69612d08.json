@@ -1,0 +1,14 @@
+{
+    "bookingid": 739,
+    "booking": {
+        "firstname": "Kevin",
+        "lastname": "Contreras",
+        "totalprice": 921,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-08-04",
+            "checkout": "2026-08-15"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
