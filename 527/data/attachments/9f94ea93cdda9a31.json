@@ -1,0 +1,14 @@
+{
+    "bookingid": 351,
+    "booking": {
+        "firstname": "Pedro",
+        "lastname": "Morse",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-08-29",
+            "checkout": "2026-08-24"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

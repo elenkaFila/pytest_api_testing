@@ -1,0 +1,14 @@
+{
+    "bookingid": 264,
+    "booking": {
+        "firstname": "Abigail",
+        "lastname": "Phillips",
+        "totalprice": 932,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-08-29",
+            "checkout": "2026-08-24"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
