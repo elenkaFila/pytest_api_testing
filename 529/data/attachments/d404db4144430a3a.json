@@ -1,0 +1,14 @@
+{
+    "bookingid": 938,
+    "booking": {
+        "firstname": "Timothy",
+        "lastname": "Wyatt",
+        "totalprice": 951,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-08-07",
+            "checkout": "2026-09-14"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
