@@ -1,0 +1,14 @@
+{
+    "bookingid": 1527,
+    "booking": {
+        "firstname": "Nicole",
+        "lastname": "Gallagher",
+        "totalprice": 157,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-09-10"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

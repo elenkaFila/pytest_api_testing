@@ -1,0 +1,14 @@
+{
+    "bookingid": 1614,
+    "booking": {
+        "firstname": "Lindsey",
+        "lastname": "Shelton",
+        "totalprice": 930,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-08-25",
+            "checkout": "2026-09-10"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
