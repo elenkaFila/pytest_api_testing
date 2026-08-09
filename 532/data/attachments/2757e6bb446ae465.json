@@ -1,0 +1,14 @@
+{
+    "bookingid": 4458,
+    "booking": {
+        "firstname": "Joshua",
+        "lastname": "Short",
+        "totalprice": 662,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-09-02",
+            "checkout": "2026-08-02"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

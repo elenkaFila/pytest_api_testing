@@ -1,0 +1,14 @@
+{
+    "bookingid": 4442,
+    "booking": {
+        "firstname": "Courtney",
+        "lastname": "Moses",
+        "totalprice": 854,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-08-09",
+            "checkout": "2026-08-09"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 4446,
+    "booking": {
+        "firstname": "Jennifer",
+        "lastname": "Farmer",
+        "totalprice": 363,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-02-28",
+            "checkout": "2026-08-02"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
