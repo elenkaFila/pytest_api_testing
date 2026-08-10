@@ -1,0 +1,14 @@
+{
+    "bookingid": 2541,
+    "booking": {
+        "firstname": "Michael",
+        "lastname": "Faulkner",
+        "totalprice": 399,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-09-02",
+            "checkout": "2026-09-06"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
