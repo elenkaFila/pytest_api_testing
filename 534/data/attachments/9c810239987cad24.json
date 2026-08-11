@@ -1,0 +1,14 @@
+{
+    "bookingid": 1070,
+    "booking": {
+        "firstname": "Joel",
+        "lastname": "Ibarra",
+        "totalprice": 886,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-08-11",
+            "checkout": "2026-08-11"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

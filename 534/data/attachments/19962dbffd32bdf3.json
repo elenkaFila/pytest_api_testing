@@ -1,0 +1,14 @@
+{
+    "bookingid": 1104,
+    "booking": {
+        "firstname": "Jasmine",
+        "lastname": "Vargas",
+        "totalprice": 649,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-08-22",
+            "checkout": "2026-08-01"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
