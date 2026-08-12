@@ -1,0 +1,14 @@
+{
+    "bookingid": 1029,
+    "booking": {
+        "firstname": "Nicholas",
+        "lastname": "Norton",
+        "totalprice": 470,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-09-04",
+            "checkout": "2026-09-11"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
