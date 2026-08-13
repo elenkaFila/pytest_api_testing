@@ -1,0 +1,14 @@
+{
+    "bookingid": 1424,
+    "booking": {
+        "firstname": "Clifford",
+        "lastname": "Moreno",
+        "totalprice": 796,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-08-27"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
