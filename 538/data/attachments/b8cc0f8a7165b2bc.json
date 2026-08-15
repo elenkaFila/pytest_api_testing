@@ -1,0 +1,14 @@
+{
+    "bookingid": 3807,
+    "booking": {
+        "firstname": "Renee",
+        "lastname": "Andersen",
+        "totalprice": 795,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-09-08",
+            "checkout": "2026-09-12"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

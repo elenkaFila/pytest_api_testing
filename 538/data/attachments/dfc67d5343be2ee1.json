@@ -1,0 +1,14 @@
+{
+    "bookingid": 3962,
+    "booking": {
+        "firstname": "Emily",
+        "lastname": "Mccarthy",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-09-08",
+            "checkout": "2026-09-12"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
