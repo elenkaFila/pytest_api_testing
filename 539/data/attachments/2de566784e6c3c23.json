@@ -1,0 +1,14 @@
+{
+    "bookingid": 3669,
+    "booking": {
+        "firstname": "Carolyn",
+        "lastname": "Wiggins",
+        "totalprice": 996,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-08-16",
+            "checkout": "2026-08-16"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
