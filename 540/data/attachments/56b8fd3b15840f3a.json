@@ -1,0 +1,14 @@
+{
+    "bookingid": 3723,
+    "booking": {
+        "firstname": "Amanda",
+        "lastname": "Carson",
+        "totalprice": 450,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-08-25",
+            "checkout": "2026-09-12"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
