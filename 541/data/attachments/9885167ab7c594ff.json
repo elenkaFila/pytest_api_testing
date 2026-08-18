@@ -1,0 +1,13 @@
+{
+    "bookingid": 3288,
+    "booking": {
+        "firstname": "Mary",
+        "lastname": "Sparks",
+        "totalprice": 871,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-08-19",
+            "checkout": "2026-09-12"
+        }
+    }
+}

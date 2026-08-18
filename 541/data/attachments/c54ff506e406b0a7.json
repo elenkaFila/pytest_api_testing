@@ -1,0 +1,14 @@
+{
+    "bookingid": 3273,
+    "booking": {
+        "firstname": "Rachel",
+        "lastname": "Whitehead",
+        "totalprice": 300,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-08-19",
+            "checkout": "2026-09-12"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
