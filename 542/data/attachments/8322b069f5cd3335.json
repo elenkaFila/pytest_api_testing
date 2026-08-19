@@ -1,0 +1,14 @@
+{
+    "bookingid": 1458,
+    "booking": {
+        "firstname": "Daniel",
+        "lastname": "Castillo",
+        "totalprice": 495,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-09-06",
+            "checkout": "2026-09-14"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
