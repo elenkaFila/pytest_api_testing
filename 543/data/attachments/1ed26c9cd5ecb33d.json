@@ -1,0 +1,14 @@
+{
+    "bookingid": 3641,
+    "booking": {
+        "firstname": "Victoria",
+        "lastname": "Rice",
+        "totalprice": 814,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-08-31",
+            "checkout": "2026-09-13"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 3621,
+    "booking": {
+        "firstname": "Patricia",
+        "lastname": "Hill",
+        "totalprice": 893,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-03-15",
+            "checkout": "2026-07-31"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 3633,
+    "booking": {
+        "firstname": "Jennifer",
+        "lastname": "Phelps",
+        "totalprice": 518,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-08-31",
+            "checkout": "2026-07-31"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
