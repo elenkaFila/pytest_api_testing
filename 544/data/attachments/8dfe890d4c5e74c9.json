@@ -1,0 +1,14 @@
+{
+    "bookingid": 2785,
+    "booking": {
+        "firstname": "Allison",
+        "lastname": "Santos",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-08-24",
+            "checkout": "2026-09-21"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
