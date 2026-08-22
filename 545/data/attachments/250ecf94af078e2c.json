@@ -1,0 +1,14 @@
+{
+    "bookingid": 4274,
+    "booking": {
+        "firstname": "Dakota",
+        "lastname": "Stewart",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-09-14",
+            "checkout": "2026-09-14"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

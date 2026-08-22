@@ -1,0 +1,14 @@
+{
+    "bookingid": 4105,
+    "booking": {
+        "firstname": "Marie",
+        "lastname": "Coleman",
+        "totalprice": 232,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-09-14",
+            "checkout": "2026-09-14"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

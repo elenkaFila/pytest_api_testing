@@ -1,0 +1,14 @@
+{
+    "bookingid": 4078,
+    "booking": {
+        "firstname": "Chelsea",
+        "lastname": "Coleman",
+        "totalprice": 817,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-09-14",
+            "checkout": "2026-07-31"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
