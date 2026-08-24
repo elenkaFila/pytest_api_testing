@@ -1,0 +1,11 @@
+{
+    "firstname": "Crystal",
+    "lastname": "Crosby",
+    "totalprice": null,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2026-09-03",
+        "checkout": "2026-09-16"
+    },
+    "additionalneeds": "pool"
+}

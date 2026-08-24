@@ -1,0 +1,14 @@
+{
+    "bookingid": 4582,
+    "booking": {
+        "firstname": "Tyrone",
+        "lastname": "Williams",
+        "totalprice": 792,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-09-03",
+            "checkout": "2026-09-16"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

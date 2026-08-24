@@ -1,0 +1,14 @@
+{
+    "bookingid": 4630,
+    "booking": {
+        "firstname": "Crystal",
+        "lastname": "Crosby",
+        "totalprice": 734,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-09-03",
+            "checkout": "2026-09-16"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

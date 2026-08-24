@@ -1,0 +1,13 @@
+{
+    "bookingid": 4579,
+    "booking": {
+        "firstname": "Dennis",
+        "lastname": "Brown",
+        "totalprice": 607,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-09-03",
+            "checkout": "2026-09-16"
+        }
+    }
+}
