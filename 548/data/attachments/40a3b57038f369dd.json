@@ -1,0 +1,14 @@
+{
+    "bookingid": 4196,
+    "booking": {
+        "firstname": "Jennifer",
+        "lastname": "Sanchez",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-08-26",
+            "checkout": "2026-09-25"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

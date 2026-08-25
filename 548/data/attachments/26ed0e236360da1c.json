@@ -1,0 +1,14 @@
+{
+    "bookingid": 4151,
+    "booking": {
+        "firstname": "Beth",
+        "lastname": "Murphy",
+        "totalprice": 596,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-08-26",
+            "checkout": "2026-08-17"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

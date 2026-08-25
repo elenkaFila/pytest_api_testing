@@ -1,0 +1,14 @@
+{
+    "bookingid": 4146,
+    "booking": {
+        "firstname": "Ruben",
+        "lastname": "Odom",
+        "totalprice": 527,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-08-25",
+            "checkout": "2026-08-25"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

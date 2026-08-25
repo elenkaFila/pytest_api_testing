@@ -1,0 +1,14 @@
+{
+    "bookingid": 4156,
+    "booking": {
+        "firstname": "Jennifer",
+        "lastname": "Chambers",
+        "totalprice": 532,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-08-26",
+            "checkout": "2026-09-25"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

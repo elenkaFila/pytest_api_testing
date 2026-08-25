@@ -1,0 +1,13 @@
+{
+    "bookingid": 4155,
+    "booking": {
+        "firstname": "Virginia",
+        "lastname": "Castaneda",
+        "totalprice": 402,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-08-26",
+            "checkout": "2026-09-25"
+        }
+    }
+}
