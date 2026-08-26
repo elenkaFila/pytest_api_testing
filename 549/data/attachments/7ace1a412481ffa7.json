@@ -1,0 +1,14 @@
+{
+    "bookingid": 4280,
+    "booking": {
+        "firstname": "Erika",
+        "lastname": "Hall",
+        "totalprice": 866,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-09-10",
+            "checkout": "2026-08-06"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
