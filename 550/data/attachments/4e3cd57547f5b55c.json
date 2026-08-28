@@ -1,0 +1,14 @@
+{
+    "bookingid": 6141,
+    "booking": {
+        "firstname": "Terrence",
+        "lastname": "Mcbride",
+        "totalprice": 537,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-08-28",
+            "checkout": "2026-08-28"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

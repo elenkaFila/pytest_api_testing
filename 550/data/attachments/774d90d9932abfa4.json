@@ -1,0 +1,13 @@
+{
+    "bookingid": 6189,
+    "booking": {
+        "firstname": "Michelle",
+        "lastname": "Cuevas",
+        "totalprice": 637,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-09-17",
+            "checkout": "2026-10-02"
+        }
+    }
+}

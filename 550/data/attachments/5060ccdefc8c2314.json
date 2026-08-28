@@ -1,0 +1,14 @@
+{
+    "bookingid": 6337,
+    "booking": {
+        "firstname": "Nicholas",
+        "lastname": "Hopkins",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-09-17",
+            "checkout": "2026-10-02"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

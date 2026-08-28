@@ -1,0 +1,14 @@
+{
+    "bookingid": 6158,
+    "booking": {
+        "firstname": "Kimberly",
+        "lastname": "Allen",
+        "totalprice": 183,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

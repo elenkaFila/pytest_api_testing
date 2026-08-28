@@ -1,0 +1,14 @@
+{
+    "bookingid": 6198,
+    "booking": {
+        "firstname": "Arthur",
+        "lastname": "Duran",
+        "totalprice": 739,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-09-17",
+            "checkout": "2026-10-02"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
