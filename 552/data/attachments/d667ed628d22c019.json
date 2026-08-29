@@ -1,0 +1,14 @@
+{
+    "bookingid": 2749,
+    "booking": {
+        "firstname": "Ryan",
+        "lastname": "Santana",
+        "totalprice": 864,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-09-08",
+            "checkout": "2026-08-26"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
