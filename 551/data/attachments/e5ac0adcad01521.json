@@ -1,0 +1,14 @@
+{
+    "bookingid": 964,
+    "booking": {
+        "firstname": "Janice",
+        "lastname": "Gutierrez",
+        "totalprice": 666,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-03-03",
+            "checkout": "2026-08-10"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

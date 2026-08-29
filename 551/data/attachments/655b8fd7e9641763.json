@@ -1,0 +1,14 @@
+{
+    "bookingid": 967,
+    "booking": {
+        "firstname": "Cody",
+        "lastname": "Navarro",
+        "totalprice": 500,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-09-18"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
