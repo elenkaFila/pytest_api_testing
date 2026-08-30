@@ -1,0 +1,13 @@
+{
+    "bookingid": 624,
+    "booking": {
+        "firstname": "Laurie",
+        "lastname": "Navarro",
+        "totalprice": 255,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-09-07",
+            "checkout": "2026-09-14"
+        }
+    }
+}
