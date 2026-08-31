@@ -1,0 +1,14 @@
+{
+    "bookingid": 2634,
+    "booking": {
+        "firstname": "Elizabeth",
+        "lastname": "Morse",
+        "totalprice": 442,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

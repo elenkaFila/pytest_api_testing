@@ -1,0 +1,13 @@
+{
+    "bookingid": 2644,
+    "booking": {
+        "firstname": "Lynn",
+        "lastname": "Clarke",
+        "totalprice": 103,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-09-06",
+            "checkout": "2026-09-27"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 2645,
+    "booking": {
+        "firstname": "Jeremiah",
+        "lastname": "Miller",
+        "totalprice": 647,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-09-06",
+            "checkout": "2026-09-27"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
