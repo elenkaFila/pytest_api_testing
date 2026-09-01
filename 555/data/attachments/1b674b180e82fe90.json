@@ -1,0 +1,14 @@
+{
+    "bookingid": 999,
+    "booking": {
+        "firstname": "Lisa",
+        "lastname": "Soto",
+        "totalprice": 988,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
