@@ -1,0 +1,14 @@
+{
+    "bookingid": 782,
+    "booking": {
+        "firstname": "Joshua",
+        "lastname": "Campos",
+        "totalprice": 276,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-09-19",
+            "checkout": "2026-09-20"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
