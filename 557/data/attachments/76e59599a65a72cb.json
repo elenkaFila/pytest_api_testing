@@ -1,0 +1,14 @@
+{
+    "bookingid": 757,
+    "booking": {
+        "firstname": "Christopher",
+        "lastname": "Dillon",
+        "totalprice": 640,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

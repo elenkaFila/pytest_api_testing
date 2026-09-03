@@ -1,0 +1,14 @@
+{
+    "bookingid": 884,
+    "booking": {
+        "firstname": "Patty",
+        "lastname": "Obrien",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-09-16",
+            "checkout": "2026-10-01"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}
