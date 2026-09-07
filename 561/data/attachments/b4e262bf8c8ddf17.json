@@ -1,0 +1,13 @@
+{
+    "bookingid": 4164,
+    "booking": {
+        "firstname": "Brooke",
+        "lastname": "Kaufman",
+        "totalprice": 511,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-09-22",
+            "checkout": "2026-10-03"
+        }
+    }
+}

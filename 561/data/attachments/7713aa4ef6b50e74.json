@@ -1,0 +1,14 @@
+{
+    "bookingid": 4141,
+    "booking": {
+        "firstname": "Pamela",
+        "lastname": "Wood",
+        "totalprice": 319,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-04-07",
+            "checkout": "2026-08-08"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
