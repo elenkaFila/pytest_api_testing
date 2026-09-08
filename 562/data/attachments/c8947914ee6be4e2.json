@@ -1,0 +1,14 @@
+{
+    "bookingid": 1687,
+    "booking": {
+        "firstname": "Mary",
+        "lastname": "Stone",
+        "totalprice": 893,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-10-04",
+            "checkout": "2026-10-11"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
