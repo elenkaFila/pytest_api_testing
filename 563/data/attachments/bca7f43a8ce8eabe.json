@@ -1,0 +1,14 @@
+{
+    "bookingid": 2983,
+    "booking": {
+        "firstname": "Brenda",
+        "lastname": "Farmer",
+        "totalprice": 296,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-09-21",
+            "checkout": "2026-09-05"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
