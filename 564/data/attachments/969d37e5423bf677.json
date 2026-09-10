@@ -1,0 +1,14 @@
+{
+    "bookingid": 3884,
+    "booking": {
+        "firstname": "Anthony",
+        "lastname": "Mcgee",
+        "totalprice": 864,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-03-15",
+            "checkout": "2026-08-31"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

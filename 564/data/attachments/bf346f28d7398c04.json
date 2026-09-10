@@ -1,0 +1,13 @@
+{
+    "bookingid": 3893,
+    "booking": {
+        "firstname": "Robert",
+        "lastname": "Sanders",
+        "totalprice": 246,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-09-13",
+            "checkout": "2026-10-19"
+        }
+    }
+}
