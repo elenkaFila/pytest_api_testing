@@ -1,0 +1,14 @@
+{
+    "bookingid": 3763,
+    "booking": {
+        "firstname": "Jonathan",
+        "lastname": "Woods",
+        "totalprice": 676,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-09-26",
+            "checkout": "2026-09-26"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
