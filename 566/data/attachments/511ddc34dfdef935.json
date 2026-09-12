@@ -1,0 +1,13 @@
+{
+    "bookingid": 4340,
+    "booking": {
+        "firstname": "Michelle",
+        "lastname": "Colon",
+        "totalprice": 192,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-10-01",
+            "checkout": "2026-10-15"
+        }
+    }
+}

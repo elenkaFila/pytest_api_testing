@@ -1,0 +1,14 @@
+{
+    "bookingid": 4310,
+    "booking": {
+        "firstname": "Dawn",
+        "lastname": "Burke",
+        "totalprice": 357,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
