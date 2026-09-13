@@ -1,0 +1,14 @@
+{
+    "bookingid": 2899,
+    "booking": {
+        "firstname": "Brandi",
+        "lastname": "Garcia",
+        "totalprice": 288,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-09-13",
+            "checkout": "2026-09-13"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

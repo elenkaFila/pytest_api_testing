@@ -1,0 +1,13 @@
+{
+    "bookingid": 2931,
+    "booking": {
+        "firstname": "Charlotte",
+        "lastname": "Cross",
+        "totalprice": 427,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-09-27",
+            "checkout": "2026-09-30"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 2981,
+    "booking": {
+        "firstname": "Vanessa",
+        "lastname": "Cantrell",
+        "totalprice": 292,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-09-27",
+            "checkout": "2026-09-30"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
