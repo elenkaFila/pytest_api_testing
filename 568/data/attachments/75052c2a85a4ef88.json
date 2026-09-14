@@ -1,0 +1,14 @@
+{
+    "bookingid": 2773,
+    "booking": {
+        "firstname": "Scott",
+        "lastname": "Hutchinson",
+        "totalprice": 247,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-10-05",
+            "checkout": "2026-10-11"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

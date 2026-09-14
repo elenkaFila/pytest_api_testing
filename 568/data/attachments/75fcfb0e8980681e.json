@@ -1,0 +1,14 @@
+{
+    "bookingid": 2690,
+    "booking": {
+        "firstname": "Sarah",
+        "lastname": "Butler",
+        "totalprice": 611,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-10-11"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
