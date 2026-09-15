@@ -1,0 +1,14 @@
+{
+    "bookingid": 1613,
+    "booking": {
+        "firstname": "Karen",
+        "lastname": "Page",
+        "totalprice": 858,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-10-03",
+            "checkout": "2026-09-11"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

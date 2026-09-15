@@ -1,0 +1,14 @@
+{
+    "bookingid": 1608,
+    "booking": {
+        "firstname": "Allen",
+        "lastname": "Barrera",
+        "totalprice": 351,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-04-11",
+            "checkout": "2026-09-11"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
