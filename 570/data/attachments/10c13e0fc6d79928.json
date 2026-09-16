@@ -1,0 +1,14 @@
+{
+    "bookingid": 1987,
+    "booking": {
+        "firstname": "Christine",
+        "lastname": "Gonzales",
+        "totalprice": 337,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-04-15",
+            "checkout": "2026-08-26"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

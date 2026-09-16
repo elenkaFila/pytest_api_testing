@@ -1,0 +1,14 @@
+{
+    "bookingid": 2014,
+    "booking": {
+        "firstname": "Cynthia",
+        "lastname": "Freeman",
+        "totalprice": 469,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-09-29",
+            "checkout": "2026-10-24"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

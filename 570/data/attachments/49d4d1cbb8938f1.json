@@ -1,0 +1,14 @@
+{
+    "bookingid": 1990,
+    "booking": {
+        "firstname": "Michele",
+        "lastname": "Griffith",
+        "totalprice": 950,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
