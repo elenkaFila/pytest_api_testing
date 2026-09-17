@@ -1,0 +1,14 @@
+{
+    "bookingid": 4576,
+    "booking": {
+        "firstname": "Kelli",
+        "lastname": "Martinez",
+        "totalprice": 869,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-09-17",
+            "checkout": "2026-09-17"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

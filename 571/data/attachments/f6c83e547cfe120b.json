@@ -1,0 +1,14 @@
+{
+    "bookingid": 4602,
+    "booking": {
+        "firstname": "William",
+        "lastname": "Pope",
+        "totalprice": 471,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-09-30",
+            "checkout": "2026-08-29"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
