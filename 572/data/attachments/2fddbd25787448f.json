@@ -1,0 +1,14 @@
+{
+    "bookingid": 2251,
+    "booking": {
+        "firstname": "Alicia",
+        "lastname": "Hudson",
+        "totalprice": 958,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-10-13"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

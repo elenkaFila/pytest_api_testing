@@ -1,0 +1,14 @@
+{
+    "bookingid": 2309,
+    "booking": {
+        "firstname": "David",
+        "lastname": "Thornton",
+        "totalprice": 573,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-09-19",
+            "checkout": "2026-10-13"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
