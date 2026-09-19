@@ -1,0 +1,14 @@
+{
+    "bookingid": 821,
+    "booking": {
+        "firstname": "Daniel",
+        "lastname": "Hull",
+        "totalprice": 640,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-09-19",
+            "checkout": "2026-09-19"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

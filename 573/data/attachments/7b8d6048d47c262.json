@@ -1,0 +1,14 @@
+{
+    "bookingid": 837,
+    "booking": {
+        "firstname": "Elaine",
+        "lastname": "Wright",
+        "totalprice": 643,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-09-26",
+            "checkout": "2026-10-24"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
