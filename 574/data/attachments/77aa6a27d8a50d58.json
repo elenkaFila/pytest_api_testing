@@ -1,0 +1,14 @@
+{
+    "bookingid": 2712,
+    "booking": {
+        "firstname": "Brittany",
+        "lastname": "Gutierrez",
+        "totalprice": 581,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-03-28",
+            "checkout": "2026-09-10"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

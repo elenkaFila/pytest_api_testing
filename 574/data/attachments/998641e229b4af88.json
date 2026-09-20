@@ -1,0 +1,14 @@
+{
+    "bookingid": 2743,
+    "booking": {
+        "firstname": "Erin",
+        "lastname": "Pearson",
+        "totalprice": 636,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-10-18",
+            "checkout": "2026-10-07"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

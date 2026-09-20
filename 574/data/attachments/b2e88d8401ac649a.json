@@ -1,0 +1,13 @@
+{
+    "bookingid": 2721,
+    "booking": {
+        "firstname": "Rachel",
+        "lastname": "Conley",
+        "totalprice": 367,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-10-18",
+            "checkout": "2026-10-07"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 2716,
+    "booking": {
+        "firstname": "Valerie",
+        "lastname": "Moore",
+        "totalprice": 850,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-10-07"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
