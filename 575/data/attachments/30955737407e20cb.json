@@ -1,0 +1,14 @@
+{
+    "bookingid": 483,
+    "booking": {
+        "firstname": "Krystal",
+        "lastname": "Padilla",
+        "totalprice": 288,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-10-07",
+            "checkout": "2026-09-09"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
