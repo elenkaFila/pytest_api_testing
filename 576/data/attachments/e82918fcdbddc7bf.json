@@ -1,0 +1,14 @@
+{
+    "bookingid": 1895,
+    "booking": {
+        "firstname": "John",
+        "lastname": "Byrd",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-10-09",
+            "checkout": "2026-10-14"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

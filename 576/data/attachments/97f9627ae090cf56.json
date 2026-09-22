@@ -1,0 +1,14 @@
+{
+    "bookingid": 1673,
+    "booking": {
+        "firstname": "Tamara",
+        "lastname": "Green",
+        "totalprice": 419,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-09-22",
+            "checkout": "2026-09-22"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
