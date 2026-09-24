@@ -1,0 +1,14 @@
+{
+    "bookingid": 5413,
+    "booking": {
+        "firstname": "Paul",
+        "lastname": "Li",
+        "totalprice": 994,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

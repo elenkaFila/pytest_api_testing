@@ -1,0 +1,13 @@
+{
+    "bookingid": 5433,
+    "booking": {
+        "firstname": "Grant",
+        "lastname": "Jackson",
+        "totalprice": 633,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-10-15",
+            "checkout": "2026-11-01"
+        }
+    }
+}

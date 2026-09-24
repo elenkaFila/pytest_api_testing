@@ -1,0 +1,14 @@
+{
+    "bookingid": 5479,
+    "booking": {
+        "firstname": "Kevin",
+        "lastname": "Savage",
+        "totalprice": 414,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-10-15",
+            "checkout": "2026-11-01"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 5405,
+    "booking": {
+        "firstname": "Jennifer",
+        "lastname": "Torres",
+        "totalprice": 570,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-09-24",
+            "checkout": "2026-09-24"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
