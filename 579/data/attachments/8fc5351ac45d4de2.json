@@ -1,0 +1,13 @@
+{
+    "bookingid": 3823,
+    "booking": {
+        "firstname": "Tim",
+        "lastname": "Mcmahon",
+        "totalprice": 977,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-10-12",
+            "checkout": "2026-11-03"
+        }
+    }
+}

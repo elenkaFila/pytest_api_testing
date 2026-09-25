@@ -1,0 +1,14 @@
+{
+    "bookingid": 3829,
+    "booking": {
+        "firstname": "Kristi",
+        "lastname": "Smith",
+        "totalprice": 355,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-10-12",
+            "checkout": "2026-11-03"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
