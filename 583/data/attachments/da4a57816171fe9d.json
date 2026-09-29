@@ -1,0 +1,14 @@
+{
+    "bookingid": 1894,
+    "booking": {
+        "firstname": "Phillip",
+        "lastname": "Snyder",
+        "totalprice": 286,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-04-16",
+            "checkout": "2026-09-18"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

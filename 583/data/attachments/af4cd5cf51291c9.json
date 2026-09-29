@@ -1,0 +1,14 @@
+{
+    "bookingid": 1898,
+    "booking": {
+        "firstname": "Noah",
+        "lastname": "Woods",
+        "totalprice": 123,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

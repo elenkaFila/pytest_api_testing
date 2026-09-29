@@ -1,0 +1,14 @@
+{
+    "bookingid": 1908,
+    "booking": {
+        "firstname": "Heidi",
+        "lastname": "Salinas",
+        "totalprice": 914,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-10-25",
+            "checkout": "2026-09-18"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

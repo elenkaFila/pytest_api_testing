@@ -1,0 +1,13 @@
+{
+    "bookingid": 1917,
+    "booking": {
+        "firstname": "Christopher",
+        "lastname": "Cole",
+        "totalprice": 599,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-10-25",
+            "checkout": "2026-11-02"
+        }
+    }
+}
