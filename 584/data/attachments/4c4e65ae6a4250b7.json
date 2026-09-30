@@ -1,0 +1,14 @@
+{
+    "bookingid": 2106,
+    "booking": {
+        "firstname": "Francisco",
+        "lastname": "Velasquez",
+        "totalprice": 644,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

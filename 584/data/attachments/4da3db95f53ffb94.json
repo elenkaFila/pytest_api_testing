@@ -1,0 +1,14 @@
+{
+    "bookingid": 2109,
+    "booking": {
+        "firstname": "Michael",
+        "lastname": "Caldwell",
+        "totalprice": 384,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-10-16",
+            "checkout": "2026-09-26"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
