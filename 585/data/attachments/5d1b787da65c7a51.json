@@ -1,0 +1,14 @@
+{
+    "bookingid": 923,
+    "booking": {
+        "firstname": "Patricia",
+        "lastname": "Montgomery",
+        "totalprice": 275,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-11-08"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
