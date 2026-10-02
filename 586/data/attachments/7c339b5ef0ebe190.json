@@ -1,0 +1,14 @@
+{
+    "bookingid": 5024,
+    "booking": {
+        "firstname": "Megan",
+        "lastname": "Mccormick",
+        "totalprice": 890,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-04-15",
+            "checkout": "2026-09-09"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

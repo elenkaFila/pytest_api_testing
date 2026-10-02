@@ -1,0 +1,13 @@
+{
+    "bookingid": 5035,
+    "booking": {
+        "firstname": "Brady",
+        "lastname": "Moon",
+        "totalprice": 788,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-10-23",
+            "checkout": "2026-10-14"
+        }
+    }
+}
