@@ -1,0 +1,14 @@
+{
+    "bookingid": 3177,
+    "booking": {
+        "firstname": "Joyce",
+        "lastname": "Nunez",
+        "totalprice": 873,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-10-06",
+            "checkout": "2026-10-20"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

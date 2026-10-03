@@ -1,0 +1,13 @@
+{
+    "bookingid": 3147,
+    "booking": {
+        "firstname": "Erik",
+        "lastname": "Woods",
+        "totalprice": 372,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-10-06",
+            "checkout": "2026-10-20"
+        }
+    }
+}
