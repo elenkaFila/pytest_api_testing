@@ -1,0 +1,14 @@
+{
+    "bookingid": 2085,
+    "booking": {
+        "firstname": "Melvin",
+        "lastname": "Farmer",
+        "totalprice": 821,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-10-12",
+            "checkout": "2026-09-27"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
