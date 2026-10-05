@@ -1,0 +1,14 @@
+{
+    "bookingid": 1309,
+    "booking": {
+        "firstname": "Brenda",
+        "lastname": "Meyer",
+        "totalprice": 706,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-11-06"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

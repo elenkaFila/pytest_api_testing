@@ -1,0 +1,14 @@
+{
+    "bookingid": 1341,
+    "booking": {
+        "firstname": "Natasha",
+        "lastname": "Ramirez",
+        "totalprice": 743,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-10-09",
+            "checkout": "2026-11-06"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

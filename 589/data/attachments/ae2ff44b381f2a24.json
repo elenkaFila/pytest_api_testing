@@ -1,0 +1,14 @@
+{
+    "bookingid": 1335,
+    "booking": {
+        "firstname": "Jill",
+        "lastname": "Delgado",
+        "totalprice": 600,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-10-09",
+            "checkout": "2026-11-06"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
