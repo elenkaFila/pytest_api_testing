@@ -1,0 +1,14 @@
+{
+    "bookingid": 3060,
+    "booking": {
+        "firstname": "Jody",
+        "lastname": "Powers",
+        "totalprice": 257,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-10-18"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

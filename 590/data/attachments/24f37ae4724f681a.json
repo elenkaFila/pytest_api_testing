@@ -1,0 +1,14 @@
+{
+    "bookingid": 3063,
+    "booking": {
+        "firstname": "Kristine",
+        "lastname": "Estrada",
+        "totalprice": 505,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-10-11",
+            "checkout": "2026-09-13"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
