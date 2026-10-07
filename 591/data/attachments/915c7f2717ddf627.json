@@ -1,0 +1,14 @@
+{
+    "bookingid": 5016,
+    "booking": {
+        "firstname": "Amy",
+        "lastname": "Nelson",
+        "totalprice": 641,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-10-28",
+            "checkout": "2026-11-13"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
