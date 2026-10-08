@@ -1,0 +1,14 @@
+{
+    "bookingid": 1421,
+    "booking": {
+        "firstname": "Melissa",
+        "lastname": "Walls",
+        "totalprice": 310,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-11-10"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 1420,
+    "booking": {
+        "firstname": "Cheryl",
+        "lastname": "Contreras",
+        "totalprice": 679,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

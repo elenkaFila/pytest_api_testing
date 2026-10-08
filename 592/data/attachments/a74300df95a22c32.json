@@ -1,0 +1,14 @@
+{
+    "bookingid": 1417,
+    "booking": {
+        "firstname": "Wanda",
+        "lastname": "Whitaker",
+        "totalprice": 750,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-10-08",
+            "checkout": "2026-10-08"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
