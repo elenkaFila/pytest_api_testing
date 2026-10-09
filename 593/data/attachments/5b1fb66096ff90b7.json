@@ -1,0 +1,13 @@
+{
+    "bookingid": 2609,
+    "booking": {
+        "firstname": "Jonathan",
+        "lastname": "Hicks",
+        "totalprice": 602,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-10-23",
+            "checkout": "2026-11-11"
+        }
+    }
+}
