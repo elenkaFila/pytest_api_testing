@@ -1,0 +1,14 @@
+{
+    "bookingid": 4324,
+    "booking": {
+        "firstname": "Melinda",
+        "lastname": "Bennett",
+        "totalprice": 478,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-10-20",
+            "checkout": "2026-09-19"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
