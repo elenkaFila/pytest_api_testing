@@ -1,0 +1,13 @@
+{
+    "bookingid": 5355,
+    "booking": {
+        "firstname": "Angela",
+        "lastname": "Bullock",
+        "totalprice": 376,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-11-04",
+            "checkout": "2026-11-05"
+        }
+    }
+}
