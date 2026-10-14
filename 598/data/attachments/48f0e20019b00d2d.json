@@ -1,0 +1,14 @@
+{
+    "bookingid": 4778,
+    "booking": {
+        "firstname": "Corey",
+        "lastname": "Brooks",
+        "totalprice": 808,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-10-21",
+            "checkout": "2026-10-30"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
