@@ -1,0 +1,13 @@
+{
+    "bookingid": 4501,
+    "booking": {
+        "firstname": "Jennifer",
+        "lastname": "Osborn",
+        "totalprice": 724,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-10-21",
+            "checkout": "2026-11-13"
+        }
+    }
+}

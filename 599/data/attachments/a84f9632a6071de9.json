@@ -1,0 +1,14 @@
+{
+    "bookingid": 4484,
+    "booking": {
+        "firstname": "Kevin",
+        "lastname": "Sharp",
+        "totalprice": 892,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-10-15",
+            "checkout": "2026-10-15"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "firstname": "Jillian",
+    "lastname": "Williams",
+    "totalprice": 428,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2026-10-21",
+        "checkout": "2026-11-13"
+    },
+    "additionalneeds": "Breakfast"
+}
