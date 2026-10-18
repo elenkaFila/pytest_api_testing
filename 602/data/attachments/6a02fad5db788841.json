@@ -1,0 +1,14 @@
+{
+    "bookingid": 3102,
+    "booking": {
+        "firstname": "Jacob",
+        "lastname": "Alvarado",
+        "totalprice": 794,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-11-06"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
