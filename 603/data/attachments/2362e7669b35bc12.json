@@ -1,0 +1,14 @@
+{
+    "bookingid": 2136,
+    "booking": {
+        "firstname": "Christopher",
+        "lastname": "King",
+        "totalprice": 400,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-11-03",
+            "checkout": "2026-11-09"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

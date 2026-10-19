@@ -1,0 +1,14 @@
+{
+    "bookingid": 2096,
+    "booking": {
+        "firstname": "Bobby",
+        "lastname": "Vance",
+        "totalprice": 962,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-11-03",
+            "checkout": "2026-11-09"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
