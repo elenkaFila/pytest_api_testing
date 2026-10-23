@@ -1,0 +1,14 @@
+{
+    "bookingid": 478,
+    "booking": {
+        "firstname": "Austin",
+        "lastname": "Gardner",
+        "totalprice": 100,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-05-16",
+            "checkout": "2026-10-21"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

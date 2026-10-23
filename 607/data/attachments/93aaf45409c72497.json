@@ -1,0 +1,14 @@
+{
+    "bookingid": 485,
+    "booking": {
+        "firstname": "Allison",
+        "lastname": "Pratt",
+        "totalprice": 188,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-11-20"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
