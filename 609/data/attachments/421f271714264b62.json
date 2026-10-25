@@ -1,0 +1,14 @@
+{
+    "bookingid": 2106,
+    "booking": {
+        "firstname": "Christopher",
+        "lastname": "Hines",
+        "totalprice": 347,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-11-20",
+            "checkout": "2026-11-19"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
