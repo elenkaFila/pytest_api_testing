@@ -1,0 +1,14 @@
+{
+    "bookingid": 4427,
+    "booking": {
+        "firstname": "Justin",
+        "lastname": "Torres",
+        "totalprice": 787,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-10-26",
+            "checkout": "2026-10-26"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
