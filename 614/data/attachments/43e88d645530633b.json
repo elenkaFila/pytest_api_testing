@@ -1,0 +1,14 @@
+{
+    "bookingid": 423,
+    "booking": {
+        "firstname": "Evan",
+        "lastname": "Weaver",
+        "totalprice": 968,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-05-12",
+            "checkout": "2026-10-10"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

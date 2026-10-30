@@ -1,0 +1,13 @@
+{
+    "bookingid": 431,
+    "booking": {
+        "firstname": "Jessica",
+        "lastname": "Cook",
+        "totalprice": 784,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-11-14",
+            "checkout": "2026-11-24"
+        }
+    }
+}

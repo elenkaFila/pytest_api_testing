@@ -1,0 +1,14 @@
+{
+    "bookingid": 426,
+    "booking": {
+        "firstname": "Jason",
+        "lastname": "Ward",
+        "totalprice": 241,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-11-24"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

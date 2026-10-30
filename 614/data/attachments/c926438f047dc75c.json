@@ -1,0 +1,14 @@
+{
+    "bookingid": 433,
+    "booking": {
+        "firstname": "Brenda",
+        "lastname": "Rose",
+        "totalprice": 360,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-11-14",
+            "checkout": "2026-11-24"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
