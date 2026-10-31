@@ -1,0 +1,14 @@
+{
+    "bookingid": 507,
+    "booking": {
+        "firstname": "Jasmine",
+        "lastname": "Vasquez",
+        "totalprice": null,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-11-05",
+            "checkout": "2026-12-09"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

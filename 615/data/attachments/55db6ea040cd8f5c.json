@@ -1,0 +1,14 @@
+{
+    "bookingid": 422,
+    "booking": {
+        "firstname": "Veronica",
+        "lastname": "Vazquez",
+        "totalprice": 564,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-11-05",
+            "checkout": "2026-12-09"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

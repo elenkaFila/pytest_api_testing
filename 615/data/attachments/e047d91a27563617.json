@@ -1,0 +1,14 @@
+{
+    "bookingid": 474,
+    "booking": {
+        "firstname": "Jasmine",
+        "lastname": "Vasquez",
+        "totalprice": 336,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-11-05",
+            "checkout": "2026-12-09"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
