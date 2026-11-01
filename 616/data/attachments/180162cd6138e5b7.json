@@ -1,0 +1,14 @@
+{
+    "bookingid": 1441,
+    "booking": {
+        "firstname": "Harold",
+        "lastname": "Waters",
+        "totalprice": 282,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-11-22",
+            "checkout": "2026-10-29"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
