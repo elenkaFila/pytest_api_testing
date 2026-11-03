@@ -1,0 +1,14 @@
+{
+    "bookingid": 3250,
+    "booking": {
+        "firstname": "Danielle",
+        "lastname": "Keller",
+        "totalprice": 561,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-11-11",
+            "checkout": "2026-12-06"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
