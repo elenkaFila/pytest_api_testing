@@ -1,0 +1,14 @@
+{
+    "bookingid": 1113,
+    "booking": {
+        "firstname": "Frank",
+        "lastname": "Moreno",
+        "totalprice": 716,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-11-16",
+            "checkout": "2026-11-24"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 1084,
+    "booking": {
+        "firstname": "Tina",
+        "lastname": "Stevens",
+        "totalprice": 994,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-11-04",
+            "checkout": "2026-11-04"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
