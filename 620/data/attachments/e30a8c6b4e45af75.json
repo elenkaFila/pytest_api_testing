@@ -1,0 +1,14 @@
+{
+    "bookingid": 2559,
+    "booking": {
+        "firstname": "Sandra",
+        "lastname": "Gilmore",
+        "totalprice": 670,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-11-22"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

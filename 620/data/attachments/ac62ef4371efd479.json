@@ -1,0 +1,14 @@
+{
+    "bookingid": 2557,
+    "booking": {
+        "firstname": "Duane",
+        "lastname": "Skinner",
+        "totalprice": 808,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 2554,
+    "booking": {
+        "firstname": "James",
+        "lastname": "Ortega",
+        "totalprice": 682,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-11-05",
+            "checkout": "2026-11-05"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 2564,
+    "booking": {
+        "firstname": "Vincent",
+        "lastname": "Hayes",
+        "totalprice": 380,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-11-08",
+            "checkout": "2026-11-22"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
