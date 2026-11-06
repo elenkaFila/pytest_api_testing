@@ -1,0 +1,14 @@
+{
+    "bookingid": 3293,
+    "booking": {
+        "firstname": "Elizabeth",
+        "lastname": "Noble",
+        "totalprice": 403,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-11-06",
+            "checkout": "2026-11-06"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

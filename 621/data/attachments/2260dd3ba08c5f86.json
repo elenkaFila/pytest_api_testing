@@ -1,0 +1,14 @@
+{
+    "bookingid": 3310,
+    "booking": {
+        "firstname": "Wesley",
+        "lastname": "Cooper",
+        "totalprice": 767,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-12-10"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

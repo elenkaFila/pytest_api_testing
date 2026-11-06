@@ -1,0 +1,14 @@
+{
+    "bookingid": 3497,
+    "booking": {
+        "firstname": "Alexis",
+        "lastname": "Sosa",
+        "totalprice": null,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-12-02",
+            "checkout": "2026-12-10"
+        },
+        "additionalneeds": "breakfast, pool, lunch"
+    }
+}

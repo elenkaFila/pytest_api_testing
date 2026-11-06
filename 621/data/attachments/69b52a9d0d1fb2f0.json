@@ -1,0 +1,11 @@
+{
+    "firstname": "Alexis",
+    "lastname": "Sosa",
+    "totalprice": 630,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2026-12-02",
+        "checkout": "2026-12-10"
+    },
+    "additionalneeds": "Breakfast"
+}
