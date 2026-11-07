@@ -1,0 +1,14 @@
+{
+    "bookingid": 3349,
+    "booking": {
+        "firstname": "Joshua",
+        "lastname": "Soto",
+        "totalprice": 311,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-11-07",
+            "checkout": "2026-11-07"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

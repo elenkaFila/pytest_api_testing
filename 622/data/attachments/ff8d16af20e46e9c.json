@@ -1,0 +1,13 @@
+{
+    "bookingid": 3362,
+    "booking": {
+        "firstname": "Christopher",
+        "lastname": "Miller",
+        "totalprice": 968,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-11-26",
+            "checkout": "2026-11-19"
+        }
+    }
+}

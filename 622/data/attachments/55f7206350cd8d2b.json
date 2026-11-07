@@ -1,0 +1,14 @@
+{
+    "bookingid": 3356,
+    "booking": {
+        "firstname": "Jamie",
+        "lastname": "Schultz",
+        "totalprice": 931,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-11-26",
+            "checkout": "2026-10-10"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
