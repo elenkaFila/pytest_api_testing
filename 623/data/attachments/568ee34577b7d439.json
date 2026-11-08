@@ -1,0 +1,14 @@
+{
+    "bookingid": 968,
+    "booking": {
+        "firstname": "Elizabeth",
+        "lastname": "Tate",
+        "totalprice": 419,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-11-25",
+            "checkout": "2026-11-30"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "bookingid": 930,
+    "booking": {
+        "firstname": "John",
+        "lastname": "Archer",
+        "totalprice": 704,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-11-25",
+            "checkout": "2026-11-30"
+        }
+    }
+}

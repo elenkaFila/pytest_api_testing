@@ -1,0 +1,14 @@
+{
+    "bookingid": 918,
+    "booking": {
+        "firstname": "Dylan",
+        "lastname": "Mccoy",
+        "totalprice": 541,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-11-30"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
