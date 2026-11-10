@@ -1,0 +1,14 @@
+{
+    "bookingid": 541,
+    "booking": {
+        "firstname": "Jackie",
+        "lastname": "Hernandez",
+        "totalprice": 453,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-11-12",
+            "checkout": "2026-12-02"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

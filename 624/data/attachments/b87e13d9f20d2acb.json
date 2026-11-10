@@ -1,0 +1,13 @@
+{
+    "bookingid": 539,
+    "booking": {
+        "firstname": "Diane",
+        "lastname": "Lane",
+        "totalprice": 842,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-11-12",
+            "checkout": "2026-12-02"
+        }
+    }
+}
