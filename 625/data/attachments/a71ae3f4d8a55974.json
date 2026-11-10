@@ -1,0 +1,14 @@
+{
+    "bookingid": 897,
+    "booking": {
+        "firstname": "Whitney",
+        "lastname": "Simpson",
+        "totalprice": 812,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-09",
+            "checkout": "2026-10-24"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
