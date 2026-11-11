@@ -1,0 +1,14 @@
+{
+    "bookingid": 2417,
+    "booking": {
+        "firstname": "Melissa",
+        "lastname": "King",
+        "totalprice": 474,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-11-16",
+            "checkout": "2026-12-18"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

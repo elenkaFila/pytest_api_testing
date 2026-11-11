@@ -1,0 +1,13 @@
+{
+    "bookingid": 2363,
+    "booking": {
+        "firstname": "Kayla",
+        "lastname": "Moreno",
+        "totalprice": 739,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-11-16",
+            "checkout": "2026-12-18"
+        }
+    }
+}

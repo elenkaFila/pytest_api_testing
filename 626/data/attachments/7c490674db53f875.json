@@ -1,0 +1,14 @@
+{
+    "bookingid": 2336,
+    "booking": {
+        "firstname": "Sarah",
+        "lastname": "Durham",
+        "totalprice": 215,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-11",
+            "checkout": "2026-10-27"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

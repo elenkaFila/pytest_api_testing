@@ -1,0 +1,14 @@
+{
+    "bookingid": 2341,
+    "booking": {
+        "firstname": "Francis",
+        "lastname": "Washington",
+        "totalprice": 692,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
