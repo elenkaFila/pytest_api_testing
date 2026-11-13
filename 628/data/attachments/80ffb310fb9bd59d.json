@@ -1,0 +1,14 @@
+{
+    "bookingid": 2731,
+    "booking": {
+        "firstname": "David",
+        "lastname": "Santos",
+        "totalprice": 904,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-11-22",
+            "checkout": "2026-12-01"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

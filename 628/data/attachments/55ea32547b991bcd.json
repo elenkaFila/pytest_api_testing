@@ -1,0 +1,14 @@
+{
+    "bookingid": 2586,
+    "booking": {
+        "firstname": "Rhonda",
+        "lastname": "Parker",
+        "totalprice": 822,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-11-13",
+            "checkout": "2026-11-13"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bookingid": 2614,
+    "booking": {
+        "firstname": "Heather",
+        "lastname": "Mcgee",
+        "totalprice": 737,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-11-22",
+            "checkout": "2026-10-15"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
