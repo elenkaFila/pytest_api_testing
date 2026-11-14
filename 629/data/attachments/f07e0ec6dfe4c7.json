@@ -1,0 +1,14 @@
+{
+    "bookingid": 880,
+    "booking": {
+        "firstname": "Blake",
+        "lastname": "Hill",
+        "totalprice": 923,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "2026-12-22"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

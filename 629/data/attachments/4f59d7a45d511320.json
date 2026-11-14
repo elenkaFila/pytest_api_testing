@@ -1,0 +1,14 @@
+{
+    "bookingid": 874,
+    "booking": {
+        "firstname": "Jesus",
+        "lastname": "Ortega",
+        "totalprice": 379,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
