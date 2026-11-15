@@ -1,0 +1,13 @@
+{
+    "bookingid": 623,
+    "booking": {
+        "firstname": "Pamela",
+        "lastname": "Knox",
+        "totalprice": 257,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-11-24",
+            "checkout": "2026-12-21"
+        }
+    }
+}
