@@ -1,0 +1,14 @@
+{
+    "bookingid": 1835,
+    "booking": {
+        "firstname": "Lauren",
+        "lastname": "Barr",
+        "totalprice": 770,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "0NaN-aN-aN",
+            "checkout": "0NaN-aN-aN"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
