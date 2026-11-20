@@ -1,0 +1,13 @@
+{
+    "bookingid": 1192,
+    "booking": {
+        "firstname": "Shannon",
+        "lastname": "Wright",
+        "totalprice": 535,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-12-13",
+            "checkout": "2026-12-10"
+        }
+    }
+}

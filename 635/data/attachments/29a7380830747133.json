@@ -1,0 +1,14 @@
+{
+    "bookingid": 1159,
+    "booking": {
+        "firstname": "Gabrielle",
+        "lastname": "Miller",
+        "totalprice": 717,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-09",
+            "checkout": "2026-11-10"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
