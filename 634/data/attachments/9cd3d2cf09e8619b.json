@@ -1,0 +1,14 @@
+{
+    "bookingid": 2820,
+    "booking": {
+        "firstname": "Logan",
+        "lastname": "Lopez",
+        "totalprice": 707,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-12-12",
+            "checkout": "2026-12-29"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
