@@ -1,0 +1,14 @@
+{
+    "bookingid": 4897,
+    "booking": {
+        "firstname": "Virginia",
+        "lastname": "Li",
+        "totalprice": 426,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-12-15",
+            "checkout": "2026-12-13"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
