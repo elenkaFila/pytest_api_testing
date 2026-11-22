@@ -1,0 +1,14 @@
+{
+    "bookingid": 1222,
+    "booking": {
+        "firstname": "Justin",
+        "lastname": "Chaney",
+        "totalprice": 940,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-12-07",
+            "checkout": "2026-12-21"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

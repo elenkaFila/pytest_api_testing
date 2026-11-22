@@ -1,0 +1,14 @@
+{
+    "bookingid": 1206,
+    "booking": {
+        "firstname": "Lynn",
+        "lastname": "Wyatt",
+        "totalprice": 625,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-11-22",
+            "checkout": "2026-11-22"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
