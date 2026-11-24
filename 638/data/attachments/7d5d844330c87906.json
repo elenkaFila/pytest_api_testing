@@ -1,0 +1,14 @@
+{
+    "bookingid": 449,
+    "booking": {
+        "firstname": "Jasmine",
+        "lastname": "Pittman",
+        "totalprice": 962,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-12-09",
+            "checkout": "2026-12-22"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}
