@@ -1,0 +1,14 @@
+{
+    "bookingid": 4068,
+    "booking": {
+        "firstname": "Gloria",
+        "lastname": "Allen",
+        "totalprice": 689,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-12-07",
+            "checkout": "2026-12-17"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
