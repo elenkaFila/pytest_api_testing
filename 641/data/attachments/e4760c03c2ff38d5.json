@@ -1,0 +1,14 @@
+{
+    "bookingid": 844,
+    "booking": {
+        "firstname": "Jill",
+        "lastname": "Harris",
+        "totalprice": 610,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-06-02",
+            "checkout": "2026-11-08"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

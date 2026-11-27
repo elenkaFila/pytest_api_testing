@@ -1,0 +1,14 @@
+{
+    "bookingid": 878,
+    "booking": {
+        "firstname": "Sara",
+        "lastname": "Moore",
+        "totalprice": 899,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-12-13",
+            "checkout": "2026-12-15"
+        },
+        "additionalneeds": "breakfast, pool"
+    }
+}

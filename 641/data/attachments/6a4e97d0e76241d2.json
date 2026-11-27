@@ -1,0 +1,14 @@
+{
+    "bookingid": 902,
+    "booking": {
+        "firstname": "Rachel",
+        "lastname": "Mendez",
+        "totalprice": 895,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-12-13",
+            "checkout": "2026-12-15"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
